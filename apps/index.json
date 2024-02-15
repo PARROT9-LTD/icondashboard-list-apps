@@ -329,7 +329,7 @@
             "url": "",
             "logo": "",
             "preview": "",
-            "showInChart": true,
+            "showInChart": false,
             "contracts": [
                 "cx14002628a4599380f391f708843044bc93dce27d",
                 "cx210ded1e8e109a93c89e9e5a5d0dcbc48ef90394"
