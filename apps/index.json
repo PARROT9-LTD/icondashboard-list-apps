@@ -402,7 +402,44 @@
             "id": "balanced",
             "name": "Balanced",
             "symbol": "BALN",
-            "contract": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619"
+            "contract": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
+            "supportedApps": ["balanced", "optimus"],
+            "page": {
+                "description": "bnUSD is a decentralised stablecoin that tracks the value of 1 USD./n/nIt uses cryptocurrency as collateral to guarantee its value, with support for assets from a variety of blockchains. bnUSD is not experimental or algorithmic: it’s over-collateralised, so the **total supply cannot exceed the value that backs it**./n/nYou can borrow Balanced Dollars on Balanced for a one-off fee, or buy some from the [Balanced exchange](https://balanced.network). bnUSD is ideal for leverage, liquidity, and payments on the ICON blockchain — and every chain it connects to./n /n [Learn more about the Balanced stablecoin](https://balanced.network/stablecoin/).",
+                "colors": {
+                    "primary": "#0c2a4d",
+                    "active": "#2ca9b7"
+                },
+                "meta": {
+                  "release": "April 26, 2021",
+                  "availableOn": "ICON",
+                  "tags": ["DeFi", "Governance"],
+                  "links": [{
+                    "name": "Website",
+                    "url": "https://balanced.network/"
+                  }, {
+                    "name": "App",
+                    "url": "https://app.balanced.network/"
+                  }, 
+                  {
+                    "name": "Blog",
+                    "url": "https://blog.balanced.network/"
+                  }, 
+                  {
+                    "name": "Forum",
+                    "url": "https://gov.balanced.network/"
+                  }, 
+                  {
+                    "name": "Docs",
+                    "url": "https://docs.balanced.network/"
+                  }],
+                  "socials": {
+                    "twitter": "https://twitter.com/BalancedDAO",
+                    "reddit": "https://www.reddit.com/r/BalancedNetwork/",
+                    "discord": "https://discord.com/invite/DCa53m9wPq"
+                  }
+                }
+            }
         },
         {
             "id": "omm",
