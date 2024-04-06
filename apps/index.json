@@ -8,7 +8,7 @@
             "description": "DEX, Loans",
             "url": "https://balanced.network/",
             "logo": "",
-            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/balanced/preview.png",
+            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/preview.png",
             "showInChart": true,
             "contracts": [
                 "cx66d4d90f5f113eba575bf793570135f9b10cece1",
@@ -56,7 +56,7 @@
             "description": "Liquid Staking, governance",
             "url": "https://omm.finance/",
             "logo": "",
-            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/omm/preview.png",
+            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/preview.png",
             "showInChart": true,
             "contracts": [
                 "cxeaff5a10cb72bf85965b8b4af3e708ab772b7921",
@@ -75,7 +75,7 @@
             "url": "https://craft.network/",
             "logo": "",
             "showInChart": true,
-            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/craft/preview.png",
+            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/preview.png",
             "contracts": [
                 "cx2e6d0fc0eca04965d06038c8406093337f085fcf",
                 "cxf3ba4534fcf1e76f4561170a81f56b40f89324b0",
@@ -133,7 +133,7 @@
             "description": "",
             "url": "",
             "logo": "",
-            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/gangstaverse/preview.png",
+            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/preview.png",
             "showInChart": true,
             "contracts": [
                 "cxc499adbab72acece15f369916298324c37079934",
@@ -167,7 +167,7 @@
             "description": "",
             "url": "",
             "logo": "",
-            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/framd/preview.png",
+            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/preview.png",
             "showInChart": true,
             "contracts": [
                 "cx2aa9b28a657e3121b75d3d4fe65e569398645d56",
@@ -255,7 +255,7 @@
             "description": "",
             "url": "",
             "logo": "",
-            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/optimus/preview.png",
+            "preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/optimus/preview.png",
             "showInChart": true,
             "contracts": [
                 "cx05127d5e78512188a4d9553e990c9ebafb7ba73b",
