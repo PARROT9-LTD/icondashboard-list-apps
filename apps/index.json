@@ -405,7 +405,7 @@
             "contract": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
             "supportedApps": ["balanced", "optimus"],
             "page": {
-                "description": "bnUSD is a decentralised stablecoin that tracks the value of 1 USD.\n \n It uses cryptocurrency as collateral to guarantee its value, with support for assets from a variety of blockchains. bnUSD is not experimental or algorithmic: it’s over-collateralised, so the **total supply cannot exceed the value that backs it**.\n \n You can borrow Balanced Dollars on Balanced for a one-off fee, or buy some from the [Balanced exchange](https://balanced.network). bnUSD is ideal for leverage, liquidity, and payments on the ICON blockchain — and every chain it connects to.\n \n [Learn more about the Balanced stablecoin](https://balanced.network/stablecoin/).",
+                "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
                 "colors": {
                     "primary": "#0c2a4d",
                     "active": "#2ca9b7",
@@ -465,7 +465,46 @@
             "id": "bnusd",
             "name": "Balanced Dollar",
             "symbol": "bnUSD",
-            "contract": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb"
+            "contract": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb",
+            "supportedApps": ["balanced", "optimus"],
+            "page": {
+                "description": "bnUSD is a decentralised stablecoin that tracks the value of 1 USD.\n \n It uses cryptocurrency as collateral to guarantee its value, with support for assets from a variety of blockchains. bnUSD is not experimental or algorithmic: it’s over-collateralised, so the **total supply cannot exceed the value that backs it**.\n \n You can borrow Balanced Dollars on Balanced for a one-off fee, or buy some from the [Balanced exchange](https://balanced.network). bnUSD is ideal for leverage, liquidity, and payments on the ICON blockchain — and every chain it connects to.\n \n [Learn more about the Balanced stablecoin](https://balanced.network/stablecoin/).",
+                "colors": {
+                    "primary": "#0c2a4d",
+                    "active": "#2ca9b7",
+                    "link": "#46bfd1",
+                    "bgFontColor": "#ffffff"
+                },
+                "meta": {
+                  "release": "April 26, 2021",
+                  "availableOn": "ICON",
+                  "tags": ["DeFi"],
+                  "links": [{
+                    "name": "Website",
+                    "url": "https://balanced.network/"
+                  }, {
+                    "name": "App",
+                    "url": "https://app.balanced.network/"
+                  }, 
+                  {
+                    "name": "Blog",
+                    "url": "https://blog.balanced.network/"
+                  }, 
+                  {
+                    "name": "Forum",
+                    "url": "https://gov.balanced.network/"
+                  }, 
+                  {
+                    "name": "Docs",
+                    "url": "https://docs.balanced.network/"
+                  }],
+                  "socials": {
+                    "twitter": "https://twitter.com/BalancedDAO",
+                    "reddit": "https://www.reddit.com/r/BalancedNetwork/",
+                    "discord": "https://discord.com/invite/DCa53m9wPq"
+                  }
+                }
+            }
         },
         {
             "id": "balanced",
