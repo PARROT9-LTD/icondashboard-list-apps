@@ -447,7 +447,7 @@
             "id": "omm",
             "name": "Omm",
             "symbol": "OMM",
-            "contract": "cx1a29259a59f463a67bb2ef84398b30ca56b5830a"
+            "contract": "cx1a29259a59f463a67bb2ef84398b30ca56b5830a",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
@@ -492,7 +492,7 @@
             "id": "craft",
             "name": "Craft",
             "symbol": "CFT",
-            "contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf"
+            "contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
@@ -537,7 +537,7 @@
             "id": "sicx",
             "name": "Staked ICX",
             "symbol": "sICX",
-            "contract": "cx2609b924e33ef00b648a409245c7ea394c467824"
+            "contract": "cx2609b924e33ef00b648a409245c7ea394c467824",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
@@ -627,7 +627,7 @@
             "id": "crown",
             "name": "CROWN",
             "symbol": "CROWN",
-            "contract": "cx28b2ec885b50c8a93da752f2d0467a67127a70e8"
+            "contract": "cx28b2ec885b50c8a93da752f2d0467a67127a70e8",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
@@ -672,7 +672,7 @@
             "id": "fin",
             "name": "FIN Token",
             "symbol": "FIN",
-            "contract": "cx785d504f44b5d2c8dac04c5a1ecd75f18ee57d16"
+            "contract": "cx785d504f44b5d2c8dac04c5a1ecd75f18ee57d16",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
@@ -717,7 +717,7 @@
             "id": "sarch",
             "name": "Staked ARCH",
             "symbol": "sARCH",
-            "contract": "cxfe94530ee0d159db3e5b7dcffbcd0dfb360075c0"
+            "contract": "cxfe94530ee0d159db3e5b7dcffbcd0dfb360075c0",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
@@ -762,7 +762,7 @@
             "id": "gbet",
             "name": "GBET Token",
             "symbol": "GBET",
-            "contract": "cx6139a27c15f1653471ffba0b4b88dc15de7e3267"
+            "contract": "cx6139a27c15f1653471ffba0b4b88dc15de7e3267",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
@@ -807,7 +807,7 @@
             "id": "blobble",
             "name": "Blobble STake Token",
             "symbol": "BST",
-            "contract": "cxf14dea1cff7ceb29a46e6d04533a08f84441e41d"
+            "contract": "cxf14dea1cff7ceb29a46e6d04533a08f84441e41d",
             "supportedApps": ["balanced", "optimus"],
             "page": {
                 "description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
