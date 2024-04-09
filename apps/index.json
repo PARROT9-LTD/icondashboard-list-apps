@@ -414,7 +414,7 @@
                 },
                 "meta": {
                   "release": "April 26, 2021",
-                  "availableOn": "ICON"
+                  "availableOn": "ICON",
                   "tags": ["DeFi", "Governance"],
                   "links": [{
                     "name": "Website",
@@ -581,7 +581,7 @@
                 },
                 "meta": {
                   "release": "April 26, 2021",
-                  "availableOn": "ICON",
+                  "availableOn": ["ICON", "Archway"],
                   "tags": ["DeFi"],
                   "links": [{
                     "name": "Website",
