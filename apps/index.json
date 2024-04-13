@@ -385,7 +385,7 @@
 			"contract": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
 			"supportedApps": ["balanced", "optimus"],
 			"page": {
-				"description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
+				"description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced’s network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/).",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -394,7 +394,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -419,9 +419,9 @@
 						}
 					],
 					"socials": {
+						"discord": "https://discord.com/invite/DCa53m9wPq",
 						"twitter": "https://twitter.com/BalancedDAO",
-						"reddit": "https://www.reddit.com/r/BalancedNetwork/",
-						"discord": "https://discord.com/invite/DCa53m9wPq"
+						"github": "https://github.com/balancednetwork"
 					}
 				}
 			}
@@ -433,7 +433,7 @@
 			"contract": "cx1a29259a59f463a67bb2ef84398b30ca56b5830a",
 			"supportedApps": ["balanced", "optimus"],
 			"page": {
-				"description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
+				"description": "OMM is the governance token for [Omm](https://omm.finance/), a liquid staking app on the ICON blockchain.\n\nLock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain.",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -441,35 +441,31 @@
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
-					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"release": "August 31, 2021",
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
 							"name": "Website",
-							"url": "https://balanced.network/"
+							"url": "https://omm.finance/"
 						},
 						{
 							"name": "App",
-							"url": "https://app.balanced.network/"
-						},
-						{
-							"name": "Blog",
-							"url": "https://blog.balanced.network/"
+							"url": "https://app.omm.finance/"
 						},
 						{
 							"name": "Forum",
-							"url": "https://gov.balanced.network/"
+							"url": "https://forum.omm.finance/"
 						},
 						{
 							"name": "Docs",
-							"url": "https://docs.balanced.network/"
+							"url": "https://docs.omm.finance/"
 						}
 					],
 					"socials": {
-						"twitter": "https://twitter.com/BalancedDAO",
-						"reddit": "https://www.reddit.com/r/BalancedNetwork/",
-						"discord": "https://discord.com/invite/DCa53m9wPq"
+						"discord": "https://discord.com/invite/zZcQUGbpVk",
+						"twitter": "https://twitter.com/ommfinance",
+						"github": "https://github.com/ommfinance"
 					}
 				}
 			}
@@ -479,9 +475,9 @@
 			"name": "Craft",
 			"symbol": "CFT",
 			"contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf",
-			"supportedApps": ["balanced", "optimus"],
+			"supportedApps": ["balanced"],
 			"page": {
-				"description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
+				"description": "CFT is the [Craft]() governance token.\n\nStake CFT to hold voting power and earn a share of the platform fees. To earn CFT, buy and sell NFTs on Craft. You can also use your existing CFT to participate in additional earning opportunities.",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -489,35 +485,30 @@
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
-					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
-					"tags": ["DeFi", "Governance"],
+					"release": "August 3, 2021",
+					"availableOn": "ICON",
+					"tags": ["NFT", "Governance"],
 					"links": [
 						{
-							"name": "Website",
-							"url": "https://balanced.network/"
-						},
-						{
 							"name": "App",
-							"url": "https://app.balanced.network/"
+							"url": "https://craft.network/"
 						},
 						{
 							"name": "Blog",
-							"url": "https://blog.balanced.network/"
+							"url": "https://medium.com/@craftnetwork"
 						},
 						{
-							"name": "Forum",
-							"url": "https://gov.balanced.network/"
+							"name": "Stats",
+							"url": "https://www.stats.craft.network/"
 						},
 						{
 							"name": "Docs",
-							"url": "https://docs.balanced.network/"
+							"url": "https://docs.craft.network/"
 						}
 					],
 					"socials": {
-						"twitter": "https://twitter.com/BalancedDAO",
-						"reddit": "https://www.reddit.com/r/BalancedNetwork/",
-						"discord": "https://discord.com/invite/DCa53m9wPq"
+						"discord": "https://discord.com/invite/TaG8SfmAVH",
+						"twitter": "https://twitter.com/craftdotnetwork"
 					}
 				}
 			}
@@ -527,9 +518,9 @@
 			"name": "Staked ICX",
 			"symbol": "sICX",
 			"contract": "cx2609b924e33ef00b648a409245c7ea394c467824",
-			"supportedApps": ["balanced", "optimus"],
+			"supportedApps": ["omm", "balanced", "optimus"],
 			"page": {
-				"description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
+				"description": "sICX is a liquid staking token for ICX, the main cryptocurrency of the ICON blockchain. It allows you to earn ICX staking rewards without losing access to your tokens.\n\nIf you need ICX in a hurry, you can pay a 1% fee to swap sICX for ICX through [Balanced]() or [Omm](). And if you care about ICON’s governance system, you can manage your votes through [Omm]().",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -537,35 +528,31 @@
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
-					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"release": "April 24, 2021",
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
 							"name": "Website",
-							"url": "https://balanced.network/"
+							"url": "https://omm.finance/"
 						},
 						{
 							"name": "App",
-							"url": "https://app.balanced.network/"
-						},
-						{
-							"name": "Blog",
-							"url": "https://blog.balanced.network/"
+							"url": "https://app.omm.finance/"
 						},
 						{
 							"name": "Forum",
-							"url": "https://gov.balanced.network/"
+							"url": "https://forum.omm.finance/"
 						},
 						{
 							"name": "Docs",
-							"url": "https://docs.balanced.network/"
+							"url": "https://docs.omm.finance/"
 						}
 					],
 					"socials": {
-						"twitter": "https://twitter.com/BalancedDAO",
-						"reddit": "https://www.reddit.com/r/BalancedNetwork/",
-						"discord": "https://discord.com/invite/DCa53m9wPq"
+						"discord": "https://discord.com/invite/zZcQUGbpVk",
+						"twitter": "https://twitter.com/ommfinance",
+						"github": "https://github.com/ommfinance"
 					}
 				}
 			}
@@ -577,7 +564,7 @@
 			"contract": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb",
 			"supportedApps": ["balanced", "optimus"],
 			"page": {
-				"description": "bnUSD is a decentralised stablecoin that tracks the value of 1 USD.\n \n It uses cryptocurrency as collateral to guarantee its value, with support for assets from a variety of blockchains. bnUSD is not experimental or algorithmic: it’s over-collateralised, so the **total supply cannot exceed the value that backs it**.\n \n You can borrow Balanced Dollars on Balanced for a one-off fee, or buy some from the [Balanced exchange](https://balanced.network). bnUSD is ideal for leverage, liquidity, and payments on the ICON blockchain — and every chain it connects to.\n \n [Learn more about the Balanced stablecoin](https://balanced.network/stablecoin/).",
+				"description": "bnUSD is a decentralised stablecoin that tracks the value of 1 USD.\n\nIt uses cryptocurrency as collateral to guarantee its value, with support for assets from a variety of blockchains. bnUSD is not experimental or algorithmic: it’s over-collateralised, so the **total supply cannot exceed the value that backs it**.\n\nYou can borrow Balanced Dollars for 2% interest, or buy some on the [Balanced exchange](https://app.balanced.network/trade/). bnUSD is ideal for leverage, liquidity, and payments on the ICON blockchain — and every chain it connects to.\n\n[Learn more about the Balanced stablecoin.](https://balanced.network/stablecoin/)",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -586,7 +573,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": ["ICON", "Archway"],
 					"tags": ["DeFi"],
 					"links": [
 						{
@@ -611,9 +598,9 @@
 						}
 					],
 					"socials": {
+						"discord": "https://discord.com/invite/DCa53m9wPq",
 						"twitter": "https://twitter.com/BalancedDAO",
-						"reddit": "https://www.reddit.com/r/BalancedNetwork/",
-						"discord": "https://discord.com/invite/DCa53m9wPq"
+						"github": "https://github.com/balancednetwork"
 					}
 				}
 			}
@@ -623,7 +610,7 @@
 			"name": "CROWN",
 			"symbol": "CROWN",
 			"contract": "cx28b2ec885b50c8a93da752f2d0467a67127a70e8",
-			"supportedApps": ["balanced", "optimus"],
+			"supportedApps": ["balanced"],
 			"page": {
 				"description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced's network fees.\n\nTo earn BALN, borrow Balanced Dollars (bnUSD) or supply liquidity to the [Balanced exchange](https://app.balanced.network/). You can also use your existing BALN to participate in additional earning opportunities.",
 				"colors": {
@@ -634,7 +621,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -682,7 +669,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -730,7 +717,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -778,7 +765,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -826,7 +813,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": "ICON",
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
