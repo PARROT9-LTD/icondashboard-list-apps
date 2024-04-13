@@ -394,7 +394,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -442,7 +442,7 @@
 				},
 				"meta": {
 					"release": "August 31, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -486,7 +486,7 @@
 				},
 				"meta": {
 					"release": "August 3, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["NFT", "Governance"],
 					"links": [
 						{
@@ -529,7 +529,7 @@
 				},
 				"meta": {
 					"release": "April 24, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -621,7 +621,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -669,7 +669,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -717,7 +717,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -765,7 +765,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -813,7 +813,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": "ICON",
+					"availableOn": ["ICON"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
