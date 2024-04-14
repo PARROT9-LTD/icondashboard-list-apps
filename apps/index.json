@@ -10,6 +10,85 @@
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/preview.png",
 			"showInChart": true,
+			"supportedAssets": ["ICX", "sICX", "bnUSD", "BALN", "CFT"],
+			"page": {
+				"gallery": {
+					"main": {
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
+						"description": "Main photo"
+					},
+					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-home.png",
+							"description": "Description Photo 1"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-trade.png",
+							"description": "Description Photo 2"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-how.png",
+							"description": "Description Photo 3"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-stablecoin.png",
+							"description": "Description Photo 4"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
+							"description": "Description Photo 5"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
+							"description": "Description Photo 6"
+						}
+					]
+				},
+				"description": "Balanced is the flagship DeFi product of the ICON ecosystem. You can use it to borrow Balanced Dollars, trade cryptoassets, provide liquidity, and participate in Balanced governance.\n\nThe Balanced Dollar (bnUSD) is a stablecoin that tracks the value of 1 USD. You can borrow it against a variety of collateral types for a small fee, then use it to supply liquidity on the Balanced exchange.\n\nBalanced is community-owned, so it incentivises borrowers and liquidity providers with BALN, its governance token. Lock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), which gives you voting power and boosts your earning potential.",
+				"meta": {
+					"releasedOn": "April 25, 2021",
+					"tagLine": "The stablecoin and exchange crafted for simplicity.",
+					"audits": [
+						{
+							"url": "",
+							"name": ""
+						},
+						{
+							"url": "",
+							"name": ""
+						}
+					],
+					"tags": ["DeFi", "Stablecoin", "DEX"],
+
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://balanced.network/"
+						},
+						{
+							"name": "App",
+							"url": "https://app.balanced.network/"
+						},
+						{
+							"name": "Blog",
+							"url": "https://blog.balanced.network/"
+						},
+						{
+							"name": "Forum",
+							"url": "https://gov.balanced.network/"
+						},
+						{
+							"name": "Docs",
+							"url": "https://docs.balanced.network/"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/BalancedDAO",
+						"reddit": "https://www.reddit.com/r/BalancedNetwork/",
+						"discord": "https://discord.com/invite/DCa53m9wPq"
+					}
+				}
+			},
 			"contracts": [
 				"cx66d4d90f5f113eba575bf793570135f9b10cece1",
 				"cx43e2eec79eb76293c298f2b17aec06097be606e0",
