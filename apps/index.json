@@ -5,7 +5,7 @@
 		{
 			"id": "balanced",
 			"name": "Balanced",
-			"description": "DEX, Loans",
+			"description": "DEX, loans",
 			"url": "https://balanced.network/",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/preview.png",
@@ -15,33 +15,33 @@
 				"gallery": {
 					"main": {
 						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
-						"description": "Main photo"
+						"description": "The landing page on the Balanced marketing site"
 					},
 					"imgs": [
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-home.png",
-							"description": "Description Photo 1"
+							"description": "The Home page in the Balanced app"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-trade.png",
-							"description": "Description Photo 2"
+							"description": "The Trade page in the Balanced app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-vote.png",
+							"description": "The Vote page in the Balanced app"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-how.png",
-							"description": "Description Photo 3"
+							"description": "The How-to page on the Balanced marketing site"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-stablecoin.png",
-							"description": "Description Photo 4"
+							"description": "The Stablecoin page on the Balanced marketing site"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
-							"description": "Description Photo 5"
+							"description": "The NFT page on the Balanced marketing site"
 						},
-						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
-							"description": "Description Photo 6"
-						}
 					]
 				},
 				"description": "Balanced is the flagship DeFi product of the ICON ecosystem. You can use it to borrow Balanced Dollars, trade cryptoassets, provide liquidity, and participate in Balanced governance.\n\nThe Balanced Dollar (bnUSD) is a stablecoin that tracks the value of 1 USD. You can borrow it against a variety of collateral types for a small fee, then use it to supply liquidity on the Balanced exchange.\n\nBalanced is community-owned, so it incentivises borrowers and liquidity providers with BALN, its governance token. Lock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), which gives you voting power and boosts your earning potential.",
@@ -54,18 +54,8 @@
 				"meta": {
 					"releasedOn": "April 25, 2021",
 					"tagLine": "The stablecoin and exchange crafted for simplicity.",
-					"audits": [
-						{
-							"url": "",
-							"name": ""
-						},
-						{
-							"url": "",
-							"name": ""
-						}
-					],
 					"tags": ["DeFi", "Stablecoin", "DEX"],
-
+					"availableOn": ["ICON", "Archway"],
 					"links": [
 						{
 							"name": "Website",
@@ -138,11 +128,65 @@
 		{
 			"id": "omm",
 			"name": "Omm",
-			"description": "Liquid Staking, governance",
+			"description": "liquid staking, governance",
 			"url": "https://omm.finance/",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/preview.png",
 			"showInChart": true,
+			"supportedAssets": ["OMM", "ICX", "sICX"],
+			"page": {
+				"gallery": {
+					"main": {
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/gallery/landing.png",
+						"description": "The Omm marketing site."
+					},
+					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/gallery/stake.png",
+							"description": "The Stake page in the Omm app, used to stake and unstake ICX."
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/gallery/vote.png",
+							"description": "The Vote page in the Omm app, used to lock up OMM and vote for ICON validators."
+						},
+					]
+				},
+				"description": "Omm is a liquid staking app on the ICON blockchain. It converts ICX to Staked ICX (sICX), an asset that earns staking rewards while remaining available to use.\n\nOmm is a community-owned project with a governance token called OMM. Lock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain. Market participants can still withdraw their funds from [markets.omm.finance](https://markets.omm.finance/).",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#00D3C2",
+					"link": "#1ac0d2",
+					"bgFontColor": "#424C68"
+				},
+				"meta": {
+					"releasedOn": "April 25, 2021",
+					"tagLine": "Liquid staking on the ICON blockchain.",
+					"tags": ["Liquid staking", "DeFi", "Governance"],
+					"availableOn": ["ICON"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://omm.finance"
+						},
+						{
+							"name": "App",
+							"url": "https://app.omm.finance"
+						},
+						{
+							"name": "Forum",
+							"url": "https://forum.omm.finance"
+						},
+						{
+							"name": "Docs",
+							"url": "https://docs.omm.finance"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/ommfinance",
+						"discord": "https://discord.com/invite/zZcQUGbpVk"
+					}
+				}
+			},			
 			"contracts": [
 				"cxeaff5a10cb72bf85965b8b4af3e708ab772b7921",
 				"cx841f29ec6ce98b527d49a275e87d427627f1afe5",
@@ -161,6 +205,72 @@
 			"logo": "",
 			"showInChart": true,
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/preview.png",
+			"supportedAssets": ["CFT", "ICX"],
+			"page": {
+				"gallery": {
+					"main": {
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/landing.png",
+						"description": "The Craft website."
+					},
+					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/collection.png",
+							"description": "The Balanced NFT collection on the Craft website."
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/nft-list.png",
+							"description": "A list of NFTs on the Craft website."
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/launchpad.png",
+							"description": "The NFT launchpad page on the Craft website."
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/cft.png",
+							"description": "The CFT page on the Craft website."
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/neutron.png",
+							"description": "The Neutron landing page on the Craft website."
+						},
+					]
+				},
+				"description": "Craft is ICON’s largest marketplace for crypto collectibles and NFTs. You can use it to browse, mint, buy, sell, and auction NFTs that are cross-chain compatible.\n\nCraft is community-owned, so it incentivises buyers and sellers with CFT, its governance token. Stake CFT to hold voting power and earn a share of the platform fees.\n\nPowered by ICON, Craft is about to take its marketplace cross-chain through an integration with the Neutron blockchain.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#00D3C2",
+					"link": "#1ac0d2",
+					"bgFontColor": "#424C68"
+				},
+				"meta": {
+					"releasedOn": "August 3, 2021",
+					"tagLine": "A community-owned, cross-chain NFT marketplace.",
+					"tags": ["NFT"],
+					"availableOn": ["ICON"],
+					"links": [
+						{
+							"name": "App",
+							"url": "https://craft.network/"
+						},
+						{
+							"name": "Blog",
+							"url": "https://medium.com/@craftnetwork"
+						},
+						{
+							"name": "Stats",
+							"url": "https://www.stats.craft.network/"
+						},
+						{
+							"name": "Docs",
+							"url": "https://docs.craft.network/"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/craftdotnetwork",
+						"discord": "https://discord.com/invite/rDYd7mRXzj"
+					}
+				}
+			},
 			"contracts": [
 				"cx2e6d0fc0eca04965d06038c8406093337f085fcf",
 				"cxf3ba4534fcf1e76f4561170a81f56b40f89324b0",
