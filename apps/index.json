@@ -41,7 +41,7 @@
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
 							"description": "The NFT page on the Balanced marketing site"
-						},
+						}
 					]
 				},
 				"description": "Balanced is the flagship DeFi product of the ICON ecosystem. You can use it to borrow Balanced Dollars, trade cryptoassets, provide liquidity, and participate in Balanced governance.\n\nThe Balanced Dollar (bnUSD) is a stablecoin that tracks the value of 1 USD. You can borrow it against a variety of collateral types for a small fee, then use it to supply liquidity on the Balanced exchange.\n\nBalanced is community-owned, so it incentivises borrowers and liquidity providers with BALN, its governance token. Lock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), which gives you voting power and boosts your earning potential.",
@@ -148,7 +148,7 @@
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/gallery/vote.png",
 							"description": "The Vote page in the Omm app, used to lock up OMM and vote for ICON validators."
-						},
+						}
 					]
 				},
 				"description": "Omm is a liquid staking app on the ICON blockchain. It converts ICX to Staked ICX (sICX), an asset that earns staking rewards while remaining available to use.\n\nOmm is a community-owned project with a governance token called OMM. Lock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain. Market participants can still withdraw their funds from [markets.omm.finance](https://markets.omm.finance/).",
@@ -186,7 +186,7 @@
 						"discord": "https://discord.com/invite/zZcQUGbpVk"
 					}
 				}
-			},			
+			},
 			"contracts": [
 				"cxeaff5a10cb72bf85965b8b4af3e708ab772b7921",
 				"cx841f29ec6ce98b527d49a275e87d427627f1afe5",
@@ -232,7 +232,7 @@
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/neutron.png",
 							"description": "The Neutron landing page on the Craft website."
-						},
+						}
 					]
 				},
 				"description": "Craft is ICON’s largest marketplace for crypto collectibles and NFTs. You can use it to browse, mint, buy, sell, and auction NFTs that are cross-chain compatible.\n\nCraft is community-owned, so it incentivises buyers and sellers with CFT, its governance token. Stake CFT to hold voting power and earn a share of the platform fees.\n\nPowered by ICON, Craft is about to take its marketplace cross-chain through an integration with the Neutron blockchain.",
