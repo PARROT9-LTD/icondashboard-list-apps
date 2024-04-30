@@ -672,7 +672,7 @@
 			"contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf",
 			"supportedApps": ["balanced"],
 			"page": {
-				"description": "CFT is the [Craft]() governance token.\n\nStake CFT to hold voting power and earn a share of the platform fees. To earn CFT, buy and sell NFTs on Craft. You can also use your existing CFT to participate in additional earning opportunities.",
+				"description": "CFT is the [Craft](https://craft.network/) governance token.\n\nStake CFT to hold voting power and earn a share of the platform fees. To earn CFT, buy and sell NFTs on Craft. You can also use your existing CFT to participate in additional earning opportunities.",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -715,7 +715,7 @@
 			"contract": "cx2609b924e33ef00b648a409245c7ea394c467824",
 			"supportedApps": ["omm", "balanced", "optimus"],
 			"page": {
-				"description": "sICX is a liquid staking token for ICX, the main cryptocurrency of the ICON blockchain. It allows you to earn ICX staking rewards without losing access to your tokens.\n\nIf you need ICX in a hurry, you can pay a 1% fee to swap sICX for ICX through [Balanced]() or [Omm](). And if you care about ICON’s governance system, you can manage your votes through [Omm]().",
+				"description": "sICX is a liquid staking token for ICX, the main cryptocurrency of the ICON blockchain. It allows you to earn ICX staking rewards without losing access to your tokens.\n\nIf you need ICX in a hurry, you can pay a 1% fee to swap sICX for ICX through [Balanced](https://balanced.network/) or [Omm](https://omm.finance/). And if you care about ICON’s governance system, you can manage your votes through [Omm]().",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -757,7 +757,7 @@
 			"name": "Balanced Dollar",
 			"symbol": "bnUSD",
 			"contract": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb",
-			"supportedApps": ["balanced", "optimus"],
+			"supportedApps": ["balanced", "optimus", "cps"],
 			"page": {
 				"description": "bnUSD is a decentralised stablecoin that tracks the value of 1 USD.\n\nIt uses cryptocurrency as collateral to guarantee its value, with support for assets from a variety of blockchains. bnUSD is not experimental or algorithmic: it’s over-collateralised, so the **total supply cannot exceed the value that backs it**.\n\nYou can borrow Balanced Dollars for 2% interest, or buy some on the [Balanced exchange](https://app.balanced.network/trade/). bnUSD is ideal for leverage, liquidity, and payments on the ICON blockchain — and every chain it connects to.\n\n[Learn more about the Balanced stablecoin.](https://balanced.network/stablecoin/)",
 				"colors": {
