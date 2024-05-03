@@ -5,7 +5,7 @@
 		{
 			"id": "balanced",
 			"name": "Balanced",
-			"description": "DEX, loans",
+			"description": "The cross-chain stablecoin and exchange crafted for simplicity.",
 			"url": "https://balanced.network/",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/preview.png",
@@ -114,12 +114,38 @@
 		},
 		{
 			"id": "xcall",
-			"name": "xCall",
-			"description": "Cross-chain messaging service",
+			"name": "xCall (cross-chain messenger)",
+			"description": "A cross-chain messaging standard that allows developers to interact with smart contracts on other blockchains.",
 			"url": "https://icon.community/xcall/",
 			"logo": "",
 			"preview": "",
 			"showInChart": true,
+			"supportedAssets": ["bnUSD", "sARCH", "AVAX", "ETH", "BNB", "INJ"],
+			"page": {
+				"description": "xCall (also known as General Message Passing) is the ICON Network’s cross-chain messaging standard. It allows developers to interact with smart contracts on other blockchains, so they can reach a wider audience and create a range of new multi-chain use cases.\n\nOriginally designed for BTP, ICON’s interoperability protocol, xCall can be adopted by most blockchains and protocols, and is already connected to the Ethereum and Cosmos ecosystems.\n\nTo demonstrate the technology, ICON has put its efforts behind its flagship finance app, Balanced. The goal is to make it a leading cross-chain finance hub that supports all xCall-connected chains.\n\nAll cross-chain transaction fees are converted to ICX and then burned, so the more activity xCall receives, the more deflationary ICX becomes.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"releasedOn": "October 5, 2023",
+					"tagLine": "A blockchain messenger designed to simplify cross-chain development.",
+					"tags": ["cross-chain"],
+					"availableOn": ["ICON", "Archway", "Avalanche", "Injective", "Ethereum", "Base", "Optimism", "Arbitrum"],
+					"links": [
+						{
+							"name": "Docs",
+							"url": "https://docs.icon.community"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/helloiconworld",
+						"discord": "https://icon.community/icondiscord/"
+					}
+				}
+			},
 			"contracts": [
 				"cxa07f426062a1384bdd762afa6a87d123fbc81c75",
 				"cx622bbab73698f37dbef53955fd3decffeb0b0c16"
@@ -128,7 +154,7 @@
 		{
 			"id": "omm",
 			"name": "Omm",
-			"description": "liquid staking, governance",
+			"description": "Liquid staking on the ICON blockchain.",
 			"url": "https://omm.finance/",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/preview.png",
@@ -154,7 +180,7 @@
 				"description": "Omm is a liquid staking app on the ICON blockchain. It converts ICX to Staked ICX (sICX), an asset that earns staking rewards while remaining available to use.\n\nOmm is a community-owned project with a governance token called OMM. Lock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain. Market participants can still withdraw their funds from [markets.omm.finance](https://markets.omm.finance/).",
 				"colors": {
 					"primary": "#0c2a4d",
-					"active": "#00D3C2",
+					"active": "#1ac0d2",
 					"link": "#1ac0d2",
 					"bgFontColor": "#424C68"
 				},
@@ -200,12 +226,12 @@
 		{
 			"id": "craft",
 			"name": "Craft",
-			"description": "NFT marketplace",
+			"description": "A community-owned NFT marketplace.",
 			"url": "https://craft.network/",
 			"logo": "",
 			"showInChart": true,
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/preview.png",
-			"supportedAssets": ["CFT", "ICX"],
+			"supportedAssets": ["CFT", "ICX", "BALN"],
 			"page": {
 				"gallery": {
 					"main": {
@@ -240,11 +266,11 @@
 					"primary": "#0c2a4d",
 					"active": "#00D3C2",
 					"link": "#1ac0d2",
-					"bgFontColor": "#424C68"
+					"bgFontColor": "#ffffff"
 				},
 				"meta": {
 					"releasedOn": "August 3, 2021",
-					"tagLine": "A community-owned, cross-chain NFT marketplace.",
+					"tagLine": "A community-owned NFT marketplace.",
 					"tags": ["NFT"],
 					"availableOn": ["ICON"],
 					"links": [
@@ -283,7 +309,7 @@
 		{
 			"id": "btp",
 			"name": "BTP",
-			"description": "Blockchain Transmission Protocol",
+			"description": "BTP (Blockchain Transmission Protocol) is the ICON blockchain's interoperability protocol.",
 			"url": "https://icon.community/learn/btp/",
 			"logo": "",
 			"preview": "",
@@ -300,11 +326,76 @@
 		{
 			"id": "blobble",
 			"name": "Blobble",
-			"description": "Blobble",
-			"url": "",
+			"description": "A tamagotchi-style game that combines the charm of virtual pets with the power of blockchain technology",
+			"url": "https://blobble.xyz/",
 			"logo": "",
 			"preview": "",
 			"showInChart": true,
+			"supportedAssets": ["BST", "bnUSD"],
+			"page": {
+				"gallery": {
+					"main": {
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
+						"description": "The landing page on the Balanced marketing site"
+					},
+					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-home.png",
+							"description": "The Home page in the Balanced app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-trade.png",
+							"description": "The Trade page in the Balanced app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-vote.png",
+							"description": "The Vote page in the Balanced app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-how.png",
+							"description": "The How-to page on the Balanced marketing site"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-stablecoin.png",
+							"description": "The Stablecoin page on the Balanced marketing site"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
+							"description": "The NFT page on the Balanced marketing site"
+						}
+					]
+				},
+				"description": "Blobble is a tamagotchi-style game that combines the charm of virtual pets with the power of blockchain technology. Mint a Blobble for 60 bnUSD, and keep it healthy to earn rewards in the form of BST (Blobble Stake Token). The older your Blobble, the more you’ll earn.\n\nOwners beware: Blobbles require food, drink, and love to stay healthy. You can do this for free if you check in each day (minus a small transaction fee), or pay 2.44 BST to maintain its health for a week. If you forget to take care of your Blobble, it will be sent to the orphanage for someone else to adopt and you’ll no longer earn BST.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"releasedOn": "May 22, 2023",
+					"tagLine": "I live. U earn.",
+					"tags": ["NFT", "Game"],
+					"availableOn": ["ICON"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://blobble.xyz/"
+						},
+						{
+							"name": "App",
+							"url": "https://app.blobble.xyz/"
+						},
+						{
+							"name": "Docs",
+							"url": "https://university.blobble.xyz/"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/blobbleworld/"
+					}
+				}
+			},
 			"contracts": [
 				"cxccf103a44f57bd17bc5da486c51a6405b99d29b8",
 				"cxf14dea1cff7ceb29a46e6d04533a08f84441e41d"
@@ -312,22 +403,118 @@
 		},
 		{
 			"id": "cps",
-			"name": "CPS",
-			"description": "CPS",
-			"url": "",
+			"name": "CPS (ICON grants)",
+			"description": "A decentralised grant program dedicated to expanding the ICON ecosystem.",
+			"url": "https://cps.icon.community/",
 			"logo": "",
 			"preview": "",
 			"showInChart": true,
+			"supportedAssets": ["bnUSD"],
+			"page": {
+				"description": "The CPS (Contribution Proposal System) is a decentralised grant program that incentivises people to contribute to the ICON blockchain. Contributions include apps, utilities for developers and community members, and initiatives to increase awareness and engagement.\n\nProposals that help ICON increase adoption of its cross-chain technology are more likely to be approved.\n\nAfter approval, progress reports are required monthly, and payment will be made in bnUSD upon completion of each milestone.",
+				"colors": {
+					"primary": "#424C68",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#586B80"
+				},
+				"meta": {
+					"releasedOn": "May 2022",
+					"tagLine": "A decentralised grant program dedicated to expanding the ICON ecosystem.",
+					"tags": ["Grants"],
+					"availableOn": ["ICON"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://cps.icon.community/"
+						},
+						{
+							"name": "GitHub",
+							"url": "https://github.com/icon-community/CPS"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/helloiconworld",
+						"discord": "https://icon.community/icondiscord/"
+					}
+				}
+			},
 			"contracts": ["cxd965531d1cce5daad1d1d3ee1efb39ce68f442fc"]
 		},
 		{
 			"id": "gangstaverse",
 			"name": "GangstaVerse",
-			"description": "",
-			"url": "",
+			"description": "Digital collectibles and an immersive battle game, inspired by nineties gangster movies.",
+			"url": "https://gangstaverse.co",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/preview.png",
 			"showInChart": true,
+			"supportedAssets": ["GBET", "CROWN"],
+			"page": {
+				"gallery": {
+					"main": {
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
+						"description": "The landing page on the Balanced marketing site"
+					},
+					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-home.png",
+							"description": "The Home page in the Balanced app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-trade.png",
+							"description": "The Trade page in the Balanced app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-vote.png",
+							"description": "The Vote page in the Balanced app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-how.png",
+							"description": "The How-to page on the Balanced marketing site"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-stablecoin.png",
+							"description": "The Stablecoin page on the Balanced marketing site"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
+							"description": "The NFT page on the Balanced marketing site"
+						}
+					]
+				},
+				"description": "GangstaVerse is a virtual world built on the ICON blockchain. It includes digital collectibles, an immersive battle game, a virtual city with land to own, and more.\n\nGangstaVerse began with GangstaBet, a collection of 5,555 unique Gangster and Detective NFTs which were inspired by the classic nineties gangster movies. Each character includes their own story and skill level progression, which you can upgrade by burning the GBET token.\n\nThe GangstaVerse also includes Emerald City, which is controlled by GangstaBet characters, and GangWars, a game where GangstaBet characters battle each other. More cities and games are on the horizon as GangstaVerse explores ICON’s cross-chain technology.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"releasedOn": "August 2021",
+					"tagLine": "Digital collectibles and an immersive battle game, inspired by nineties gangster movies.",
+					"tags": ["NFT", "Game"],
+					"availableOn": ["ICON", "Base"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://gangstaverse.co/"
+						},
+						{
+							"name": "Blog",
+							"url": "https://gangstaverse.medium.com/"
+						},
+						{
+							"name": "Docs",
+							"url": "https://docs.gangstaverse.co/"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/GangstaVerse",
+						"discord": "https://discord.com/invite/rkJBeAgQux"
+					}
+				}
+			},
 			"contracts": [
 				"cxc499adbab72acece15f369916298324c37079934",
 				"cx1125cae5b048ba57c9331e47e0220a3b91287ffb",
@@ -357,11 +544,45 @@
 		{
 			"id": "framd",
 			"name": "FRAMD",
-			"description": "",
-			"url": "",
+			"description": "An Art-Fi protocol designed to unite separate NFT projects through a shared token economy.",
+			"url": "https://framd.art",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/preview.png",
 			"showInChart": true,
+			"supportedAssets": ["FRMD"],
+			"page": {
+				"description": "FRĀMD is an “Art-Fi” protocol on the ICON blockchain, designed to overcome siloes and low liquidity within the NFT space.\n\nTheir economic framework unites separate projects through a shared economy, which is powered by the FRMD token.\n\nThe FRĀMD team work on NFT projects that are part of their Art-Fi ecosystem, including the *Yeti Strong Club* collection and a play-to-earn trading card game called *Thaenia – Dark Tides*. They’re also an ICON validator, and provide incentives to ICX and OMM holders who vote for them.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"releasedOn": "October 5, 2023",
+					"tagLine": "An ArtFi protocol uniting NFT projects through a shared token economy.",
+					"tags": ["cross-chain"],
+					"availableOn": ["ICON"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://framd.art/"
+						},
+						{
+							"name": "Docs",
+							"url": "https://docs.framd.art/"
+						},
+						{
+							"name": "Blog",
+							"url": "https://medium.com/@framdnft"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/FramdNFT",
+						"discord": "https://discord.com/invite/RgJCDBbVnX"
+					}
+				}
+			},
 			"contracts": [
 				"cx2aa9b28a657e3121b75d3d4fe65e569398645d56",
 				"cx30f18d26f45d990112a4cd4825c0b79af73aac7c"
@@ -370,11 +591,37 @@
 		{
 			"id": "hana",
 			"name": "Hana Wallet",
-			"description": "",
-			"url": "",
+			"description": "A multi-chain crypto wallet.",
+			"url": "https://icon.community/hanawallet/",
 			"logo": "",
 			"preview": "",
 			"showInChart": true,
+			"supportedAssets":[],
+			"page": {
+				"description": "Hana is a multi-chain crypto wallet wallet that supports ICON, the blockchains it's connected to, and more. It includes the ability to stake ICX and vote for ICON validators, swap between assets via Balanced, and purchase crypto with fiat currency.\n\nYou can use Hana with all your favourite blockchain apps, either as an extension in your browser or through the mobile app when you're on the go. It's even compatible with your Ledger.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"releasedOn": "2021",
+					"tagLine": "A multi-chain crypto wallet.",
+					"tags": ["cross-chain"],
+					"availableOn": ["ICON", "Cosmos", "Ethereum"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://icon.community/hanawallet/"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/hanawallet",
+						"discord": "https://icon.community/icondiscord/"
+					}
+				}
+			},
 			"contracts": ["cxc7d2b2ea91af80d4535dbbee0318399d3aedb6b1"]
 		},
 		{
@@ -399,7 +646,7 @@
 			"url": "",
 			"logo": "",
 			"preview": "",
-			"showInChart": true,
+			"showInChart": false,
 			"contracts": [
 				"cx018d9024fd6c989f56e7f9270c0540d08ecabcc9",
 				"cx2a3dbe2fe8616a3fa1805e0c942e50a4b2703558",
@@ -431,11 +678,36 @@
 		{
 			"id": "omni",
 			"name": "Omni Name Service",
-			"description": "",
-			"url": "",
+			"description": "A decentralised naming protocol for the ICON blockchain.",
+			"url": "https://omni-domains.app",
 			"logo": "",
 			"preview": "",
 			"showInChart": true,
+			"supportedAssets": ["ICX"],
+			"page": {
+				"description": "Omni Name Service is a protocol that turns blockchain addresses into readable domain names. ONS domains are represented by NFTs, and the metadata is generated and stored on-chain through generative SVG design.\n\nYou can register domains for 1–4 years at a cost of 100–400 ICX.\n\nBuilt on ICON, the ONS team plans to extend support to other chains that use ICON's cross-chain technology, like those in the Ethereum and Cosmos ecosystems. Their goal is to solve the hurdle of transferring assets between blockchains that don’t share the same address format.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"releasedOn": "November 17, 2023",
+					"tagLine": "A decentralised naming protocol for the ICON blockchain.",
+					"tags": ["Utility", "NFT"],
+					"availableOn": ["ICON"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://omni-domains.app/"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/OmniNameService",
+					}
+				}
+			},
 			"contracts": ["cx3dd4adebb73eebcb8a7029c1a07b5a64be926ddf"]
 		},
 		{
