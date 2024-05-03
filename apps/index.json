@@ -124,10 +124,10 @@
 			"page": {
 				"description": "xCall (also known as General Message Passing) is the ICON Network’s cross-chain messaging standard. It allows developers to interact with smart contracts on other blockchains, so they can reach a wider audience and create a range of new multi-chain use cases.\n\nOriginally designed for BTP, ICON’s interoperability protocol, xCall can be adopted by most blockchains and protocols, and is already connected to the Ethereum and Cosmos ecosystems.\n\nTo demonstrate the technology, ICON has put its efforts behind its flagship finance app, Balanced. The goal is to make it a leading cross-chain finance hub that supports all xCall-connected chains.\n\nAll cross-chain transaction fees are converted to ICX and then burned, so the more activity xCall receives, the more deflationary ICX becomes.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
-					"bgFontColor": "#ffffff"
+					"primary": "#424C68",
+					"active": "#008CA9",
+					"link": "#424C68",
+					"bgFontColor": "#586B80"
 				},
 				"meta": {
 					"releasedOn": "October 5, 2023",
@@ -179,10 +179,10 @@
 				},
 				"description": "Omm is a liquid staking app on the ICON blockchain. It converts ICX to Staked ICX (sICX), an asset that earns staking rewards while remaining available to use.\n\nOmm is a community-owned project with a governance token called OMM. Lock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain. Market participants can still withdraw their funds from [markets.omm.finance](https://markets.omm.finance/).",
 				"colors": {
-					"primary": "#7A8294",
+					"primary": "#49546a",
 					"active": "#00D3C2",
 					"link": "#9D4DF1",
-					"bgFontColor": "#49546a"
+					"bgFontColor": "#7A8294"
 				},
 				"meta": {
 					"releasedOn": "April 25, 2021",
@@ -263,9 +263,9 @@
 				},
 				"description": "Craft is ICON’s largest marketplace for crypto collectibles and NFTs. You can use it to browse, mint, buy, sell, and auction NFTs that are cross-chain compatible.\n\nCraft is community-owned, so it incentivises buyers and sellers with CFT, its governance token. Stake CFT to hold voting power and earn a share of the platform fees.\n\nPowered by ICON, Craft is about to take its marketplace cross-chain through an integration with the Neutron blockchain.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#00D3C2",
-					"link": "#1ac0d2",
+					"primary": "#00AC97",
+					"active": "#00AC97",
+					"link": "#00AC97",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -367,10 +367,10 @@
 				},
 				"description": "Blobble is a tamagotchi-style game that combines the charm of virtual pets with the power of blockchain technology. Mint a Blobble for 60 bnUSD, and keep it healthy to earn rewards in the form of BST (Blobble Stake Token). The older your Blobble, the more you’ll earn.\n\nOwners beware: Blobbles require food, drink, and love to stay healthy. You can do this for free if you check in each day (minus a small transaction fee), or pay 2.44 BST to maintain its health for a week. If you forget to take care of your Blobble, it will be sent to the orphanage for someone else to adopt and you’ll no longer earn BST.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
-					"bgFontColor": "#ffffff"
+					"primary": "#12025E",
+					"active": "#BE00DD",
+					"link": "#BE00DD",
+					"bgFontColor": "#12025E"
 				},
 				"meta": {
 					"releasedOn": "May 22, 2023",
@@ -414,8 +414,8 @@
 				"description": "The CPS (Contribution Proposal System) is a decentralised grant program that incentivises people to contribute to the ICON blockchain. Contributions include apps, utilities for developers and community members, and initiatives to increase awareness and engagement.\n\nProposals that help ICON increase adoption of its cross-chain technology are more likely to be approved.\n\nAfter approval, progress reports are required monthly, and payment will be made in bnUSD upon completion of each milestone.",
 				"colors": {
 					"primary": "#424C68",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"active": "#008CA9",
+					"link": "#424C68",
 					"bgFontColor": "#586B80"
 				},
 				"meta": {
@@ -485,9 +485,9 @@
 				},
 				"description": "GangstaVerse is a virtual world built on the ICON blockchain. It includes digital collectibles, an immersive battle game, a virtual city with land to own, and more.\n\nGangstaVerse began with GangstaBet, a collection of 5,555 unique Gangster and Detective NFTs which were inspired by the classic nineties gangster movies. Each character includes their own story and skill level progression, which you can upgrade by burning the GBET token.\n\nThe GangstaVerse also includes Emerald City, which is controlled by GangstaBet characters, and GangWars, a game where GangstaBet characters battle each other. More cities and games are on the horizon as GangstaVerse explores ICON’s cross-chain technology.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#171717",
+					"active": "#01AAC1",
+					"link": "#01AAC1",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -553,9 +553,9 @@
 			"page": {
 				"description": "FRĀMD is an “Art-Fi” protocol on the ICON blockchain, designed to overcome siloes and low liquidity within the NFT space.\n\nTheir economic framework unites separate projects through a shared economy, which is powered by the FRMD token.\n\nThe FRĀMD team work on NFT projects that are part of their Art-Fi ecosystem, including the *Yeti Strong Club* collection and a play-to-earn trading card game called *Thaenia – Dark Tides*. They’re also an ICON validator, and provide incentives to ICX and OMM holders who vote for them.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#08043C",
+					"active": "#ff9900",
+					"link": "#ff9900",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -600,10 +600,10 @@
 			"page": {
 				"description": "Hana is a multi-chain crypto wallet wallet that supports ICON, the blockchains it's connected to, and more. It includes the ability to stake ICX and vote for ICON validators, swap between assets via Balanced, and purchase crypto with fiat currency.\n\nYou can use Hana with all your favourite blockchain apps, either as an extension in your browser or through the mobile app when you're on the go. It's even compatible with your Ledger.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
-					"bgFontColor": "#ffffff"
+					"primary": "#16073A",
+					"active": "#3308A8",
+					"link": "#D4C5F9",
+					"bgFontColor": "#16073A"
 				},
 				"meta": {
 					"releasedOn": "2021",
@@ -687,9 +687,9 @@
 			"page": {
 				"description": "Omni Name Service is a protocol that turns blockchain addresses into readable domain names. ONS domains are represented by NFTs, and the metadata is generated and stored on-chain through generative SVG design.\n\nYou can register domains for 1–4 years at a cost of 100–400 ICX.\n\nBuilt on ICON, the ONS team plans to extend support to other chains that use ICON's cross-chain technology, like those in the Ethereum and Cosmos ecosystems. Their goal is to solve the hurdle of transferring assets between blockchains that don’t share the same address format.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#083A2B",
+					"active": "#1DCF9B",
+					"link": "#1DCF9B",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -902,10 +902,10 @@
 			"page": {
 				"description": "OMM is the governance token for [Omm](https://omm.finance/), a liquid staking app on the ICON blockchain.\n\nLock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain.",
 				"colors": {
-					"primary": "#7A8294",
+					"primary": "#49546a",
 					"active": "#00D3C2",
 					"link": "#9D4DF1",
-					"bgFontColor": "#49546a"
+					"bgFontColor": "#7A8294"
 				},
 				"meta": {
 					"release": "August 31, 2021",
@@ -946,9 +946,9 @@
 			"page": {
 				"description": "CFT is the [Craft](https://craft.network/) governance token.\n\nStake CFT to hold voting power and earn a share of the platform fees. To earn CFT, buy and sell NFTs on Craft. You can also use your existing CFT to participate in additional earning opportunities.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#00AC97",
+					"active": "#00AC97",
+					"link": "#00AC97",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -989,9 +989,9 @@
 			"page": {
 				"description": "sICX is a liquid staking token for ICX, the main cryptocurrency of the ICON blockchain. You can use it to earn ICX staking rewards without losing access to your tokens. Every sICX you hold entitles you to a share of the ICX staking pool, and the ICX value increases over time based on the ICON reward rate.\n\nsICX makes it easy to move your funds when you need them. Pay a 1% fee to swap sICX for ICX via [Balanced](https://balanced.network/) or [Omm](https://omm.finance/), or join the unstaking queue to wait anywhere from 1 hour, up to the regular ICX unstaking time of ~7 days.\n\nsICX represents staked ICX, so it holds voting power in ICON’s governance system. By default, the Omm community decides where those votes go, but you can use the Omm app to manage your delegation and see which validators offer voting incentives.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#9D4DF1",
+					"active": "#9D4DF1",
+					"link": "#9D4DF1",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1081,10 +1081,10 @@
 			"page": {
 				"description": "CROWN is the governance token for GangstaVerse's Emerald City. It's designed to fuel the entire economy of the city, and will be used as a currency and reward for various in-game activities, like GangWars.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
-					"bgFontColor": "#ffffff"
+					"primary": "#586B80",
+					"active": "#FFF100",
+					"link": "#FFF100",
+					"bgFontColor": "#586B80"
 				},
 				"meta": {
 					"release": "April 26, 2021",
@@ -1120,9 +1120,9 @@
 			"page": {
 				"description": "The governance token for Optimus, a yield optimiser on the ICON blockchain that now refers people to a staking platform called [Node Widget](https://staking.nodewidget.com/).",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#191919",
+					"active": "#0C8678",
+					"link": "#0C8678",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1147,10 +1147,10 @@
 			"page": {
 				"description": "A liquid staking token for ARCH, the native currency of the Archway blockchain. sARCH is provided by [Liquid Finance](https://liquidfinance.xyz/), and can be transferred between ICON and Archway via Balanced.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
-					"bgFontColor": "#ffffff"
+					"primary": "#2D50A5",
+					"active": "#00B2E5",
+					"link": "#00B2E5",
+					"bgFontColor": "#2D50A5"
 				},
 				"meta": {
 					"release": "December 2023",
@@ -1186,9 +1186,9 @@
 			"page": {
 				"description": "GBET is the native token for GangstaBet, a collection of 5,555 unique Gangster and Detective NFTs on the ICON blockchain.\n\nGangstaBet owners receive GBET when they mint their NFT, and if they hold onto it, they’ll earn GBET each day until 2030.\n\nYou can burn GBET to increase a GangstaBet NFT’s skills, change its name, or adjust its characteristics. The supply of GBET decreases over time, so customisation will become a scarce commodity and GangstaBets with higher levels will grow in value.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#171717",
+					"active": "#01AAC1",
+					"link": "#01AAC1",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1225,10 +1225,10 @@
 			"page": {
 				"description": "BST is the native currency for Blobble, a tamagotchi-style NFT ecosystem. Healthy Blobbles earn daily BST for their owners, which you can swap for bnUSD or use to keep your Blobble fed, quenched, and loved.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
-					"bgFontColor": "#ffffff"
+					"primary": "#12025E",
+					"active": "#BE00DD",
+					"link": "#BE00DD",
+					"bgFontColor": "#12025E"
 				},
 				"meta": {
 					"release": "May 22, 2023",
@@ -1263,9 +1263,9 @@
 			"page": {
 				"description": "FRMD is the token for FRĀMD, an Art-Fi protocol on the ICON blockchain. You can use FRMD to upgrade NFTs that are part of the FRĀMD ecosystem, or stake it to earn rewards and vote on ICON grant proposals.\n\nTo earn FRMD, mint or buy an NFT in the FRĀMD ecosystem.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#08043C",
+					"active": "#ff9900",
+					"link": "#ff9900",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1302,9 +1302,9 @@
 			"page": {
 				"description": "BTCB is bitcoin from BNB Smart Chain, sent to ICON through ICON Bridge. You can trade BTCB on the Balanced exchange, supply it as liquidity to earn BALN, and until April 2024, you could use BTCB as collateral to borrow bnUSD.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#F7931A",
+					"active": "#F7931A",
+					"link": "#F7931A",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1329,9 +1329,9 @@
 			"page": {
 				"description": "AVAX is the native cryptocurrency for Avalanche, the blockchain built to scale.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#EBEBEB",
+					"active": "#EBEBEB",
+					"link": "#EBEBEB",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1356,9 +1356,9 @@
 			"page": {
 				"description": "INJ is the native cryptocurrency for Injective: the blockchain built for finance.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#0082FA",
+					"active": "#01BBFC",
+					"link": "#00F2FE",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1383,9 +1383,9 @@
 			"page": {
 				"description": "Built by Circle for rapid, global payments and 24/7 financial markets, USDC is a regulated, digital currency that can always be redeemed 1:1 for US dollars.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#EBEBEB",
+					"active": "#EBEBEB",
+					"link": "#EBEBEB",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1410,9 +1410,9 @@
 			"page": {
 				"description": "Ethereum is the native cryptocurrency for Ethereum and ETH layer 2 blockchains like Arbitrum, Base, and Optimism. ICON uses its cross-chain technology to source ETH from different chains and provide them as a single token to swap or bridge on Balanced",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#627DEA",
+					"active": "#627DEA",
+					"link": "#627DEA",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1437,9 +1437,9 @@
 			"page": {
 				"description": "BNB is the native cryptocurrency for Binance and its blockchain, BNB Chain (BSC).",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#F0B90B",
+					"active": "#F0B90B",
+					"link": "#F0B90B",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
@@ -1464,9 +1464,9 @@
 			"page": {
 				"description": "hyTB represents US treasury bills purchased via HiYield. hyTB earns ~5% interest per year, and can be traded 1:1 with bnUSD via the Balanced Stability Fund.",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#2ca9b7",
-					"link": "#46bfd1",
+					"primary": "#7D5DF5",
+					"active": "#9E7CF8",
+					"link": "#7D5DF5",
 					"bgFontColor": "#ffffff"
 				},
 				"meta": {
