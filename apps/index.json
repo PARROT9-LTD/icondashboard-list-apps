@@ -179,10 +179,10 @@
 				},
 				"description": "Omm is a liquid staking app on the ICON blockchain. It converts ICX to Staked ICX (sICX), an asset that earns staking rewards while remaining available to use.\n\nOmm is a community-owned project with a governance token called OMM. Lock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain. Market participants can still withdraw their funds from [markets.omm.finance](https://markets.omm.finance/).",
 				"colors": {
-					"primary": "#0c2a4d",
-					"active": "#1ac0d2",
-					"link": "#1ac0d2",
-					"bgFontColor": "#424C68"
+					"primary": "#7A8294",
+					"active": "#00D3C2",
+					"link": "#9D4DF1",
+					"bgFontColor": "#49546a"
 				},
 				"meta": {
 					"releasedOn": "April 25, 2021",
@@ -902,10 +902,10 @@
 			"page": {
 				"description": "OMM is the governance token for [Omm](https://omm.finance/), a liquid staking app on the ICON blockchain.\n\nLock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain.",
 				"colors": {
-					"primary": "#00D3C2",
-					"active": "#9D4DF1",
-					"link": "#00D3C2",
-					"bgFontColor": "##49546a"
+					"primary": "#7A8294",
+					"active": "#00D3C2",
+					"link": "#9D4DF1",
+					"bgFontColor": "#49546a"
 				},
 				"meta": {
 					"release": "August 31, 2021",
