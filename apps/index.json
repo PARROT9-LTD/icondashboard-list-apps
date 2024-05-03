@@ -1155,7 +1155,7 @@
 				"meta": {
 					"release": "December 2023",
 					"availableOn": ["ICON", "Archway"],
-					"tags": ["Liquid staking", "Governance"],
+					"tags": ["Liquid staking", "Governance", "cross-chain"],
 					"links": [
 						{
 							"name": "Website",
@@ -1251,6 +1251,234 @@
 					"socials": {
 						"twitter": "https://twitter.com/blobbleworld/"
 					}
+				}
+			}
+		},
+		{
+			"id": "frmd",
+			"name": "FRĀMD Token",
+			"symbol": "FRMD",
+			"contract": "cx2aa9b28a657e3121b75d3d4fe65e569398645d56",
+			"supportedApps": ["framd", "balanced"],
+			"page": {
+				"description": "FRMD is the token for FRĀMD, an Art-Fi protocol on the ICON blockchain. You can use FRMD to upgrade NFTs that are part of the FRĀMD ecosystem, or stake it to earn rewards and vote on ICON grant proposals.\n\nTo earn FRMD, mint or buy an NFT in the FRĀMD ecosystem.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "July 2022",
+					"availableOn": ["ICON"],
+					"tags": ["Governance", "Staking", "NFT"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://framd.art/"
+						},
+						{
+							"name": "Docs",
+							"url": "https://docs.framd.art/"
+						},
+						{
+							"name": "Blog",
+							"url": "https://medium.com/@framdnft"
+						}
+					],
+					"socials": {
+						"twitter": "https://twitter.com/FramdNFT",
+						"discord": "https://discord.com/invite/RgJCDBbVnX"
+					}
+				}
+			}
+		},
+		{
+			"id": "btcb",
+			"name": "Binance BTC",
+			"symbol": "BTCB",
+			"contract": "cx5b5a03cb525a1845d0af3a872d525b18a810acb0",
+			"supportedApps": ["balanced", "btp"],
+			"page": {
+				"description": "BTCB is bitcoin from BNB Smart Chain, sent to ICON through ICON Bridge. You can trade BTCB on the Balanced exchange, supply it as liquidity to earn BALN, and until April 2024, you could use BTCB as collateral to borrow bnUSD.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "September 2022",
+					"availableOn": ["ICON", "BNB Chain"],
+					"tags": ["cross-chain"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://binance.com/"
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": "avax",
+			"name": "Avalanche",
+			"symbol": "AVAX",
+			"contract": "cx66a031cc3bd305c76371fb586e93801b948254f0",
+			"supportedApps": ["balanced", "xcall"],
+			"page": {
+				"description": "AVAX is the native cryptocurrency for Avalanche, the blockchain built to scale.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "March 2024",
+					"availableOn": ["ICON", "Avalanche"],
+					"tags": ["cross-chain"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://avax.network"
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": "inj",
+			"name": "Injective",
+			"symbol": "INJ",
+			"contract": "cx4297f4b63262507623b6ad575d0d8dd2db980e4e",
+			"supportedApps": ["balanced", "xcall"],
+			"page": {
+				"description": "INJ is the native cryptocurrency for Injective: the blockchain built for finance.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "March 2024",
+					"availableOn": ["ICON", "Injective"],
+					"tags": ["cross-chain"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://injective.com/"
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": "usdc",
+			"name": "USD Coin",
+			"symbol": "USDC",
+			"contract": "cx22319ac7f412f53eabe3c9827acf5e27e9c6a95f",
+			"supportedApps": ["balanced", "xcall"],
+			"page": {
+				"description": "Built by Circle for rapid, global payments and 24/7 financial markets, USDC is a regulated, digital currency that can always be redeemed 1:1 for US dollars.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "March 2024",
+					"availableOn": ["ICON", "Archway", "Avalanche", "Ethereum"],
+					"tags": ["cross-chain", "stablecoin"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://www.circle.com/en/usdc"
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": "eth",
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"contract": "cx288d13e1b63563459a2ac6179f237711f6851cb5",
+			"supportedApps": ["balanced", "xcall"],
+			"page": {
+				"description": "Ethereum is the native cryptocurrency for Ethereum and ETH layer 2 blockchains like Arbitrum, Base, and Optimism. ICON uses its cross-chain technology to source ETH from different chains and provide them as a single token to swap or bridge on Balanced",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "May 2024",
+					"availableOn": ["ICON", "Ethereum", "Arbitrum", "Base", "Optimism"],
+					"tags": ["cross-chain"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://ethereum.org/en/"
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": "bnb",
+			"name": "Binance Coin",
+			"symbol": "BNB",
+			"contract": "cx2d552c485ec8bcaa75aac02424e2aca6ffdb2f1b",
+			"supportedApps": ["balanced", "xcall"],
+			"page": {
+				"description": "BNB is the native cryptocurrency for Binance and its blockchain, BNB Chain (BSC).",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "May 2024",
+					"availableOn": ["ICON", "BNB Chain"],
+					"tags": ["cross-chain"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://binance.com/"
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": "hytb",
+			"name": "HiYield Treasury Bill",
+			"symbol": "hyTB",
+			"contract": "cxf0a30d09ade391d7b570908b9b46cfa5b3cbc8f8",
+			"supportedApps": ["balanced", "xcall"],
+			"page": {
+				"description": "hyTB represents US treasury bills purchased via HiYield. hyTB earns ~5% interest per year, and can be traded 1:1 with bnUSD via the Balanced Stability Fund.",
+				"colors": {
+					"primary": "#0c2a4d",
+					"active": "#2ca9b7",
+					"link": "#46bfd1",
+					"bgFontColor": "#ffffff"
+				},
+				"meta": {
+					"release": "March 5, 2024",
+					"availableOn": ["ICON", "Avalanche"],
+					"tags": ["real-world asset"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://hiyield.xyz"
+						}
+					]
 				}
 			}
 		}
