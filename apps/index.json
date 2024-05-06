@@ -19,6 +19,10 @@
 					},
 					"imgs": [
 						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
+							"description": "The landing page on the Balanced marketing site"
+						}
+						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-home.png",
 							"description": "The Home page in the Balanced app"
 						},
@@ -37,10 +41,6 @@
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-stablecoin.png",
 							"description": "The Stablecoin page on the Balanced marketing site"
-						},
-						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
-							"description": "The NFT page on the Balanced marketing site"
 						}
 					]
 				},
@@ -131,7 +131,7 @@
 				},
 				"meta": {
 					"releasedOn": "October 5, 2023",
-					"tagLine": "A blockchain messenger designed to simplify cross-chain development.",
+					"tagLine": "A blockchain messenger that simplifies cross-chain development.",
 					"tags": ["cross-chain"],
 					"availableOn": ["ICON", "Archway", "Avalanche", "Injective", "Ethereum", "Base", "Optimism", "Arbitrum"],
 					"links": [
@@ -167,6 +167,10 @@
 						"description": "The Omm marketing site."
 					},
 					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/gallery/landing.png",
+							"description": "The Omm marketing site."
+						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/gallery/stake.png",
 							"description": "The Stake page in the Omm app, used to stake and unstake ICX."
@@ -239,6 +243,10 @@
 						"description": "The Craft website."
 					},
 					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/landing.png",
+							"description": "The Craft website."
+						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/gallery/collection.png",
 							"description": "The Balanced NFT collection on the Craft website."
@@ -335,33 +343,29 @@
 			"page": {
 				"gallery": {
 					"main": {
-						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
-						"description": "The landing page on the Balanced marketing site"
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/blobble/gallery/landing.png",
+						"description": "The Blobble landing page"
 					},
 					"imgs": [
-						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-home.png",
-							"description": "The Home page in the Balanced app"
+						 {
+							"url":"https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/blobble/gallery/landing.png",
+							"description": "The Blobble landing page"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-trade.png",
-							"description": "The Trade page in the Balanced app"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/blobble/gallery/playground.png",
+							"description": "The Playground page in the Blobble app"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-vote.png",
-							"description": "The Vote page in the Balanced app"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/blobble/gallery/orphanage.png",
+							"description": "The Orphanage page in the Blobble app"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-how.png",
-							"description": "The How-to page on the Balanced marketing site"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/blobble/gallery/market.png",
+							"description": "The Market page in the Blobble app"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-stablecoin.png",
-							"description": "The Stablecoin page on the Balanced marketing site"
-						},
-						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
-							"description": "The NFT page on the Balanced marketing site"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/blobble/gallery/finance.png",
+							"description": "The Finance page in the Blobble app"
 						}
 					]
 				},
@@ -453,33 +457,25 @@
 			"page": {
 				"gallery": {
 					"main": {
-						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-landing.png",
-						"description": "The landing page on the Balanced marketing site"
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/landing.png",
+						"description": "The GangstaVerse landing page"
 					},
 					"imgs": [
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-home.png",
-							"description": "The Home page in the Balanced app"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/landing.png",
+						"description": "The GangstaVerse landing page"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-trade.png",
-							"description": "The Trade page in the Balanced app"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/marketplace.png",
+						"description": "The GangstaBet marketplace"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-vote.png",
-							"description": "The Vote page in the Balanced app"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/bank.png",
+						"description": "The GangstaBet bank"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-how.png",
-							"description": "The How-to page on the Balanced marketing site"
-						},
-						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-stablecoin.png",
-							"description": "The Stablecoin page on the Balanced marketing site"
-						},
-						{
-							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/gallery/balanced-nfts.png",
-							"description": "The NFT page on the Balanced marketing site"
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/lands.png",
+						"description": "Land for sale in the GangstaVerse"
 						}
 					]
 				},
@@ -551,6 +547,38 @@
 			"showInChart": true,
 			"supportedAssets": ["FRMD"],
 			"page": {
+				"gallery": {
+					"main": {
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/landing.png",
+						"description": "The FRĀMD landing page"
+					},
+					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/landing.png",
+						"description": "The FRĀMD landing page"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/frmd.png",
+						"description": "High-level data for the FRMD token and ecosystem"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/collections.png",
+						"description": "NFT collections under the FRĀMD umbrella"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/services.png",
+						"description": "The services FRĀMD offers to web3"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/yeti-landing.png",
+						"description": "The landing page for Yeti Strong Club, an NFT project in the FRĀMD ecosystem"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/yeti-staking.png",
+						"description": "The staking page for Yeti Strong Club"
+						}
+					]
+				},
 				"description": "FRĀMD is an “Art-Fi” protocol on the ICON blockchain, designed to overcome siloes and low liquidity within the NFT space.\n\nTheir economic framework unites separate projects through a shared economy, which is powered by the FRMD token.\n\nThe FRĀMD team work on NFT projects that are part of their Art-Fi ecosystem, including the *Yeti Strong Club* collection and a play-to-earn trading card game called *Thaenia – Dark Tides*. They’re also an ICON validator, and provide incentives to ICX and OMM holders who vote for them.",
 				"colors": {
 					"primary": "#08043C",
@@ -598,6 +626,34 @@
 			"showInChart": true,
 			"supportedAssets":[],
 			"page": {
+				"gallery": {
+					"main": {
+						"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/hero.png",
+						"description": "A showcase of the Hana wallet app"
+					},
+					"imgs": [
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/hero.png",
+						"description": "A showcase of the Hana wallet app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/wallet.png",
+						"description": "The wallet balance in the Hana app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/nft.png",
+						"description": "The NFT page in the Hana app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/trade.png",
+						"description": "The Trade page in the Hana app"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/chains.png",
+						"description": "A list of connected chains in the Hana app"
+						}
+					]
+				},
 				"description": "Hana is a multi-chain crypto wallet wallet that supports ICON, the blockchains it's connected to, and more. It includes the ability to stake ICX and vote for ICON validators, swap between assets via Balanced, and purchase crypto with fiat currency.\n\nYou can use Hana with all your favourite blockchain apps, either as an extension in your browser or through the mobile app when you're on the go. It's even compatible with your Ledger.",
 				"colors": {
 					"primary": "#16073A",
