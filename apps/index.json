@@ -463,19 +463,19 @@
 					"imgs": [
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/landing.png",
-						"description": "The GangstaVerse landing page"
+							"description": "The GangstaVerse landing page"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/marketplace.png",
-						"description": "The GangstaBet marketplace"
+							"description": "The GangstaBet marketplace"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/bank.png",
-						"description": "The GangstaBet bank"
+							"description": "The GangstaBet bank"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/gangstaverse/gallery/lands.png",
-						"description": "Land for sale in the GangstaVerse"
+							"description": "Land for sale in the GangstaVerse"
 						}
 					]
 				},
@@ -559,23 +559,23 @@
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/frmd.png",
-						"description": "High-level data for the FRMD token and ecosystem"
+							"description": "High-level data for the FRMD token and ecosystem"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/collections.png",
-						"description": "NFT collections under the FRĀMD umbrella"
+							"description": "NFT collections under the FRĀMD umbrella"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/services.png",
-						"description": "The services FRĀMD offers to web3"
+							"description": "The services FRĀMD offers to web3"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/yeti-landing.png",
-						"description": "The landing page for Yeti Strong Club, an NFT project in the FRĀMD ecosystem"
+							"description": "The landing page for Yeti Strong Club, an NFT project in the FRĀMD ecosystem"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/framd/gallery/yeti-staking.png",
-						"description": "The staking page for Yeti Strong Club"
+							"description": "The staking page for Yeti Strong Club"
 						}
 					]
 				},
@@ -634,23 +634,23 @@
 					"imgs": [
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/hero.png",
-						"description": "A showcase of the Hana wallet app"
+							"description": "A showcase of the Hana wallet app"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/wallet.png",
-						"description": "The wallet balance in the Hana app"
+							"description": "The wallet balance in the Hana app"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/nft.png",
-						"description": "The NFT page in the Hana app"
+							"description": "The NFT page in the Hana app"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/trade.png",
-						"description": "The Trade page in the Hana app"
+							"description": "The Trade page in the Hana app"
 						},
 						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/chains.png",
-						"description": "A list of connected chains in the Hana app"
+							"description": "A list of connected chains in the Hana app"
 						}
 					]
 				},
