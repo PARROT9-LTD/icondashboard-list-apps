@@ -741,7 +741,7 @@
 			"description": "A decentralised naming protocol for the ICON blockchain.",
 			"url": "https://omni-domains.app",
 			"logo": "",
-			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omninameservice/preview.png",
+			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omni/preview.png",
 			"showInChart": true,
 			"supportedAssets": ["ICX"],
 			"page": {
