@@ -637,6 +637,10 @@
 							"description": "A showcase of the Hana wallet app"
 						},
 						{
+							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/promo.jpg",
+							"description": "A promo image for Hana"
+						},
+						{
 							"url": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/gallery/wallet.png",
 							"description": "The wallet balance in the Hana app"
 						},
