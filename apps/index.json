@@ -1002,7 +1002,7 @@
 			"name": "Craft",
 			"symbol": "CFT",
 			"contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf",
-			"supportedApps": ["balanced"],
+			"supportedApps": ["craft", "balanced"],
 			"page": {
 				"description": "CFT is the [Craft](https://craft.network/) governance token.\n\nStake CFT to hold voting power and earn a share of the platform fees. To earn CFT, buy and sell NFTs on Craft. You can also use your existing CFT to participate in additional earning opportunities.",
 				"colors": {
