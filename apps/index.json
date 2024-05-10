@@ -1051,7 +1051,7 @@
 					"primary": "#9D4DF1",
 					"active": "#9D4DF1",
 					"link": "#9D4DF1",
-					"bgFontColor": "#ffffff"
+					"bgFontColor": "#9D4DF1"
 				},
 				"meta": {
 					"release": "April 24, 2021",
@@ -1141,7 +1141,7 @@
 					"primary": "#586B80",
 					"active": "#FFF100",
 					"link": "#FFF100",
-					"bgFontColor": "#586B80"
+					"bgFontColor": "#ffffff"
 				},
 				"meta": {
 					"release": "April 26, 2021",
@@ -1177,10 +1177,10 @@
 			"page": {
 				"description": "The governance token for Optimus, a yield optimiser on the ICON blockchain that now refers people to a staking platform called [Node Widget](https://staking.nodewidget.com/).",
 				"colors": {
-					"primary": "#191919",
+					"primary": "#0C8678",
 					"active": "#0C8678",
 					"link": "#0C8678",
-					"bgFontColor": "#ffffff"
+					"bgFontColor": "#0C8678"
 				},
 				"meta": {
 					"release": "2021",
@@ -1362,7 +1362,7 @@
 					"primary": "#F7931A",
 					"active": "#F7931A",
 					"link": "#F7931A",
-					"bgFontColor": "#ffffff"
+					"bgFontColor": "#F7931A"
 				},
 				"meta": {
 					"release": "September 2022",
@@ -1389,7 +1389,7 @@
 					"primary": "#EBEBEB",
 					"active": "#EBEBEB",
 					"link": "#EBEBEB",
-					"bgFontColor": "#ffffff"
+					"bgFontColor": "#EBEBEB"
 				},
 				"meta": {
 					"release": "March 2024",
@@ -1416,7 +1416,7 @@
 					"primary": "#0082FA",
 					"active": "#01BBFC",
 					"link": "#00F2FE",
-					"bgFontColor": "#ffffff"
+					"bgFontColor": "#0082FA"
 				},
 				"meta": {
 					"release": "March 2024",
@@ -1443,7 +1443,7 @@
 					"primary": "#EBEBEB",
 					"active": "#EBEBEB",
 					"link": "#EBEBEB",
-					"bgFontColor": "#ffffff"
+					"bgFontColor": "#EBEBEB"
 				},
 				"meta": {
 					"release": "March 2024",
@@ -1465,7 +1465,7 @@
 			"contract": "cx288d13e1b63563459a2ac6179f237711f6851cb5",
 			"supportedApps": ["balanced", "xcall"],
 			"page": {
-				"description": "Ethereum is the native cryptocurrency for Ethereum and ETH layer 2 blockchains like Arbitrum, Base, and Optimism. ICON uses its cross-chain technology to source ETH from different chains and provide them as a single token to swap or bridge on Balanced",
+				"description": "Ethereum is the native cryptocurrency for Ethereum and ETH layer 2 blockchains like Arbitrum, Base, and Optimism.\n\nICON uses its cross-chain technology to source ETH from different chains and provide them as a single token to swap or bridge on Balanced.",
 				"colors": {
 					"primary": "#627DEA",
 					"active": "#627DEA",
@@ -1497,7 +1497,7 @@
 					"primary": "#F0B90B",
 					"active": "#F0B90B",
 					"link": "#F0B90B",
-					"bgFontColor": "#ffffff"
+					"bgFontColor": "#F0B90B"
 				},
 				"meta": {
 					"release": "May 2024",
@@ -1507,33 +1507,6 @@
 						{
 							"name": "Website",
 							"url": "https://binance.com/"
-						}
-					]
-				}
-			}
-		},
-		{
-			"id": "hytb",
-			"name": "HiYield Treasury Bill",
-			"symbol": "hyTB",
-			"contract": "cxf0a30d09ade391d7b570908b9b46cfa5b3cbc8f8",
-			"supportedApps": ["balanced", "xcall"],
-			"page": {
-				"description": "hyTB represents US treasury bills purchased via HiYield. hyTB earns ~5% interest per year, and can be traded 1:1 with bnUSD via the Balanced Stability Fund.",
-				"colors": {
-					"primary": "#7D5DF5",
-					"active": "#9E7CF8",
-					"link": "#7D5DF5",
-					"bgFontColor": "#ffffff"
-				},
-				"meta": {
-					"release": "March 5, 2024",
-					"availableOn": ["ICON", "Avalanche"],
-					"tags": ["real-world asset"],
-					"links": [
-						{
-							"name": "Website",
-							"url": "https://hiyield.xyz"
 						}
 					]
 				}
