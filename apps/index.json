@@ -10,7 +10,7 @@
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/preview.png",
 			"showInChart": true,
-			"supportedAssets": ["ICX", "sICX", "bnUSD", "BALN", "CFT"],
+			"supportedAssets": ["bnUSD", "BALN", "ICX", "sICX", "CFT"],
 			"page": {
 				"gallery": {
 					"main": {
@@ -126,9 +126,9 @@
 				"description": "xCall (also known as General Message Passing) is the ICON Network’s cross-chain messaging standard. It allows developers to interact with smart contracts on other blockchains, so they can reach a wider audience and create a range of new multi-chain use cases.\n\nOriginally designed for BTP, ICON’s interoperability protocol, xCall can be adopted by most blockchains and protocols, and is already connected to the Ethereum and Cosmos ecosystems.\n\nTo demonstrate the technology, ICON has put its efforts behind its flagship finance app, Balanced. The goal is to make it a leading cross-chain finance hub that supports all xCall-connected chains.\n\nAll cross-chain transaction fees are converted to ICX and then burned, so the more activity xCall receives, the more deflationary ICX becomes.",
 				"colors": {
 					"primary": "#424C68",
-					"active": "#008CA9",
+					"active": "#ffffff",
 					"link": "#424C68",
-					"bgFontColor": "#586B80"
+					"bgFontColor": "#ffffff"
 				},
 				"meta": {
 					"releasedOn": "October 5, 2023",
