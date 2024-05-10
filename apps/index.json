@@ -126,7 +126,7 @@
 				"description": "xCall (also known as General Message Passing) is the ICON Network’s cross-chain messaging standard. It allows developers to interact with smart contracts on other blockchains, so they can reach a wider audience and create a range of new multi-chain use cases.\n\nOriginally designed for BTP, ICON’s interoperability protocol, xCall can be adopted by most blockchains and protocols, and is already connected to the Ethereum and Cosmos ecosystems.\n\nTo demonstrate the technology, ICON has put its efforts behind its flagship finance app, Balanced. The goal is to make it a leading cross-chain finance hub that supports all xCall-connected chains.\n\nAll cross-chain transaction fees are converted to ICX and then burned, so the more activity xCall receives, the more deflationary ICX becomes.",
 				"colors": {
 					"primary": "#424C68",
-					"active": "#ffffff",
+					"active": "#008CA9",
 					"link": "#424C68",
 					"bgFontColor": "#ffffff"
 				},
@@ -190,7 +190,7 @@
 					"bgFontColor": "#7A8294"
 				},
 				"meta": {
-					"releasedOn": "April 25, 2021",
+					"releasedOn": "August 26, 2021",
 					"tagLine": "Liquid staking on the ICON blockchain.",
 					"tags": ["Liquid staking", "DeFi", "Governance"],
 					"availableOn": ["ICON"],
@@ -375,7 +375,7 @@
 					"primary": "#12025E",
 					"active": "#BE00DD",
 					"link": "#BE00DD",
-					"bgFontColor": "#12025E"
+					"bgFontColor": "#ffffff"
 				},
 				"meta": {
 					"releasedOn": "May 22, 2023",
@@ -421,7 +421,7 @@
 					"primary": "#424C68",
 					"active": "#008CA9",
 					"link": "#424C68",
-					"bgFontColor": "#586B80"
+					"bgFontColor": "#ffffff"
 				},
 				"meta": {
 					"releasedOn": "May 2022",
@@ -662,9 +662,9 @@
 				"description": "Hana is a multi-chain crypto wallet wallet that supports ICON, the blockchains it's connected to, and more. It includes the ability to stake ICX and vote for ICON validators, swap between assets via Balanced, and purchase crypto with fiat currency.\n\nYou can use Hana with all your favourite blockchain apps, either as an extension in your browser or through the mobile app when you're on the go. It's even compatible with your Ledger.",
 				"colors": {
 					"primary": "#16073A",
-					"active": "#3308A8",
-					"link": "#D4C5F9",
-					"bgFontColor": "#16073A"
+					"active": "#D4C5F9",
+					"link": "#3308A8",
+					"bgFontColor": "#ffffff"
 				},
 				"meta": {
 					"releasedOn": "2021",
