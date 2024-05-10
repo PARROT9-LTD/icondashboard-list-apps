@@ -44,7 +44,7 @@
 						}
 					]
 				},
-				"description": "Balanced is the flagship DeFi product of the ICON ecosystem. You can use it to borrow Balanced Dollars, trade cryptoassets, provide liquidity, and participate in Balanced governance.\n\nThe Balanced Dollar (bnUSD) is a stablecoin that tracks the value of 1 USD. You can borrow it against a variety of collateral types for a small fee, then use it to supply liquidity on the Balanced exchange.\n\nBalanced is community-owned, so it incentivises borrowers and liquidity providers with BALN, its governance token. Lock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), which gives you voting power and boosts your earning potential.\n\nIn 2024, Balanced became [economically enshrined](https://blog.balanced.network/economic-enshrinement/) by the ICON blockchain. ICON uses blockchain emissions to provide incentives and network-owned liquidity, and in return, Balanced uses 50% of its revenue to buy and burn ICX.",
+				"description": "Balanced is the flagship DeFi product of the ICON ecosystem. You can use it to borrow Balanced Dollars, trade cryptoassets, provide liquidity, and participate in Balanced governance.\n\nBalanced is community-owned, so it incentivises borrowers and liquidity providers with BALN, its governance token. Lock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), which gives you voting power and boosts your earning potential.\n\nIn 2024, Balanced became [economically enshrined](https://blog.balanced.network/economic-enshrinement/) by the ICON blockchain. ICON uses blockchain emissions to provide incentives and network-owned liquidity, and in return, Balanced uses 50% of its revenue to buy and burn ICX.",
 				"colors": {
 					"primary": "#0c2a4d",
 					"active": "#2ca9b7",
@@ -66,17 +66,18 @@
 							"url": "https://app.balanced.network/"
 						},
 						{
+							"name": "Docs",
+							"url": "https://docs.balanced.network/"
+						},
+						{
 							"name": "Blog",
 							"url": "https://blog.balanced.network/"
 						},
 						{
 							"name": "Forum",
 							"url": "https://gov.balanced.network/"
-						},
-						{
-							"name": "Docs",
-							"url": "https://docs.balanced.network/"
 						}
+						
 					],
 					"socials": {
 						"twitter": "https://twitter.com/BalancedDAO",
