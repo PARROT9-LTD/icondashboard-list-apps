@@ -625,7 +625,7 @@
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/hana/preview.png",
 			"showInChart": true,
-			"supportedAssets":[""],
+			"supportedAssets": [],
 			"page": {
 				"gallery": {
 					"main": {
