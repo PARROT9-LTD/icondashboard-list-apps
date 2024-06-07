@@ -1,5 +1,5 @@
 <svg viewBox="0 0 188 207" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <path d="M171.263,67.237c0,-20.878 -16.95,-37.828 -37.827,-37.828l-95.609,0c-20.877,0 -37.827,16.95 -37.827,37.828l0,101.051c0,20.877 16.95,37.827 37.827,37.827l95.609,-0c20.877,-0 37.827,-16.95 37.827,-37.827l0,-101.051Z" style="fill:url(#_Radial1);"/>
+    <path d="M171.263,67.237c0,-20.878 -16.95,-37.828 -37.827,-37.828l-95.609,0c-20.877,0 -37.827,16.95 -37.827,37.828l0,101.051c0,20.877 16.95,37.827 37.827,37.827l95.609,-0c20.877,-0 37.827,-16.95 37.827,-37.827l0,-101.051Z" style="fill:url(#_hanaRadial41);"/>
     <g id="circuit3">
         <rect x="110.417" y="132.6" width="42.009" height="5.94" style="fill:#AC95E5"/>
         <path d="M160.024,124.005c-6.204,-0 -11.24,5.036 -11.24,11.239c0,6.204 5.036,11.24 11.24,11.24c6.203,-0 11.239,-5.036 11.239,-11.24c0,-6.203 -5.036,-11.239 -11.239,-11.239Zm-0,6.425c2.658,0 4.814,2.156 4.814,4.814c-0,2.658 -2.156,4.818 -4.814,4.818c-2.658,0 -4.814,-2.16 -4.814,-4.818c-0,-2.658 2.156,-4.814 4.814,-4.814Z" style="fill:#AC95E5;"/>
@@ -15,9 +15,9 @@
     <g id="contract2">
         <path id="white-box" d="M126.494,37.284c0,-5.412 -4.398,-9.804 -9.804,-9.804l-83.377,0c-5.411,0 -9.804,4.392 -9.804,9.804l0,117.371c0,5.411 4.393,9.804 9.804,9.804l83.377,-0c5.406,-0 9.804,-4.393 9.804,-9.804l0,-117.371Z" style="fill:#EAE4F9; transform: translateY(-3px)"/>
     </g>
-    <path id="contract-shadow" d="M122.451,25.751c0,-14.213 -11.538,-25.751 -25.75,-25.751l-65.085,0c-14.212,0 -25.751,11.538 -25.751,25.751l0,118.753c0,14.212 11.539,25.75 25.751,25.75l65.085,0c14.212,0 25.75,-11.538 25.75,-25.75l0,-118.753Z" style="fill:url(#_Radial3);"/>
+    <path id="contract-shadow" d="M122.451,25.751c0,-14.213 -11.538,-25.751 -25.75,-25.751l-65.085,0c-14.212,0 -25.751,11.538 -25.751,25.751l0,118.753c0,14.212 11.539,25.75 25.751,25.75l65.085,0c14.212,0 25.75,-11.538 25.75,-25.75l0,-118.753Z" style="fill:url(#_hanaRadial43);"/>
     <g id="contract1">
-        <path id="white-box1" d="M133.524,41.342c-0,-5.411 -4.398,-9.803 -9.804,-9.803l-83.377,-0c-5.412,-0 -9.804,4.392 -9.804,9.803l-0,117.372c-0,5.411 4.392,9.803 9.804,9.803l83.377,0c5.406,0 9.804,-4.392 9.804,-9.803l-0,-117.372Z" style="fill:url(#_Linear4);stroke:white;stroke-width:2px;"/>
+        <path id="white-box1" d="M133.524,41.342c-0,-5.411 -4.398,-9.803 -9.804,-9.803l-83.377,-0c-5.412,-0 -9.804,4.392 -9.804,9.803l-0,117.372c-0,5.411 4.392,9.803 9.804,9.803l83.377,0c5.406,0 9.804,-4.392 9.804,-9.803l-0,-117.372Z" style="fill:url(#_hanaLinear44);stroke:white;stroke-width:2px;"/>
     </g>
     <g id="text-lines">
         <circle cx="106.222" cy="130.894" r="9.858" style="fill:#AC95E5;"/>
@@ -27,10 +27,10 @@
         <path d="M49.893,131.019l32.127,-0" style="fill:none;stroke:#AC95E5;stroke-width:8px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
     </g>
     <defs>
-        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(84.1107,-1.06279e-14,1.03006e-14,86.7836,85.2325,124.644)"><stop offset="0" style="stop-color:#16073A;stop-opacity:0.5"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
-        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.89062e-15,96.2011,-96.2011,5.89062e-15,82.5329,27.4802)"><stop offset="0" style="stop-color:#013A40;stop-opacity:1"/><stop offset="1" style="stop-color:#FF9900;stop-opacity:1"/></linearGradient>
-        <radialGradient id="_Radial3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(57.2576,-1.02399e-14,7.01203e-15,83.6152,63.8866,91.7578)"><stop offset="0" style="stop-color:#AC95E5;stop-opacity:0.5"/><stop offset="1" style="stop-color:#D4C5F9;stop-opacity:0"/></radialGradient>
-        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.89062e-15,96.2011,-96.2011,5.89062e-15,89.5625,31.5386)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E2DAF6;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_hanaRadial41" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(84.1107,-1.06279e-14,1.03006e-14,86.7836,85.2325,124.644)"><stop offset="0" style="stop-color:#16073A;stop-opacity:0.5"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_hanaLinear42" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.89062e-15,96.2011,-96.2011,5.89062e-15,82.5329,27.4802)"><stop offset="0" style="stop-color:#013A40;stop-opacity:1"/><stop offset="1" style="stop-color:#FF9900;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_hanaRadial43" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(57.2576,-1.02399e-14,7.01203e-15,83.6152,63.8866,91.7578)"><stop offset="0" style="stop-color:#AC95E5;stop-opacity:0.5"/><stop offset="1" style="stop-color:#D4C5F9;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_hanaLinear44" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.89062e-15,96.2011,-96.2011,5.89062e-15,89.5625,31.5386)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E2DAF6;stop-opacity:1"/></linearGradient>
     </defs>
     <style>
         #circuit1,

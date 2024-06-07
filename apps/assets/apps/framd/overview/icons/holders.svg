@@ -1,0 +1,62 @@
+<svg viewBox="0 0 165 158" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5">
+    <title>Holders icon</title>
+    <g id="person1">
+        <path d="M45.622,35.618c30.103,0 54.542,18.68 54.542,41.689c0,23.01 -24.439,41.69 -54.542,41.69c-30.103,0 -41.692,-18.744 -41.692,-41.753c0,-23.009 11.589,-41.626 41.692,-41.626Z" style="fill:url(#_framdRadial11);"/>
+        <path d="M78.299,63.439c2.605,1.829 4.177,4.795 4.229,7.978c0.052,3.183 -1.422,6.198 -3.967,8.111c-22.346,16.745 -44.696,15.836 -67.046,-0.048c-2.644,-1.835 -4.228,-4.844 -4.242,-8.064c-0.015,-3.219 1.542,-6.242 4.171,-8.101c10.616,-7.784 25.846,-22.829 32.377,-48.625c0,0 0.314,-7.546 0.899,-4.207c0.585,-3.339 0.899,4.207 0.899,4.207c6.584,26.005 22.008,41.084 32.68,48.749Z" style="fill:#FF9900"/>
+        <path d="M78.299,63.439c2.605,1.829 4.177,4.795 4.229,7.978c0.052,3.183 -1.422,6.198 -3.967,8.111c-22.346,16.745 -44.696,15.836 -67.046,-0.048c-2.644,-1.835 -4.228,-4.844 -4.242,-8.064c-0.015,-3.219 1.542,-6.242 4.171,-8.101c10.616,-7.784 25.846,-22.829 32.377,-48.625c0,0 0.314,-7.546 0.899,-4.207c0.585,-3.339 0.899,4.207 0.899,4.207c6.584,26.005 22.008,41.084 32.68,48.749Z" style="fill:url(#_framdLinear12);"/>
+        <path d="M19.95,25.696c3.197,-0.498 6.284,2.249 6.889,6.132c0.605,3.883 -1.499,7.44 -4.696,7.939c-3.197,0.498 -6.283,-2.25 -6.889,-6.133c-0.605,-3.882 1.499,-7.439 4.696,-7.938Z" style="fill:#FF9900;"/>
+        <ellipse cx="67.991" cy="32.731" rx="5.862" ry="7.12" style="fill:none;"/>
+        <ellipse cx="44.537" cy="30.109" rx="24.79" ry="30.109" style="fill:#FF9900;"/>
+    </g>
+    <g id="person2">
+        <path d="M120.743,35.618c30.103,0 41.214,18.68 41.214,41.689c0,23.01 -11.111,41.69 -41.214,41.69c-30.103,0 -54.542,-18.68 -54.542,-41.69c0,-23.009 24.439,-41.689 54.542,-41.689Z" style="fill:url(#_framdRadial13);"/>
+        <path d="M153.353,63.39c2.621,1.844 4.202,4.832 4.251,8.037c0.049,3.204 -1.439,6.239 -4.003,8.162c-22.29,16.661 -44.584,15.758 -66.878,-0.047c-2.666,-1.844 -4.264,-4.873 -4.282,-8.114c-0.018,-3.242 1.547,-6.288 4.192,-8.162c10.613,-7.799 25.792,-22.835 32.309,-48.576c0,0 0.314,-7.546 0.899,-4.207c0.585,-3.339 0.899,4.207 0.899,4.207c6.57,25.951 21.943,41.021 32.613,48.7Z" style="fill:#FF9900"/>
+        <path d="M153.353,63.39c2.621,1.844 4.202,4.832 4.251,8.037c0.049,3.204 -1.439,6.239 -4.003,8.162c-22.29,16.661 -44.584,15.758 -66.878,-0.047c-2.666,-1.844 -4.264,-4.873 -4.282,-8.114c-0.018,-3.242 1.547,-6.288 4.192,-8.162c10.613,-7.799 25.792,-22.835 32.309,-48.576c0,0 0.314,-7.546 0.899,-4.207c0.585,-3.339 0.899,4.207 0.899,4.207c6.57,25.951 21.943,41.021 32.613,48.7Z" style="fill:url(#_framdLinear14);"/>
+        <ellipse cx="142.168" cy="32.731" rx="5.862" ry="7.12" style="fill:#FF9900;"/>
+        <path d="M144.26,25.704c3.193,0.521 5.271,4.093 4.638,7.972c-0.633,3.878 -3.739,6.604 -6.933,6.083c-3.193,-0.522 -5.271,-4.094 -4.638,-7.972c0.633,-3.879 3.739,-6.604 6.933,-6.083Z" style="fill:none;"/>
+        <ellipse cx="119.658" cy="30.109" rx="24.79" ry="30.109" style="fill:#FF9900;"/>
+    </g>
+    <g id="person3">
+        <ellipse cx="82.163" cy="110.033" rx="77.933" ry="47.694" style="fill:url(#_framdRadial15);"/>
+        <path d="M118.476,92.233c3.696,2.658 5.842,6.969 5.736,11.521c-0.107,4.552 -2.453,8.757 -6.27,11.239c-24.333,15.855 -48.677,15.01 -73.021,-0.197c-3.899,-2.43 -6.335,-6.639 -6.5,-11.231c-0.164,-4.591 1.964,-8.964 5.68,-11.667c12.484,-9.313 28.672,-26.109 35.911,-53.5c0,0 0.375,-8.633 1.074,-4.813c0.698,-3.82 1.073,4.813 1.073,4.813c7.321,27.701 23.794,44.565 36.317,53.835Z" style="fill:url(#_framdLinear16);stroke:white;stroke-width:2px;"/>
+        <ellipse cx="81.403" cy="72.154" rx="33.499" ry="43.778" style="fill:url(#_framdRadial17);"/>
+        <path d="M51.846,51.023c3.801,-0.69 7.539,2.342 8.341,6.766c0.802,4.423 -1.633,8.574 -5.435,9.264c-3.802,0.689 -7.54,-2.343 -8.342,-6.766c-0.802,-4.424 1.634,-8.575 5.436,-9.264Z" style="fill:url(#_framdLinear18);stroke:white;stroke-width:2px;"/>
+        <path d="M110.804,51.021c3.803,0.685 6.243,4.833 5.446,9.258c-0.798,4.424 -4.532,7.46 -8.335,6.775c-3.802,-0.685 -6.242,-4.833 -5.445,-9.258c0.797,-4.424 4.531,-7.46 8.334,-6.775Z" style="fill:url(#_framdLinear19);stroke:white;stroke-width:2px;"/>
+        <ellipse cx="80.867" cy="56.038" rx="29.604" ry="34.445" style="fill:url(#_framdLinear110);stroke:white;stroke-width:2px;"/>
+    </g>
+    <defs>
+        <radialGradient id="_framdRadial11" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-47.2623,0,0,-39.444,52.2711,74.0608)"><stop offset="0" style="stop-color:black;stop-opacity:0.6"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_framdLinear12" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.98459e-15,65.0732,-65.0732,3.98459e-15,44.4396,23.9149)"><stop offset="0" style="stop-color:#C77700;stop-opacity:1"/><stop offset="1" style="stop-color:#FF9900;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_framdRadial13" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-47.0275,0,0,-39.444,114.302,74.0608)"><stop offset="0" style="stop-color:black;stop-opacity:0.6"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_framdLinear14" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.97971e-15,65.0735,-64.9936,3.9846e-15,119.562,23.915)"><stop offset="0" style="stop-color:#C77700;stop-opacity:1"/><stop offset="1" style="stop-color:#FF9900;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_framdRadial15" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-76.5487,0,0,-45.1251,82.526,106.319)"><stop offset="0" style="stop-color:black;stop-opacity:0.6"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_framdLinear16" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.17988e-14,90.9291,-83.0566,-3.48128e-14,86.4846,33.6517)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE2B8;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_framdRadial17" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-32.9039,0,0,-41.42,81.559,68.7446)"><stop offset="0" style="stop-color:#FF9900;stop-opacity:0.6"/><stop offset="1" style="stop-color:#FF9900;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_framdLinear18" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-5.21898e-15,15.706,-13.6317,-6.01317e-15,54.1472,51.1051)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE2B8;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_framdLinear19" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-5.21869e-15,15.7065,-13.6309,-6.01334e-15,110.209,51.1045)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE2B8;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_framdLinear110" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2.19425e-14,66.6845,-57.3125,-2.55306e-14,84.4349,22.3572)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE2B8;stop-opacity:1"/></linearGradient>
+    </defs>
+    <style type="text/css">
+        #person1,
+        #person2,
+        #person3 {
+            transform-box: fill-box;
+            transform-origin: center;
+        }
+        #person1,
+        #person2,
+        #person3 {
+            transform: translateX(0);
+            transition: 0.5s ease-in;
+        }
+        svg:hover #person1 {
+            transform: translateX(10px);
+        }
+        svg:hover #person2 {
+            transform: translateX(-10px);
+        }
+        svg:hover #person3 {
+            transform: scale(0.95);
+        }
+    </style>
+</svg>
