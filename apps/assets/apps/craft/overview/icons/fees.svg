@@ -1,34 +1,34 @@
 <svg viewBox="0 0 115 151" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-  <path id="craft-flame-shadow" d="M57.143 1.206c-.544 22.687 12.611 27.711 19.922 42.702.902 1.85-2.289-19.727-1.065-17.854 4.542 6.955 17.703 26.94 22.435 48.817.937 4.33 1.755 8.696 2.462 12.919.196 1.172 3.148-12.707 3.327-11.561.187 1.196 4.688 16.824 4.856 17.983 1.782 12.233 2.398 20.265 2.398 22.922 0 16.881-29.139 33.674-54.335 33.674-22.246 0-46.545-9.448-51.327-23.481-.3-.879-2.633-7.695-2.795-8.602-.181-1.011 4.789 2.988 4.394 1.98-3.463-8.836-5.177-43.587 14.873-59.477.581-.46-3.262 28.077-1.751 23.675C30.879 54.781 57.16.521 57.143 1.206Z" style="fill:url(#_craftRadial1)"/>
-  <path id="craft-flame-back" d="M57.158.006c-.467 19.483 10.831 23.799 17.109 36.673.775 1.589-1.966-16.942-.915-15.333 3.901 5.973 15.204 23.136 19.268 41.924.805 3.72 1.507 7.469 2.114 11.096.169 1.007 2.704-10.913 2.858-9.929.161 1.027 4.026 14.449 4.171 15.444 1.53 10.506 2.059 17.404 2.059 19.686 0 14.497-25.025 28.919-46.664 28.919-19.106 0-39.975-8.113-44.081-20.165-.257-.755-2.261-6.609-2.401-7.387-.155-.869 4.113 2.565 3.774 1.7-2.974-7.589-4.446-37.434 12.774-51.08.499-.396-2.802 24.113-1.504 20.332C34.602 46.017 57.172-.583 57.158.006Z" style="fill:#70D1C8"/>
-  <path id="craft-flame-middle" d="M57.158 31.786c6.741 0 18.36 31.748 26.022 51 .413 1.038 3.777-5.862 4.165-4.847.485 1.267 2.419 9.405 2.743 10.641 2.541 9.669 2.035 16.279.709 19.794-4.048 10.731-15.073 20.055-33.639 20.055-18.566 0-30.094-6.175-34.193-16.898-1.751-4.58-6.755-16.3-.594-28.842 3.22-6.556 11.664-14.031 11.099-12.993-.337.619.51 6.23.785 5.598 7.438-17.107 17.025-43.508 22.903-43.508Z" style="fill:#BEEAE6"/>
-  <path d="M57.071 55.488c49.704 0 57.855 35.221 57.855 49.165 0 13.944-12.438 40.986-57.855 40.986C4.706 145.639 0 121.183 0 107.239c0-13.945 7.368-51.751 57.071-51.751Z" style="fill:url(#_craftRadial2)"/>
-  <path id="craft-flame" d="M57.158 70.565c4.352 0 13.697 37.383 13.697 44.761 0 7.379-6.138 13.369-13.697 13.369-7.559 0-13.696-5.99-13.696-13.369 0-7.378 9.344-44.761 13.696-44.761Z" style="fill:url(#_craftLinear3);stroke:#fff;stroke-width:2px"/>
+  <path id="flame-shadow" d="M57.143 1.206c-.544 22.687 12.611 27.711 19.922 42.702.902 1.85-2.289-19.727-1.065-17.854 4.542 6.955 17.703 26.94 22.435 48.817.937 4.33 1.755 8.696 2.462 12.919.196 1.172 3.148-12.707 3.327-11.561.187 1.196 4.688 16.824 4.856 17.983 1.782 12.233 2.398 20.265 2.398 22.922 0 16.881-29.139 33.674-54.335 33.674-22.246 0-46.545-9.448-51.327-23.481-.3-.879-2.633-7.695-2.795-8.602-.181-1.011 4.789 2.988 4.394 1.98-3.463-8.836-5.177-43.587 14.873-59.477.581-.46-3.262 28.077-1.751 23.675C30.879 54.781 57.16.521 57.143 1.206Z" style="fill:url(#_Radial1)"/>
+  <path id="flame-back" d="M57.158.006c-.467 19.483 10.831 23.799 17.109 36.673.775 1.589-1.966-16.942-.915-15.333 3.901 5.973 15.204 23.136 19.268 41.924.805 3.72 1.507 7.469 2.114 11.096.169 1.007 2.704-10.913 2.858-9.929.161 1.027 4.026 14.449 4.171 15.444 1.53 10.506 2.059 17.404 2.059 19.686 0 14.497-25.025 28.919-46.664 28.919-19.106 0-39.975-8.113-44.081-20.165-.257-.755-2.261-6.609-2.401-7.387-.155-.869 4.113 2.565 3.774 1.7-2.974-7.589-4.446-37.434 12.774-51.08.499-.396-2.802 24.113-1.504 20.332C34.602 46.017 57.172-.583 57.158.006Z" style="fill:#70D1C8"/>
+  <path id="flame-middle" d="M57.158 31.786c6.741 0 18.36 31.748 26.022 51 .413 1.038 3.777-5.862 4.165-4.847.485 1.267 2.419 9.405 2.743 10.641 2.541 9.669 2.035 16.279.709 19.794-4.048 10.731-15.073 20.055-33.639 20.055-18.566 0-30.094-6.175-34.193-16.898-1.751-4.58-6.755-16.3-.594-28.842 3.22-6.556 11.664-14.031 11.099-12.993-.337.619.51 6.23.785 5.598 7.438-17.107 17.025-43.508 22.903-43.508Z" style="fill:#BEEAE6"/>
+  <path d="M57.071 55.488c49.704 0 57.855 35.221 57.855 49.165 0 13.944-12.438 40.986-57.855 40.986C4.706 145.639 0 121.183 0 107.239c0-13.945 7.368-51.751 57.071-51.751Z" style="fill:url(#_Radial2)"/>
+  <path id="flame" d="M57.158 70.565c4.352 0 13.697 37.383 13.697 44.761 0 7.379-6.138 13.369-13.697 13.369-7.559 0-13.696-5.99-13.696-13.369 0-7.378 9.344-44.761 13.696-44.761Z" style="fill:url(#_Linear3);stroke:#fff;stroke-width:2px"/>
   <defs>
-    <radialGradient id="_craftRadial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 27.9324 -38.5286 0 56.874 116.298)"><stop offset="0" style="stop-color:#013A40;stop-opacity:1"/><stop offset="1" style="stop-color:#1AC1D2;stop-opacity:0"/></radialGradient>
-    <radialGradient id="_craftRadial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.8105 0 0 -35.0618 56.56 109.885)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#BFE7EB;stop-opacity:0"/></radialGradient>
-    <linearGradient id="_craftLinear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -94.7257 141.387 0 58.777 123.02)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E6F5F9;stop-opacity:1"/></linearGradient>
+    <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 27.9324 -38.5286 0 56.874 116.298)"><stop offset="0" style="stop-color:#013A40;stop-opacity:1"/><stop offset="1" style="stop-color:#70D1C8;stop-opacity:0"/></radialGradient>
+    <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.8105 0 0 -35.0618 56.56 109.885)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#BFE7EB;stop-opacity:0"/></radialGradient>
+    <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -94.7257 141.387 0 58.777 123.02)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E6F5F9;stop-opacity:1"/></linearGradient>
   </defs>
   <style>
-    #craft-flame,
-    #craft-flame-middle,
-    #craft-flame-back,
-    #craft-flame-shadow {
+    #flame,
+    #flame-middle,
+    #flame-back,
+    #flame-shadow {
         transform: scaleY(0.9);
         transform-origin: center;
         transition: all 0.5s ease;
     }
-    svg:hover #craft-flame {
+    svg:hover #flame {
         transform-origin: center bottom;
         transform: scaleY(1.5);
         transition: all 0.5s ease;
     }
-    svg:hover #craft-flame-middle {
+    svg:hover #flame-middle {
         transform: scaleY(1.1);
         transform-origin: center bottom;
         transition: all 0.5s ease;
     }
-    svg:hover #craft-flame-back {
+    svg:hover #flame-back {
         transform-origin: center bottom;
         transform: scaleY(1);
         transition: all 0.5s ease;
