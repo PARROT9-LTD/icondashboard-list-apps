@@ -1,25 +1,43 @@
-<svg viewBox="0 0 153 167" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5">
-    <ellipse cx="75.78" cy="86.912" rx="75.78" ry="80.27" style="fill:url(#_ommRadial61);"/>
-    <circle cx="75.78" cy="71.012" r="52.148" style="fill:url(#_ommLinear62);stroke:white;stroke-width:2px;"/>
-    <g id="wedge">
-        <path d="M106.575,24.754l-36.104,63.13l78.306,2.863c0.079,-1.343 -0.391,-2.795 0.119,-4.059c13.964,-34.658 -16.377,-66.329 -42.321,-61.934Z" style="fill:url(#_ommRadial63);"/>
-        <path d="M105.882,22.356l-26.237,46.978l52.957,1.7c0.061,-1.025 0.091,-2.057 0.091,-3.097c0,-19.588 -10.823,-36.668 -26.811,-45.581Z" style="fill:url(#_ommLinear64);"/>
+<svg viewBox="0 0 158 168" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g id="bars">
+        <g id="shadows">
+            <path d="M49.979,108.521c0,-6.516 -5.291,-11.807 -11.807,-11.807l-23.614,0c-6.517,0 -11.807,5.291 -11.807,11.807l0,47.345c0,6.517 5.29,11.807 11.807,11.807l23.614,0c6.516,0 11.807,-5.29 11.807,-11.807l0,-47.345Z" style="fill:url(#_ommRadial91);"/>
+            <path d="M86.228,99.274c-0,-7.535 -5.291,-13.653 -11.807,-13.653l-23.614,0c-6.517,0 -11.807,6.118 -11.807,13.653l-0,54.746c-0,7.536 5.29,13.653 11.807,13.653l23.614,0c6.516,0 11.807,-6.117 11.807,-13.653l-0,-54.746Z" style="fill:url(#_ommRadial92);"/>
+            <path d="M122.218,87.016c0,-8.885 -5.291,-16.1 -11.807,-16.1l-23.614,0c-6.517,0 -11.807,7.215 -11.807,16.1l0,64.557c0,8.887 5.29,16.1 11.807,16.1l23.614,0c6.516,0 11.807,-7.213 11.807,-16.1l0,-64.557Z" style="fill:url(#_ommRadial93);"/>
+            <path d="M158.15,76.332c0,-10.062 -5.291,-18.232 -11.807,-18.232l-23.614,-0c-6.517,-0 -11.807,8.17 -11.807,18.232l0,73.109c0,10.063 5.29,18.232 11.807,18.232l23.614,-0c6.516,-0 11.807,-8.169 11.807,-18.232l0,-73.109Z" style="fill:url(#_ommRadial94);"/>
+        </g>
+        <path d="M74.148,96.789c-0.002,-3.865 -3.182,-7.046 -7.048,-7.047l-14.096,0c-3.866,0.001 -7.046,3.182 -7.048,7.047l0,47.116c0.002,3.866 3.182,7.046 7.048,7.048l14.096,0c3.866,-0.002 7.046,-3.182 7.048,-7.048l0,-47.116Z" style="fill:url(#_ommLinear95);stroke:white;stroke-width:2px;"/>
+        <path d="M38.456,108.305c-0.001,-3.866 -3.182,-7.046 -7.047,-7.048l-14.097,0c-3.865,0.002 -7.046,3.182 -7.047,7.048l0,35.6c0.001,3.866 3.182,7.046 7.047,7.048l14.097,0c3.865,-0.002 7.046,-3.182 7.047,-7.048l0,-35.6Z" style="fill:url(#_ommLinear96);stroke:white;stroke-width:2px;"/>
+        <path d="M109.84,79.279c-0.002,-3.866 -3.183,-7.046 -7.048,-7.048l-14.096,0c-3.866,0.002 -7.046,3.182 -7.048,7.048l0,64.626c0.002,3.866 3.182,7.046 7.048,7.048l14.096,0c3.865,-0.002 7.046,-3.182 7.048,-7.048l0,-64.626Z" style="fill:url(#_ommLinear97);stroke:white;stroke-width:2px;"/>
+        <path d="M145.53,66.742c-0.001,-3.866 -3.182,-7.046 -7.047,-7.048l-14.096,0c-3.865,0.002 -7.046,3.182 -7.047,7.048l0,77.163c0.001,3.866 3.182,7.046 7.047,7.048l14.096,0c3.865,-0.002 7.046,-3.182 7.047,-7.048l0,-77.163Z" style="fill:url(#_ommLinear98);stroke:white;stroke-width:2px;"/>
     </g>
+    <path d="M135.611,20.201l13.482,5.36l-7.425,13.417" style="fill:none;stroke:rgb(0,207,190);stroke-width:8px;stroke-linecap:round;"/>
+    <path d="M9.754,73.876l137.272,-47.28" style="fill:none;stroke:url(#_ommLinear99);stroke-width:6.68px;stroke-linecap:round;"/>
     <defs>
-        <radialGradient id="_ommRadial61" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-74.4339,0,0,-75.9464,76.133,80.6607)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
-        <linearGradient id="_ommLinear62" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.86521e-14,100.957,-100.957,-3.86521e-14,82.065,20.021)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(220,226,238);stop-opacity:1"/></linearGradient>
-        <radialGradient id="_ommRadial63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-40.2455,0,0,-31.4129,111.635,54.9601)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
-        <linearGradient id="_ommLinear64" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.95951e-15,50.4885,-97.3262,3.09153e-15,105.549,20.2105)"><stop offset="0" style="stop-color:rgb(146,61,239);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(46,146,210);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,207,190);stop-opacity:1"/></linearGradient>
+        <radialGradient id="_ommRadial91" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-23.1945,0,0,-33.5685,26.475,129.431)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ommRadial92" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-23.1945,0,0,-38.8162,62.724,123.452)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ommRadial93" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-23.1945,0,0,-45.7727,98.714,115.527)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ommRadial94" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-23.1945,0,0,-51.8355,134.646,108.62)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
+        <linearGradient id="_ommLinear95" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.59624e-15,59.2514,-75.0624,3.6281e-15,61.7507,90.4211)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(220,226,238);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_ommLinear96" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.59608e-15,48.105,-75.0597,2.94558e-15,26.0591,101.808)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(220,226,238);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_ommLinear97" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.59624e-15,76.2018,-75.0624,4.66601e-15,97.4427,73.1043)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(220,226,238);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_ommLinear98" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.59592e-15,88.3374,-75.057,5.40911e-15,133.134,60.7064)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(220,226,238);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_ommLinear99" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(137.448,-46.7844,46.7844,137.448,9.60383,73.375)"><stop offset="0" style="stop-color:rgb(146,61,239);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(46,146,210);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,207,190);stop-opacity:1"/></linearGradient>
     </defs>
     <style>
-        #wedge {
-            transform: scale(1);
+        #bars path,
+        svg:hover #bars #shadows path {
+            transform: scaleY(1);
             transition: all 0.5s ease;
-            transform-origin: center;
+            transform-origin: center 90%;
         }
-        svg:hover #wedge {
-            transform: scale(1.1); 
+        svg:hover #bars path {
+            transform: scaleY(1.1); 
             transition: all 0.5s ease;
         }
-     </style>
+        svg:hover #bars #shadows path {
+            transform: scale(0.9); 
+            transition: all 0.5s ease;
+        }
+   </style>
 </svg>

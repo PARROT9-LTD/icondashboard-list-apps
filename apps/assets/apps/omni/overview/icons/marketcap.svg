@@ -1,42 +1,24 @@
-<svg viewBox="0 0 158 168" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="bars">
-        <path d="M49.979,108.521c0,-6.516 -5.291,-11.807 -11.807,-11.807l-23.614,0c-6.517,0 -11.807,5.291 -11.807,11.807l0,43.345c0,6.517 5.29,11.807 11.807,11.807l23.614,0c6.516,0 11.807,-5.29 11.807,-11.807l0,-43.345Z" style="fill:url(#_omniRadial21);"/>
-        <path d="M104.231,64.635c-0,-7.348 -5.965,-13.313 -13.313,-13.313l-26.626,0c-7.348,0 -13.313,5.965 -13.313,13.313l0,89.725c0,7.348 5.965,13.313 13.313,13.313l26.626,0c7.348,0 13.313,-5.965 13.313,-13.313l0,-89.725Z" style="fill:url(#_omniRadial22);"/>
-        <path d="M157.365,79.27c0,-6.516 -5.29,-11.807 -11.807,-11.807l-23.614,0c-6.516,0 -11.807,5.291 -11.807,11.807l0,75.485c0,6.517 5.291,11.807 11.807,11.807l23.614,0c6.517,0 11.807,-5.29 11.807,-11.807l0,-75.485Z" style="fill:url(#_omniRadial23);"/>
-        <path d="M38.417,102.409c-0.002,-4.4 -3.622,-8.02 -8.022,-8.022l-16.045,0c-4.4,0.002 -8.02,3.622 -8.022,8.022l-0,40.522c0.002,4.4 3.622,8.02 8.022,8.022l16.045,0c4.4,-0.002 8.02,-3.622 8.022,-8.022l0,-40.522Z" style="fill:url(#_omniLinear24);stroke:white;stroke-width:2px;"/>
-        <path d="M91.203,55.1c-0.002,-4.4 -3.622,-8.02 -8.022,-8.022l-16.044,0c-4.4,0.002 -8.02,3.622 -8.022,8.022l0,87.831c0.002,4.4 3.622,8.02 8.022,8.022l16.044,0c4.4,-0.002 8.02,-3.622 8.022,-8.022l0,-87.831Z" style="fill:url(#_omniLinear25);stroke:white;stroke-width:2px;"/>
-        <path d="M145.474,70.219c-0.002,-4.4 -3.622,-8.02 -8.022,-8.022l-16.044,-0c-4.4,0.002 -8.02,3.622 -8.023,8.022l0,72.22c0.002,4.4 3.623,8.02 8.023,8.022l16.044,-0c4.4,-0.002 8.02,-3.622 8.022,-8.022l0,-72.22Z" style="fill:url(#_omniLinear26);stroke:white;stroke-width:2px;"/>
+<svg viewBox="0 0 153 167" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5">
+    <ellipse cx="75.78" cy="86.912" rx="75.78" ry="80.27" style="fill:url(#_omniRadial61);"/>
+    <circle cx="75.78" cy="71.012" r="52.148" style="fill:url(#_omniLinear62);stroke:white;stroke-width:2px;"/>
+    <g id="wedge">
+        <path d="M106.575,24.754l-36.104,63.13l78.306,2.863c0.079,-1.343 -0.391,-2.795 0.119,-4.059c13.964,-34.658 -16.377,-66.329 -42.321,-61.934Z" style="fill:url(#_omniRadial63);"/>
+        <path d="M105.882,22.356l-26.237,46.978l52.957,1.7c0.061,-1.025 0.091,-2.057 0.091,-3.097c0,-19.588 -10.823,-36.668 -26.811,-45.581Z" style="fill:#09A073;"/>
     </g>
-    <path d="M136.885,19.222l14.508,-0.036l-1.906,15.216" style="fill:none;stroke:#09A073;stroke-width:8px;stroke-linecap:round;"/>
-    <path d="M4,68.99l71.913,-64.99l53.389,37.161l17.724,-18.489" style="fill:none;stroke:#09A073;stroke-width:8px;stroke-linecap:round;"/>
     <defs>
-        <radialGradient id="_omniRadial21" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,32.885,26.255,132.801)"><stop offset="0" style="stop-color:#063727;stop-opacity:1"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_omniRadial22" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(26.1532,0,0,57.1424,77.481,114.029)"><stop offset="0" style="stop-color:#063727;stop-opacity:1"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_omniRadial23" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,48.6696,133.641,120.872)"><stop offset="0" style="stop-color:#063727;stop-opacity:1"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
-        <linearGradient id="_omniLinear24" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.18922e-14,54.7551,-31.0617,-2.09634e-14,24.3062,95.0145)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#B7FBE6;stop-opacity:1"/></linearGradient>
-        <linearGradient id="_omniLinear25" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.18918e-14,100.549,-31.0607,-3.84961e-14,77.0927,48.2303)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#B7FBE6;stop-opacity:1"/></linearGradient>
-        <linearGradient id="_omniLinear26" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.18922e-14,85.4383,-31.0617,-3.27106e-14,131.363,63.1762)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#B7FBE6;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_omniRadial61" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-67.0708,1.10375,-1.20673,-68.4334,77.4246,73.2423)"><stop offset="0" style="stop-color:#063727;stop-opacity:1"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_omniLinear62" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.86521e-14,100.957,-100.957,-3.86521e-14,82.065,20.021)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#B7FBE6;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_omniRadial63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.2644,0.456536,-0.652462,-28.3055,112.334,51.8915)"><stop offset="0" style="stop-color:#063727;stop-opacity:0.8"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
     </defs>
     <style>
-        #bars path {
-            transform: scaleY(1);
+        #wedge {
+            transform: scale(1);
             transition: all 0.5s ease;
-            transform-origin: center 90%;
+            transform-origin: center;
         }
-        svg:hover #bars path:nth-of-type(3),
-        svg:hover #bars path:nth-of-type(6) {
-            transform: scaleY(0.9); 
-            transition: all 0.5s ease;
-        }
-        svg:hover #bars path:nth-of-type(2),
-        svg:hover #bars path:nth-of-type(5) {
-            transform: scaleY(0.6); 
+        svg:hover #wedge {
+            transform: scale(1.1); 
             transition: all 0.5s ease;
         }
-        svg:hover #bars path:nth-of-type(1),
-        svg:hover #bars path:nth-of-type(4) {
-            transform: scaleY(1.4); 
-            transition: all 0.5s ease;
-        }
-   </style>
+     </style>
 </svg>
