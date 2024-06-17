@@ -1,6 +1,7 @@
-<svg viewBox="0 0 2800 500" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect x="-0" y="0" width="2800" height="500" style="fill:url(#_Linear2);"/>
+
+<svg viewBox="0 0 1997 383" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5">
+    <rect x="0" y="0" width="1996.66" height="382.552" style="fill:url(#_craftbgLinear1);"/>
     <defs>
-        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.94053e-14,480.226,-2142.37,1.31182e-13,689.379,8.14985)"><stop offset="0" style="stop-color:rgb(45,115,122);stop-opacity:1"/><stop offset="0.44" style="stop-color:rgb(52,107,117);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(67,87,107);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_craftbgLinear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.09688e-14,367.423,-342.446,2.24982e-14,491.592,6.23548)"><stop offset="0" style="stop-color:rgb(14,154,141);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(67,87,107);stop-opacity:1"/></linearGradient>
     </defs>
 </svg>

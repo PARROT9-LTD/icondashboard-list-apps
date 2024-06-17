@@ -1,24 +1,44 @@
-<svg viewBox="0 0 153 167" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5">
-    <ellipse cx="75.78" cy="86.912" rx="75.78" ry="80.27" style="fill:url(#_hanaRadial61);"/>
-    <circle cx="75.78" cy="71.012" r="52.148" style="fill:url(#_hanaLinear62);stroke:white;stroke-width:2px;"/>
-    <g id="wedge">
-        <path d="M106.575,24.754l-36.104,63.13l78.306,2.863c0.079,-1.343 -0.391,-2.795 0.119,-4.059c13.964,-34.658 -16.377,-66.329 -42.321,-61.934Z" style="fill:url(#_hanaRadial63);"/>
-        <path d="M105.882,22.356l-26.237,46.978l52.957,1.7c0.061,-1.025 0.091,-2.057 0.091,-3.097c0,-19.588 -10.823,-36.668 -26.811,-45.581Z" style="fill:#AC95E5;"/>
+
+<svg viewBox="0 0 158 168" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g id="bars">
+        <g id="shadows">
+        <path d="M49.979,108.521c0,-6.516 -5.291,-11.807 -11.807,-11.807l-23.614,0c-6.517,0 -11.807,5.291 -11.807,11.807l0,47.345c0,6.517 5.29,11.807 11.807,11.807l23.614,0c6.516,0 11.807,-5.29 11.807,-11.807l0,-47.345Z" style="fill:url(#_hanaRadial91);"/>
+        <path d="M86.228,99.274c-0,-7.535 -5.291,-13.653 -11.807,-13.653l-23.614,0c-6.517,0 -11.807,6.118 -11.807,13.653l-0,54.746c-0,7.536 5.29,13.653 11.807,13.653l23.614,-0c6.516,-0 11.807,-6.117 11.807,-13.653l-0,-54.746Z" style="fill:url(#_hanaRadial92);"/>
+        <path d="M122.218,87.016c-0,-8.885 -5.291,-16.1 -11.807,-16.1l-23.614,0c-6.517,0 -11.807,7.215 -11.807,16.1l-0,64.557c-0,8.887 5.29,16.1 11.807,16.1l23.614,0c6.516,0 11.807,-7.213 11.807,-16.1l-0,-64.557Z" style="fill:url(#_hanaRadial93);"/>
+        <path d="M158.15,76.332c-0,-10.062 -5.291,-18.232 -11.807,-18.232l-23.614,0c-6.517,0 -11.807,8.17 -11.807,18.232l-0,73.109c-0,10.063 5.29,18.232 11.807,18.232l23.614,-0c6.516,-0 11.807,-8.169 11.807,-18.232l-0,-73.109Z" style="fill:url(#_hanaRadial94);"/>
     </g>
+        
+        <path d="M74.148,96.789c-0.002,-3.865 -3.182,-7.046 -7.048,-7.047l-14.096,-0c-3.866,0.001 -7.046,3.182 -7.048,7.047l0,47.116c0.002,3.866 3.182,7.046 7.048,7.048l14.096,0c3.866,-0.002 7.046,-3.182 7.048,-7.048l-0,-47.116Z" style="fill:url(#_hanaLinear95);stroke:white;stroke-width:1.76px;"/>
+        <path d="M38.456,108.305c-0.001,-3.866 -3.182,-7.046 -7.047,-7.048l-14.097,0c-3.865,0.002 -7.046,3.182 -7.047,7.048l-0,35.6c0.001,3.866 3.182,7.046 7.047,7.048l14.097,0c3.865,-0.002 7.046,-3.182 7.047,-7.048l0,-35.6Z" style="fill:url(#_hanaLinear96);stroke:white;stroke-width:1.76px;"/>
+        <path d="M109.84,79.279c-0.002,-3.866 -3.183,-7.046 -7.048,-7.048l-14.096,0c-3.866,0.002 -7.046,3.182 -7.048,7.048l-0,64.626c0.002,3.866 3.182,7.046 7.048,7.048l14.096,0c3.865,-0.002 7.046,-3.182 7.048,-7.048l-0,-64.626Z" style="fill:url(#_hanaLinear97);stroke:white;stroke-width:1.76px;"/>
+        <path d="M145.53,66.742c-0.001,-3.866 -3.182,-7.046 -7.047,-7.048l-14.096,0c-3.865,0.002 -7.046,3.182 -7.047,7.048l-0,77.163c0.001,3.866 3.182,7.046 7.047,7.048l14.096,0c3.865,-0.002 7.046,-3.182 7.047,-7.048l0,-77.163Z" style="fill:url(#_hanaLinear98);stroke:white;stroke-width:1.76px;"/>
+    </g>
+    <path d="M135.611,20.201l13.482,5.36l-7.425,13.417" style="fill:none;stroke:#AC95E5;stroke-width:8px;stroke-linecap:round;"/>
+    <path d="M9.754,73.876l137.272,-47.28" style="fill:none;stroke:#AC95E5;stroke-width:8px;stroke-linecap:round;"/>
     <defs>
-        <radialGradient id="_hanaRadial61" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-67.0708,1.10375,-1.20673,-68.4334,77.4246,73.2423)"><stop offset="0" style="stop-color:#020809;stop-opacity:0.4"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
-        <linearGradient id="_hanaLinear62" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.86521e-14,100.957,-100.957,-3.86521e-14,82.065,20.021)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E2DAF6;stop-opacity:1"/></linearGradient>
-        <radialGradient id="_hanaRadial63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.2644,0.456536,-0.652462,-28.3055,112.334,51.8915)"><stop offset="0" style="stop-color:#020809;stop-opacity:0.6"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_hanaRadial91" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,32.885,26.255,132.801)"><stop offset="0" style="stop-color:black;stop-opacity:0.8"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_hanaRadial92" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,38.0257,62.5039,127.35)"><stop offset="0" style="stop-color:black;stop-opacity:0.8"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_hanaRadial93" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,44.8407,98.4938,120.123)"><stop offset="0" style="stop-color:black;stop-opacity:0.8"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_hanaRadial94" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,50.7801,134.426,113.825)"><stop offset="0" style="stop-color:black;stop-opacity:0.8"/><stop offset="1" style="stop-color:#20133E;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_hanaLinear95" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-7.73583e-15,48.1048,-48.1048,-7.73583e-15,61.751,101.809)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E2DAF6;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_hanaLinear96" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-7.73583e-15,48.1048,-48.1048,-7.73583e-15,26.0593,101.809)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E2DAF6;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_hanaLinear97" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.3146e-15,70.4627,-70.4627,4.3146e-15,97.4426,79.4506)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E2DAF6;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_hanaLinear98" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.42056e-14,88.3367,-88.3367,-1.42056e-14,133.134,60.7066)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#E2DAF6;stop-opacity:1"/></linearGradient>
     </defs>
     <style>
-        #wedge {
-            transform: scale(1);
+        #bars path,
+        svg:hover #bars #shadows path {
+            transform: scaleY(1);
             transition: all 0.5s ease;
-            transform-origin: center;
+            transform-origin: center 90%;
         }
-        svg:hover #wedge {
-            transform: scale(1.1); 
+        svg:hover #bars path {
+            transform: scaleY(1.1); 
             transition: all 0.5s ease;
         }
-     </style>
+        svg:hover #bars #shadows path {
+            transform: scale(0.9); 
+            transition: all 0.5s ease;
+        }
+   </style>
 </svg>
