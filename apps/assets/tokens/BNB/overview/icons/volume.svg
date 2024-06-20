@@ -1,14 +1,44 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 156 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <path d="M38.417,102.409C38.415,98.009 34.795,94.389 30.395,94.387L14.35,94.387C9.95,94.389 6.33,98.009 6.328,102.409L6.328,142.931C6.33,147.331 9.95,150.951 14.35,150.953L30.395,150.953C34.795,150.951 38.415,147.331 38.417,142.931L38.417,102.409Z" style="fill:url(#_Linear1);stroke:white;stroke-width:2px;"/>
-    <path d="M91.203,55.1C91.201,50.7 87.581,47.08 83.181,47.078L67.137,47.078C62.737,47.08 59.117,50.7 59.115,55.1L59.115,142.931C59.117,147.331 62.737,150.951 67.137,150.953L83.181,150.953C87.581,150.951 91.201,147.331 91.203,142.931L91.203,55.1Z" style="fill:url(#_Linear2);stroke:white;stroke-width:2px;"/>
-    <path d="M145.474,70.219C145.472,65.819 141.852,62.199 137.452,62.197L121.408,62.197C117.008,62.199 113.388,65.819 113.385,70.219L113.385,142.439C113.387,146.839 117.008,150.459 121.408,150.461L137.452,150.461C141.852,150.459 145.472,146.839 145.474,142.439L145.474,70.219Z" style="fill:url(#_Linear3);stroke:white;stroke-width:2px;"/>
-    <path d="M136.885,19.222L151.393,19.186L149.487,34.402" style="fill:none;stroke:white;stroke-width:8px;stroke-linecap:round;"/>
-    <path d="M4,68.99L75.913,4L129.302,41.161L147.026,22.672" style="fill:none;stroke:white;stroke-width:8px;stroke-linecap:round;"/>
+
+<svg viewBox="0 0 158 168" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g id="bars">
+        <g id="shadows">
+        <path d="M49.979,108.521c0,-6.516 -5.291,-11.807 -11.807,-11.807l-23.614,0c-6.517,0 -11.807,5.291 -11.807,11.807l0,47.345c0,6.517 5.29,11.807 11.807,11.807l23.614,0c6.516,0 11.807,-5.29 11.807,-11.807l0,-47.345Z" style="fill:url(#_bnbvolumeRadial91);"/>
+        <path d="M86.228,99.274c-0,-7.535 -5.291,-13.653 -11.807,-13.653l-23.614,0c-6.517,0 -11.807,6.118 -11.807,13.653l-0,54.746c-0,7.536 5.29,13.653 11.807,13.653l23.614,-0c6.516,-0 11.807,-6.117 11.807,-13.653l-0,-54.746Z" style="fill:url(#_bnbvolumeRadial92);"/>
+        <path d="M122.218,87.016c-0,-8.885 -5.291,-16.1 -11.807,-16.1l-23.614,0c-6.517,0 -11.807,7.215 -11.807,16.1l-0,64.557c-0,8.887 5.29,16.1 11.807,16.1l23.614,0c6.516,0 11.807,-7.213 11.807,-16.1l-0,-64.557Z" style="fill:url(#_bnbvolumeRadial93);"/>
+        <path d="M158.15,76.332c-0,-10.062 -5.291,-18.232 -11.807,-18.232l-23.614,0c-6.517,0 -11.807,8.17 -11.807,18.232l-0,73.109c-0,10.063 5.29,18.232 11.807,18.232l23.614,-0c6.516,-0 11.807,-8.169 11.807,-18.232l-0,-73.109Z" style="fill:url(#_bnbvolumeRadial94);"/>
+    </g>
+        
+        <path d="M74.148,96.789c-0.002,-3.865 -3.182,-7.046 -7.048,-7.047l-14.096,-0c-3.866,0.001 -7.046,3.182 -7.048,7.047l0,47.116c0.002,3.866 3.182,7.046 7.048,7.048l14.096,0c3.866,-0.002 7.046,-3.182 7.048,-7.048l-0,-47.116Z" style="fill:url(#_bnbvolumeLinear95);stroke:white;stroke-width:1.76px;"/>
+        <path d="M38.456,108.305c-0.001,-3.866 -3.182,-7.046 -7.047,-7.048l-14.097,0c-3.865,0.002 -7.046,3.182 -7.047,7.048l-0,35.6c0.001,3.866 3.182,7.046 7.047,7.048l14.097,0c3.865,-0.002 7.046,-3.182 7.047,-7.048l0,-35.6Z" style="fill:url(#_bnbvolumeLinear96);stroke:white;stroke-width:1.76px;"/>
+        <path d="M109.84,79.279c-0.002,-3.866 -3.183,-7.046 -7.048,-7.048l-14.096,0c-3.866,0.002 -7.046,3.182 -7.048,7.048l-0,64.626c0.002,3.866 3.182,7.046 7.048,7.048l14.096,0c3.865,-0.002 7.046,-3.182 7.048,-7.048l-0,-64.626Z" style="fill:url(#_bnbvolumeLinear97);stroke:white;stroke-width:1.76px;"/>
+        <path d="M145.53,66.742c-0.001,-3.866 -3.182,-7.046 -7.047,-7.048l-14.096,0c-3.865,0.002 -7.046,3.182 -7.047,7.048l-0,77.163c0.001,3.866 3.182,7.046 7.047,7.048l14.096,0c3.865,-0.002 7.046,-3.182 7.047,-7.048l0,-77.163Z" style="fill:url(#_bnbvolumeLinear98);stroke:white;stroke-width:1.76px;"/>
+    </g>
+    <path d="M135.611,20.201l13.482,5.36l-7.425,13.417" style="fill:none;stroke:#D08700;stroke-width:8px;stroke-linecap:round;"/>
+    <path d="M9.754,73.876l137.272,-47.28" style="fill:none;stroke:#D08700;stroke-width:8px;stroke-linecap:round;"/>
     <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.18922e-14,54.7551,-31.0617,-2.09634e-14,24.3062,95.0145)"><stop offset="0" style="stop-color:rgb(255,165,56);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,123,0);stop-opacity:1"/></linearGradient>
-        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.18918e-14,100.549,-31.0607,-3.84961e-14,77.0927,48.2303)"><stop offset="0" style="stop-color:rgb(255,165,56);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,123,0);stop-opacity:1"/></linearGradient>
-        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.18922e-14,85.4383,-31.0617,-3.27106e-14,131.363,63.1762)"><stop offset="0" style="stop-color:rgb(255,165,56);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,123,0);stop-opacity:1"/></linearGradient>
+        <radialGradient id="_bnbvolumeRadial91" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,32.885,26.255,132.801)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.8"/><stop offset="1" style="stop-color:#F0A90B;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_bnbvolumeRadial92" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,38.0257,62.5039,127.35)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.8"/><stop offset="1" style="stop-color:#F0A90B;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_bnbvolumeRadial93" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,44.8407,98.4938,120.123)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.8"/><stop offset="1" style="stop-color:#F0A90B;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_bnbvolumeRadial94" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(23.1947,0,0,50.7801,134.426,113.825)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.8"/><stop offset="1" style="stop-color:#F0A90B;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_bnbvolumeLinear95" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-7.73583e-15,48.1048,-48.1048,-7.73583e-15,61.751,101.809)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE1AE;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_bnbvolumeLinear96" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-7.73583e-15,48.1048,-48.1048,-7.73583e-15,26.0593,101.809)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE1AE;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_bnbvolumeLinear97" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.3146e-15,70.4627,-70.4627,4.3146e-15,97.4426,79.4506)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE1AE;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_bnbvolumeLinear98" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.42056e-14,88.3367,-88.3367,-1.42056e-14,133.134,60.7066)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#FFE1AE;stop-opacity:1"/></linearGradient>
     </defs>
+    <style>
+        #bars path,
+        svg:hover #bars #shadows path {
+            transform: scaleY(1);
+            transition: all 0.5s ease;
+            transform-origin: center 90%;
+        }
+        svg:hover #bars path {
+            transform: scaleY(1.1); 
+            transition: all 0.5s ease;
+        }
+        svg:hover #bars #shadows path {
+            transform: scale(0.9); 
+            transition: all 0.5s ease;
+        }
+   </style>
 </svg>
