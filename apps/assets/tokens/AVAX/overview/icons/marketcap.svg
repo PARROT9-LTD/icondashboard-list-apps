@@ -8,7 +8,7 @@
     <defs>
         <radialGradient id="_avaxRadial61" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-67.0708,1.10375,-1.20673,-68.4334,77.4246,73.2423)"><stop offset="0" style="stop-color:black;stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(194,38,40);stop-opacity:0"/></radialGradient>
         <linearGradient id="_avaxLinear62" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.86521e-14,100.957,-100.957,-3.86521e-14,82.065,20.021)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(250,201,202);stop-opacity:1"/></linearGradient>
-        <radialGradient id="_avaxRadial63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.2644,0.456536,-0.652462,-28.3055,112.334,51.8915)"><stop offset="0" style="stop-color:black;stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(194,38,40);stop-opacity:0"/></radialGradient>
+        <radialGradient id="_avaxRadial63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.2644,0.456536,-0.652462,-28.3055,112.334,51.8915)"><stop offset="0" style="stop-color:black;stop-opacity:0.4"/><stop offset="1" style="stop-color:rgb(194,38,40);stop-opacity:0"/></radialGradient>
     </defs>
     <style>
         #wedge {
