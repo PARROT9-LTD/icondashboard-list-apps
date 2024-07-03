@@ -1,4 +1,4 @@
-<svg viewBox="0 0 141 143" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+<svg viewBox="0 0 141 143" id="eth-supply" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
     <g class="nodes">
         <ellipse cx="34.686" cy="104.874" rx="20.182" ry="22.129" style="fill:url(#_ethRadial51);"/>
         <ellipse cx="106.449" cy="104.874" rx="20.182" ry="22.129" style="fill:url(#_ethRadial52);"/>
@@ -44,7 +44,7 @@
         <linearGradient id="_ethLinear518" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-6.63717e-15,17.3363,-17.3359,-6.63731e-15,110.587,20.9816)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#C4CFF7;stop-opacity:1"/></linearGradient>
     </defs>
     <style>
-        svg {
+        svg#eth-supply {
             transform: scale(0.85);
             transform-box: fill-box;
             transform-origin: top;
