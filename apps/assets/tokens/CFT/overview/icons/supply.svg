@@ -45,10 +45,12 @@
     </defs>
     <style>
         svg {
+            transform: scale(0.85);
             transform-box: fill-box;
-            transform-origin: center;
+            transform-origin: top;
         }
         .nodes {
+            transform-origin: center;
             transform: rotate(0deg);
             transform-origin: center;
             transition: all 0.7s linear;

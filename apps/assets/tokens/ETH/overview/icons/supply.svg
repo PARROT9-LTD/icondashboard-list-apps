@@ -11,7 +11,7 @@
     </g>
     <path d="M70.197,48.9l22.177,12.905l0,25.81l-22.177,12.905l-22.178,-12.905l-0,-25.81l22.178,-12.905Z" style="fill:url(#_ethRadial59);"/>
     <path d="M70.197,37.9l22.177,12.905l0,25.81l-22.177,12.905l-22.178,-12.905l-0,-25.81l22.178,-12.905Z" style="fill:url(#_ethLinear510);stroke:white;stroke-width:2px;"/>
-    <path d="M70.426,7.306c31.044,0 56.249,25.204 56.249,56.249c0,31.044 -25.205,56.249 -56.249,56.249c-31.045,0 -56.249,-25.205 -56.249,-56.249c0,-31.045 25.204,-56.249 56.249,-56.249Zm-0,8c-26.63,0 -48.249,21.619 -48.249,48.249c-0,26.629 21.619,48.249 48.249,48.249c26.629,0 48.249,-21.62 48.249,-48.249c0,-26.63 -21.62,-48.249 -48.249,-48.249Z" style="fill:#728BEC;"/>
+    <path d="M70.426,7.306c31.044,0 56.249,25.204 56.249,56.249c0,31.044 -25.205,56.249 -56.249,56.249c-31.045,0 -56.249,-25.205 -56.249,-56.249c0,-31.045 25.204,-56.249 56.249,-56.249Zm-0,8c-26.63,0 -48.249,21.619 -48.249,48.249c-0,26.629 21.619,48.249 48.249,48.249c26.629,0 48.249,-21.62 48.249,-48.249c0,-26.63 -21.62,-48.249 -48.249,-48.249Z" style="fill:#B0BFF5;"/>
     <g class="nodes">
         <ellipse cx="70.426" cy="116.566" rx="9.045" ry="8.867" style="fill:url(#_ethLinear511);stroke:white;stroke-width:2px;"/>
         <ellipse cx="70.426" cy="10.982" rx="9.045" ry="8.867" style="fill:url(#_ethLinear512);stroke:white;stroke-width:2px;"/>
@@ -22,17 +22,17 @@
         <path d="M38.552,92.783c3.53,3.53 3.586,9.205 0.126,12.666c-3.461,3.46 -9.136,3.404 -12.666,-0.126c-3.53,-3.53 -3.586,-9.205 -0.126,-12.666c3.461,-3.46 9.136,-3.404 12.666,0.126Z" style="fill:url(#_ethLinear517);stroke:white;stroke-width:2px;"/>
         <path d="M115.778,23.468c3.53,3.529 3.586,9.205 0.126,12.665c-3.461,3.461 -9.136,3.405 -12.666,-0.125c-3.53,-3.53 -3.586,-9.206 -0.125,-12.666c3.46,-3.461 9.135,-3.404 12.665,0.126Z" style="fill:url(#_ethLinear518);stroke:white;stroke-width:2px;"/>
     </g>
-    <path d="M70.426,7.306c31.044,0 56.249,25.204 56.249,56.249c0,31.044 -25.205,56.249 -56.249,56.249c-31.045,0 -56.249,-25.205 -56.249,-56.249c0,-31.045 25.204,-56.249 56.249,-56.249Zm-0,8c-26.63,0 -48.249,21.619 -48.249,48.249c-0,26.629 21.619,48.249 48.249,48.249c26.629,0 48.249,-21.62 48.249,-48.249c0,-26.63 -21.62,-48.249 -48.249,-48.249Z" style="fill:#728BEC;fill-opacity:0.1;"/>
+    <path d="M70.426,7.306c31.044,0 56.249,25.204 56.249,56.249c0,31.044 -25.205,56.249 -56.249,56.249c-31.045,0 -56.249,-25.205 -56.249,-56.249c0,-31.045 25.204,-56.249 56.249,-56.249Zm-0,8c-26.63,0 -48.249,21.619 -48.249,48.249c-0,26.629 21.619,48.249 48.249,48.249c26.629,0 48.249,-21.62 48.249,-48.249c0,-26.63 -21.62,-48.249 -48.249,-48.249Z" style="fill:#B0BFF5;fill-opacity:0.1;"/>
     <defs>
-        <radialGradient id="_ethRadial51" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,34.78,103.151)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.6"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_ethRadial52" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,106.543,103.151)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.6"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_ethRadial53" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,20.276,67.5506)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.6"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ethRadial51" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,34.78,103.151)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ethRadial52" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,106.543,103.151)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ethRadial53" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,20.276,67.5506)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
         <radialGradient id="_ethRadial54" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,120.286,67.5506)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_ethRadial55" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,34.78,33.8806)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.6"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ethRadial55" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,34.78,33.8806)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
         <radialGradient id="_ethRadial56" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,106.543,33.8806)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_ethRadial57" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,70.167,118.59)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.6"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ethRadial57" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-19.8235,0,0,-20.9371,70.167,118.59)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
         <radialGradient id="_ethRadial58" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-17.8625,0.304287,-0.32138,-18.866,70.511,18.3604)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#627FEA;stop-opacity:0"/></radialGradient>
-        <radialGradient id="_ethRadial59" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-21.7836,0,0,-24.4198,70.2998,72.7)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.6"/><stop offset="1" style="stop-color:#000000;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ethRadial59" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-21.7836,0,0,-24.4198,70.2998,72.7)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.4"/><stop offset="1" style="stop-color:#000000;stop-opacity:0"/></radialGradient>
         <linearGradient id="_ethLinear510" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.6438e-14,49.9674,-42.935,-1.91304e-14,72.8694,38.4726)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#C4CFF7;stop-opacity:1"/></linearGradient>
         <linearGradient id="_ethLinear511" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-6.70415e-15,17.1663,-17.5109,-6.57222e-15,71.5161,107.896)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#C4CFF7;stop-opacity:1"/></linearGradient>
         <linearGradient id="_ethLinear512" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-6.70415e-15,17.1663,-17.5109,-6.57222e-15,71.5161,2.31173)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#C4CFF7;stop-opacity:1"/></linearGradient>
@@ -44,15 +44,21 @@
         <linearGradient id="_ethLinear518" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-6.63717e-15,17.3363,-17.3359,-6.63731e-15,110.587,20.9816)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#C4CFF7;stop-opacity:1"/></linearGradient>
     </defs>
     <style>
+        svg {
+            transform: scale(0.85);
+            transform-box: fill-box;
+            transform-origin: top;
+        }
         .nodes {
-        transform: rotate(0deg);
-        transform-origin: center;
-        transition: all 0.7s linear;
+            transform-origin: center;
+            transform: rotate(0deg);
+            transform-origin: center;
+            transition: all 0.7s linear;
         }
         svg:hover .nodes {
-        transform: rotate(-49deg);
-        transition: all 0.7s linear;
-        transform-origin: 50% 44.5%;
+            transform: rotate(-49deg);
+            transition: all 0.7s linear;
+            transform-origin: 50% 44.5%;
         }
     </style>
 </svg>
