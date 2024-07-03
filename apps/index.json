@@ -301,7 +301,7 @@
 					"galleryHoverBg": "#00AC97",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#00AC97",
+					"metaLink": "#15FFE0",
 					"metaLinkActive": "#00AC97",
 					"socialIconBg": "#00AC97"
 				},
@@ -1118,10 +1118,10 @@
 					"heading": "#9D4DF1",
 					"topInfoText": "#9D4DF1",
 					"chartColor": "#9D4DF1",
-					"metaText": "#9D4DF1",
-					"metaLink": "#9D4DF1",
+					"metaText": "#ffffff",
+					"metaLink": "#D3B0F7",
 					"metaLinkActive": "#ffffff",
-					"socialIconBg": "#9D4DF1"
+					"socialIconBg": "#8B2EEF"
 				},
 				"meta": {
 					"release": "April 24, 2021",
@@ -1286,10 +1286,10 @@
 					"heading": "#2D50A5",
 					"topInfoText": "#2D50A5",
 					"chartColor": "#2D50A5",
-					"metaText": "#2D50A5",
-					"metaLink": "#00B2E5",
+					"metaText": "#ffffff",
+					"metaLink": "#BD88F5",
 					"metaLinkActive": "#00B2E5",
-					"socialIconBg": "#00B2E5"
+					"socialIconBg": "#2046D0"
 				},
 				"meta": {
 					"release": "December 2023",
@@ -1453,10 +1453,10 @@
 					"heading": "#F7931A",
 					"topInfoText": "#F7931A",
 					"chartColor": "#F7931A",
-					"metaText": "#F7931A",
-					"metaLink": "#F7931A",
-					"metaLinkActive": "#F7931A",
-					"socialIconBg": "#F7931A"
+					"metaText": "#ffffff",
+					"metaLink": "#FBCF9C",
+					"metaLinkActive": "#ffffff",
+					"socialIconBg": "#D97808"
 				},
 				"meta": {
 					"release": "September 2022",
@@ -1483,8 +1483,8 @@
 					"heading": "#C3272A",
 					"topInfoText": "#EBEBEB",
 					"chartColor": "#C3272A",
-					"metaText": "#EBEBEB",
-					"metaLink": "#EBEBEB",
+					"metaText": "#ffffff",
+					"metaLink": "#F3C0C3",
 					"metaLinkActive": "#EBEBEB",
 					"socialIconBg": "#EBEBEB"
 				},
@@ -1513,10 +1513,10 @@
 					"heading": "#0082FA",
 					"topInfoText": "#0082FA",
 					"chartColor": "#0082FA",
-					"metaText": "#0082FA",
-					"metaLink": "#00F2FE",
-					"metaLinkActive": "#01BBFC",
-					"socialIconBg": "#00F2FE"
+					"metaText": "#ffffff",
+					"metaLink": "#86E5FF",
+					"metaLinkActive": "#ffffff",
+					"socialIconBg": "#0099C4"
 				},
 				"meta": {
 					"release": "March 2024",
@@ -1574,9 +1574,9 @@
 					"topInfoText": "#ffffff",
 					"chartColor": "#627DEA",
 					"metaText": "#ffffff",
-					"metaLink": "#627DEA",
-					"metaLinkActive": "#627DEA",
-					"socialIconBg": "#627DEA"
+					"metaLink": "#A9B9F4",
+					"metaLinkActive": "#ffffff",
+					"socialIconBg": "#375CE4"
 				},
 				"meta": {
 					"release": "May 2024",
