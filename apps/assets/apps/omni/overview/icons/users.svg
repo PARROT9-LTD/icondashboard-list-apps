@@ -10,7 +10,7 @@
         <ellipse cx="80.867" cy="56.038" rx="29.604" ry="34.445" style="fill:url(#_omniLinear77);stroke:white;stroke-width:2px;"/>
     </g>
     <defs>
-        <radialGradient id="_omniRadial72" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-76.5487,0,0,-45.1251,82.526,106.319)"><stop offset="0" style="stop-color:#063727;stop-opacity:0.6"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
+        <radialGradient id="_omniRadial72" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-76.5487,0,0,-45.1251,82.526,106.319)"><stop offset="0" style="stop-color:#063727;stop-opacity:0.3"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
         <linearGradient id="_omniLinear73" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.17988e-14,90.9291,-83.0566,-3.48128e-14,86.4846,33.6517)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#B7FBE6;stop-opacity:1"/></linearGradient>
         <radialGradient id="_omniRadial74" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-32.9039,0,0,-41.42,81.559,68.7446)"><stop offset="0" style="stop-color:#09A073;stop-opacity:1"/><stop offset="1" style="stop-color:#17C994;stop-opacity:0"/></radialGradient>
         <linearGradient id="_omniLinear75" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-5.21898e-15,15.706,-13.6317,-6.01317e-15,54.1472,51.1051)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#B7FBE6;stop-opacity:1"/></linearGradient>

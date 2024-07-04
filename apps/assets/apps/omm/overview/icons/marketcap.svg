@@ -6,9 +6,9 @@
         <path d="M105.882,22.356l-26.237,46.978l52.957,1.7c0.061,-1.025 0.091,-2.057 0.091,-3.097c0,-19.588 -10.823,-36.668 -26.811,-45.581Z" style="fill:url(#_ommLinear64);"/>
     </g>
     <defs>
-        <radialGradient id="_ommRadial61" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-74.4339,0,0,-75.9464,76.133,80.6607)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ommRadial61" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-74.4339,0,0,-75.9464,76.133,80.6607)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.3"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
         <linearGradient id="_ommLinear62" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.86521e-14,100.957,-100.957,-3.86521e-14,82.065,20.021)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(220,226,238);stop-opacity:1"/></linearGradient>
-        <radialGradient id="_ommRadial63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-40.2455,0,0,-31.4129,111.635,54.9601)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
+        <radialGradient id="_ommRadial63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-40.2455,0,0,-31.4129,111.635,54.9601)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.3"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
         <linearGradient id="_ommLinear64" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.95951e-15,50.4885,-97.3262,3.09153e-15,105.549,20.2105)"><stop offset="0" style="stop-color:rgb(146,61,239);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(46,146,210);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,207,190);stop-opacity:1"/></linearGradient>
     </defs>
     <style>

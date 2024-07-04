@@ -5,7 +5,7 @@
   <path d="M57.071 55.488c49.704 0 57.855 35.221 57.855 49.165 0 13.944-12.438 40.986-57.855 40.986C4.706 145.639 0 121.183 0 107.239c0-13.945 7.368-51.751 57.071-51.751Z" style="fill:url(#_omniRadial32)"/>
   <path id="flame" d="M57.158 70.565c4.352 0 13.697 37.383 13.697 44.761 0 7.379-6.138 13.369-13.697 13.369-7.559 0-13.696-5.99-13.696-13.369 0-7.378 9.344-44.761 13.696-44.761Z" style="fill:url(#_omniLinear33);stroke:#fff;stroke-width:2px"/>
   <defs>
-    <radialGradient id="_omniRadial31" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 27.9324 -38.5286 0 56.874 116.298)"><stop offset="0" style="stop-color:#036949;stop-opacity:1"/><stop offset="1" style="stop-color:#17CC96;stop-opacity:0"/></radialGradient>
+    <radialGradient id="_omniRadial31" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 27.9324 -38.5286 0 56.874 116.298)"><stop offset="0" style="stop-color:#036949;stop-opacity:0.4"/><stop offset="1" style="stop-color:#17CC96;stop-opacity:0"/></radialGradient>
     <radialGradient id="_omniRadial32" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-36.8105 0 0 -35.0618 56.56 109.885)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#19E4A4;stop-opacity:0"/></radialGradient>
     <linearGradient id="_omniLinear33" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -94.7257 141.387 0 58.777 123.02)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:#B7FBE6;stop-opacity:1"/></linearGradient>
   </defs>
