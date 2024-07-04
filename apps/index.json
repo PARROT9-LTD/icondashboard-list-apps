@@ -1284,12 +1284,12 @@
 				"description": "A liquid staking token for ARCH, the native currency of the Archway blockchain. sARCH is provided by [Liquid Finance](https://liquidfinance.xyz/), and can be transferred between ICON and Archway via Balanced.",
 				"colors": {
 					"heading": "#2D50A5",
-					"topInfoText": "#2D50A5",
+					"topInfoText": "#ffffff",
 					"chartColor": "#2D50A5",
 					"metaText": "#ffffff",
-					"metaLink": "#BD88F5",
-					"metaLinkActive": "#00B2E5",
-					"socialIconBg": "#2046D0"
+					"metaLink": "#CDEDF8",
+					"metaLinkActive": "#ffffff",
+					"socialIconBg": "#2D619D"
 				},
 				"meta": {
 					"release": "December 2023",
@@ -1481,7 +1481,7 @@
 				"description": "AVAX is the native cryptocurrency for Avalanche, the blockchain built to scale.",
 				"colors": {
 					"heading": "#C3272A",
-					"topInfoText": "#EBEBEB",
+					"topInfoText": "#ffffff",
 					"chartColor": "#C3272A",
 					"metaText": "#ffffff",
 					"metaLink": "#F3C0C3",
@@ -1511,10 +1511,10 @@
 				"description": "INJ is the native cryptocurrency for Injective: the blockchain built for finance.",
 				"colors": {
 					"heading": "#0082FA",
-					"topInfoText": "#0082FA",
+					"topInfoText": "#ffffff",
 					"chartColor": "#0082FA",
 					"metaText": "#ffffff",
-					"metaLink": "#86E5FF",
+					"metaLink": "#BAF1FF",
 					"metaLinkActive": "#ffffff",
 					"socialIconBg": "#0099C4"
 				},
@@ -1574,7 +1574,7 @@
 					"topInfoText": "#ffffff",
 					"chartColor": "#627DEA",
 					"metaText": "#ffffff",
-					"metaLink": "#A9B9F4",
+					"metaLink": "#D2DBF9",
 					"metaLinkActive": "#ffffff",
 					"socialIconBg": "#375CE4"
 				},
@@ -1601,12 +1601,12 @@
 				"description": "BNB is the native cryptocurrency for Binance and its blockchain, BNB Chain (BSC).",
 				"colors": {
 					"heading": "#F0B90B",
-					"topInfoText": "#F0B90B",
+					"topInfoText": "#ffffff",
 					"chartColor": "#F0B90B",
-					"metaText": "#F0B90B",
-					"metaLink": "#F0B90B",
-					"metaLinkActive": "#F0B90B",
-					"socialIconBg": "#F0B90B"
+					"metaText": "#ffffff",
+					"metaLink": "#FCECBD",
+					"metaLinkActive": "#ffffff",
+					"socialIconBg": "#D19F09"
 				},
 				"meta": {
 					"release": "May 2024",
