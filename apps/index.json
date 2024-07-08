@@ -1015,6 +1015,44 @@
 			}
 		},
 		{
+			"id": "icx",
+			"name": "ICON",
+			"symbol": "ICX",
+			"contract": "ICX",
+			"supportedApps": ["balanced", "optimus", "craft"],
+			"page": {
+				"description": "Description for ICON token",
+				"colors": {
+					"heading": "#0c2a4d",
+					"topInfoText": "#ffffff",
+					"chartColor": "#0c2a4d",
+					"metaText": "#ffffff",
+					"metaLink": "#46bfd1",
+					"metaLinkActive": "#2ca9b7",
+					"socialIconBg": "#46bfd1"
+				},
+				"meta": {
+					"release": "April 26, 2021",
+					"availableOn": ["ICON"],
+					"tags": ["DeFi", "Governance", "L1"],
+					"links": [
+						{
+							"name": "Website",
+							"url": "https://whyicx.com/"
+						},
+						{
+							"name": "App",
+							"url": "https://app.balanced.network/"
+						}
+					],
+					"socials": {
+						"discord": "https://discord.gg/4B68GfqV",
+						"twitter": "https://x.com/ICONFoundation_"
+					}
+				}
+			}
+		},
+		{
 			"id": "omm",
 			"name": "Omm",
 			"symbol": "OMM",
