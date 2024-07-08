@@ -1285,7 +1285,7 @@
 			"contract": "cxfe94530ee0d159db3e5b7dcffbcd0dfb360075c0",
 			"supportedApps": ["balanced", "xcall"],
 			"page": {
-				"description": "A liquid staking token for ARCH, the native currency of the [Archway blockchain](https://archway.io). sARCH is provided by [Liquid Finance](https://liquidfinance.xyz/). You can use Balanced to trade sARCH or transfer it between ICON and Archway.",
+				"description": "A liquid staking token for ARCH, the native currency of the [Archway blockchain](https://archway.io). sARCH allows you to earn staking rewards while you hold it, and is provided by [Liquid Finance](https://liquidfinance.xyz/).\n\nYou can use Balanced to trade sARCH, or transfer it between ICON and Archway.",
 				"colors": {
 					"heading": "#2D50A5",
 					"topInfoText": "#ffffff",
@@ -1566,7 +1566,7 @@
 			"contract": "cx22319ac7f412f53eabe3c9827acf5e27e9c6a95f",
 			"supportedApps": ["balanced", "xcall"],
 			"page": {
-				"description": "USDC is a centralised stablecoin created by Circle for rapid global payments and 24/7 financial markets. It’s regulated, and can always be redeemed 1:1 for US dollars.\n\nUSDC is available to trade and transfer via [Balanced](https://balanced.network/) on ICON, Arbitrum, Archway, Avalanche, Base, and BNB Chain. And you’re guaranteed a 1:1 rate when you trade USDC for [bnuSD](/assets/tokens/bnUSD).",
+				"description": "USDC is a centralised stablecoin created by Circle for rapid global payments and 24/7 financial markets. It’s regulated, and can always be redeemed 1:1 for US dollars.\n\nUSDC is available to trade and transfer via [Balanced](https://balanced.network/) on ICON, Arbitrum, Archway, Avalanche, Base, and BNB Chain. And you’re guaranteed a 1:1 rate when you trade USDC for [bnUSD](/assets/tokens/bnUSD).",
 				"colors": {
 					"heading": "#EBEBEB",
 					"topInfoText": "#EBEBEB",
