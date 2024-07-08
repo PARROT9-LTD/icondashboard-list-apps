@@ -44,7 +44,7 @@
 						}
 					]
 				},
-				"description": "Balanced is the flagship DeFi product of the ICON ecosystem. You can use it to borrow Balanced Dollars (bnUSD), swap assets, supply liquidity, transfer crypto cross-chain, and participate in Balanced governance.\n\nBalanced is community-owned, so it incentivises liquidity providers with BALN, its governance token. Lock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), which gives you voting power and boosts your earning potential.\n\nIn 2024, Balanced became [economically enshrined](https://blog.balanced.network/economic-enshrinement/) by the ICON blockchain. ICON uses blockchain emissions to provide incentives and network-owned liquidity, and in return, Balanced uses 50% of its revenue to buy and burn ICX.\n\nBalanced is on a mission to become a leading cross-chain DeFi protocol, using ICON’s cross-chain technology to connect to other blockchains.",
+				"description": "Balanced is the flagship DeFi product of the ICON ecosystem. You can use it to borrow Balanced Dollars (bnUSD), swap assets, supply liquidity, transfer crypto cross-chain, and participate in Balanced governance.\n\nBalanced is community-owned, so it incentivises liquidity providers with BALN, its governance token. Lock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), which gives you voting power and boosts your earning potential.\n\nIn 2024, Balanced became [economically enshrined](https://blog.balanced.network/economic-enshrinement/) by the ICON blockchain. ICON uses blockchain emissions to provide incentives and network-owned liquidity, and in return, Balanced dedicates 50% of its revenue to buy and burn ICX.\n\nThe Balanced contributors are on a mission to make Balanced a leading cross-chain DeFi protocol, and they’re using ICON’s cross-chain technology to do it.",
 				"colors": {
 					"heading": "#0c2a4d",
 					"topInfoText": "#ffffff",
@@ -58,9 +58,9 @@
 				},
 				"meta": {
 					"releasedOn": "April 25, 2021",
-					"tagLine": "The stablecoin and exchange crafted for simplicity.",
+					"tagLine": "The cross-chain stablecoin and exchange crafted for simplicity.",
 					"tags": ["DeFi", "Stablecoin", "DEX"],
-					"availableOn": ["ICON", "Archway"],
+					"availableOn": ["ICON", "Arbitrum", "Archway", "Avalanche", "Base", "BNB Chain"],
 					"links": [
 						{
 							"name": "Website",
@@ -69,6 +69,10 @@
 						{
 							"name": "App",
 							"url": "https://app.balanced.network/"
+						},
+						{
+							"name": "Statistics",
+							"url": "https://stats.balanced.network/"
 						},
 						{
 							"name": "Docs",
@@ -1294,7 +1298,7 @@
 				"meta": {
 					"release": "December 2023",
 					"availableOn": ["ICON", "Archway"],
-					"tags": ["DeFi", "Liquid staking"],
+					"tags": ["DeFi", "Liquid staking", "Cross-chain"],
 					"links": [
 						{
 							"name": "Website",
