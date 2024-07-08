@@ -6,7 +6,7 @@
 			"id": "balanced",
 			"name": "Balanced",
 			"description": "The cross-chain stablecoin and exchange crafted for simplicity.",
-			"url": "https://balanced.network/",
+			"url": "https://balanced.network",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/balanced/preview.png",
 			"showInChart": true,
@@ -125,7 +125,7 @@
 			"id": "xcall",
 			"name": "xCall",
 			"description": "A cross-chain messaging standard that allows developers to interact with smart contracts on other blockchains.",
-			"url": "https://icon.community/xcall/",
+			"url": "",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/xcall/preview.png",
 			"showInChart": true,
@@ -146,7 +146,7 @@
 				"meta": {
 					"releasedOn": "October 5, 2023",
 					"tagLine": "A blockchain messenger that simplifies cross-chain development.",
-					"tags": ["cross-chain"],
+					"tags": ["Cross-chain"],
 					"availableOn": [
 						"ICON",
 						"Archway",
@@ -178,7 +178,7 @@
 			"id": "omm",
 			"name": "Omm",
 			"description": "Liquid staking on the ICON blockchain.",
-			"url": "https://omm.finance/",
+			"url": "https://omm.finance",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/omm/preview.png",
 			"showInChart": true,
@@ -259,7 +259,7 @@
 			"id": "craft",
 			"name": "Craft",
 			"description": "A community-owned NFT marketplace.",
-			"url": "https://craft.network/",
+			"url": "https://craft.network",
 			"logo": "",
 			"showInChart": true,
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/craft/preview.png",
@@ -351,7 +351,7 @@
 			"id": "btp",
 			"name": "BTP",
 			"description": "BTP (Blockchain Transmission Protocol) is the ICON blockchain's interoperability protocol.",
-			"url": "https://icon.community/learn/btp/",
+			"url": "",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/btp/preview.png",
 			"showInChart": true,
@@ -368,7 +368,7 @@
 			"id": "blobble",
 			"name": "Blobble",
 			"description": "A tamagotchi-style game that combines the charm of virtual pets with the power of blockchain technology",
-			"url": "https://blobble.xyz/",
+			"url": "https://blobble.xyz",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/blobble/preview.png",
 			"showInChart": true,
@@ -447,7 +447,7 @@
 			"id": "cps",
 			"name": "Contribution Proposal System (CPS)",
 			"description": "A decentralised grant program dedicated to expanding the ICON ecosystem.",
-			"url": "https://cps.icon.community/",
+			"url": "https://cps.icon.community",
 			"logo": "",
 			"preview": "https://raw.githubusercontent.com/PARROT9-LTD/icondashboard-list-apps/main/apps/assets/apps/cps/preview.png",
 			"showInChart": true,
@@ -642,7 +642,7 @@
 				"meta": {
 					"releasedOn": "October 5, 2023",
 					"tagLine": "An ArtFi protocol uniting NFT projects through a shared token economy.",
-					"tags": ["cross-chain"],
+					"tags": ["Cross-chain"],
 					"availableOn": ["ICON"],
 					"links": [
 						{
@@ -726,7 +726,7 @@
 				"meta": {
 					"releasedOn": "2021",
 					"tagLine": "A multi-chain crypto wallet.",
-					"tags": ["cross-chain"],
+					"tags": ["Cross-chain"],
 					"availableOn": ["ICON", "Cosmos", "Ethereum"],
 					"links": [
 						{
@@ -1465,7 +1465,7 @@
 				"meta": {
 					"release": "September 2022",
 					"availableOn": ["ICON", "BNB Chain"],
-					"tags": ["cross-chain"],
+					"tags": ["Cross-chain"],
 					"links": [
 						{
 							"name": "Website",
@@ -1495,7 +1495,7 @@
 				"meta": {
 					"release": "June 2024",
 					"availableOn": ["ICON", "Arbitrum", "BNB Chain"],
-					"tags": ["cross-chain"]
+					"tags": ["Cross-chain"]
 				}
 			}
 		},
@@ -1549,7 +1549,7 @@
 				"meta": {
 					"release": "May 2024",
 					"availableOn": ["ICON", "Injective"],
-					"tags": ["cross-chain"],
+					"tags": ["Cross-chain"],
 					"links": [
 						{
 							"name": "Website",
@@ -1579,7 +1579,7 @@
 				"meta": {
 					"release": "March 2024",
 					"availableOn": ["ICON", "Arbitrum", "Archway", "Avalanche", "Base", "BNB Chain"],
-					"tags": ["stablecoin", "cross-chain"],
+					"tags": ["Stablecoin", "Cross-chain"],
 					"links": [
 						{
 							"name": "Website",
@@ -1609,7 +1609,7 @@
 				"meta": {
 					"release": "May 2024",
 					"availableOn": ["ICON", "Arbitrum", "Base", "BNB Chain"],
-					"tags": ["cross-chain"],
+					"tags": ["Cross-chain"],
 					"links": [
 						{
 							"name": "Website",
@@ -1639,7 +1639,7 @@
 				"meta": {
 					"release": "May 2024",
 					"availableOn": ["ICON", "BNB Chain"],
-					"tags": ["cross-chain"],
+					"tags": ["Cross-chain"],
 					"links": [
 						{
 							"name": "Website",
