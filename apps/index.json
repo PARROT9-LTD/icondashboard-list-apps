@@ -973,7 +973,7 @@
 			"name": "Balance Token",
 			"symbol": "BALN",
 			"contract": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
-			"supportedApps": ["balanced", "hanawallet"],
+			"supportedApps": ["balanced", "hana"],
 			"page": {
 				"description": "BALN is the [Balanced](https://balanced.network/) governance token.\n\nLock BALN for 1 week – 4 years to hold bBALN (Boosted BALN), a non-transferrable token that gives you voting power, boosts your BALN earning potential, and entitles you to a share of Balanced’s network fees.\n\nTo earn BALN, supply liquidity to the [Balanced exchange](https://app.balanced.network/trade/).",
 				"colors": {
@@ -1023,17 +1023,19 @@
 			"name": "ICON",
 			"symbol": "ICX",
 			"contract": "ICX",
-			"supportedApps": ["balanced", "omm", "hanawallet", "craft"],
+			"supportedApps": ["balanced", "omm", "hana", "craft"],
 			"page": {
-				"description": "ICX is the native cryptocurrency of the ICON blockchain. It’s required to pay for transactions, and you can stake it via [Hana](/app/hanawallet) or [Omm](/app/omm) to earn additional ICX.\n\nICX from transaction fees gets burned, with the idea that it becomes deflationary as usage increases. In 2024, the ICON blockchain [economically enshrined](https://blog.balanced.network/economic-enshrinement) Balanced: it uses ICX emissions to provide incentives and network-owned liquidity, and in return, Balanced dedicates 50% of its revenue to buy and burn ICX.",
+				"description": "ICX is the native cryptocurrency of the ICON blockchain. It’s required to pay for transactions, and you can stake it via [Hana](/app/hana) or [Omm](/app/omm) to earn additional ICX.\n\nICX from transaction fees gets burned, with the idea that it becomes deflationary as usage increases. In 2024, the ICON blockchain [economically enshrined](https://blog.balanced.network/economic-enshrinement) Balanced: it uses ICX emissions to provide incentives and network-owned liquidity, and in return, Balanced dedicates 50% of its revenue to buy and burn ICX.",
 				"colors": {
-					"heading": "#0c2a4d",
+					"heading": "#03a0ae",
 					"topInfoText": "#ffffff",
-					"chartColor": "#0c2a4d",
+					"galleryBorder": "#03a0ae",
+					"galleryHoverBg": "#03a0ae",
+					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#46bfd1",
-					"metaLinkActive": "#2ca9b7",
-					"socialIconBg": "#46bfd1"
+					"metaLink": "#71D7DF",
+					"metaLinkActive": "#ffffff",
+					"socialIconBg": "#03848D"
 				},
 				"meta": {
 					"release": "December 2017",
@@ -1059,7 +1061,8 @@
 					],
 					"socials": {
 						"discord": "https://discord.gg/4B68GfqV",
-						"twitter": "https://twitter.com/helloiconworld"
+						"twitter": "https://twitter.com/helloiconworld",
+						"reddit": "https://reddit.com/r/helloiconworld"
 					}
 				}
 			}
@@ -1069,7 +1072,7 @@
 			"name": "Omm",
 			"symbol": "OMM",
 			"contract": "cx1a29259a59f463a67bb2ef84398b30ca56b5830a",
-			"supportedApps": ["omm", "balanced", "hanawallet"],
+			"supportedApps": ["omm", "balanced", "hana"],
 			"page": {
 				"description": "OMM is the governance token for [Omm](https://omm.finance/), a liquid staking app on the ICON blockchain.\n\nLock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain.",
 				"colors": {
@@ -1115,7 +1118,7 @@
 			"name": "Craft",
 			"symbol": "CFT",
 			"contract": "cx2e6d0fc0eca04965d06038c8406093337f085fcf",
-			"supportedApps": ["craft", "balanced", "hanawallet"],
+			"supportedApps": ["craft", "balanced", "hana"],
 			"page": {
 				"description": "CFT is the [Craft](https://craft.network/) governance token.\n\nStake CFT to hold voting power and earn a share of the platform fees. To earn CFT, buy and sell NFTs on Craft. You can also use your existing CFT to participate in additional earning opportunities.",
 				"colors": {
@@ -1161,7 +1164,7 @@
 			"name": "Staked ICX",
 			"symbol": "sICX",
 			"contract": "cx2609b924e33ef00b648a409245c7ea394c467824",
-			"supportedApps": ["omm", "balanced", "hanawallet"],
+			"supportedApps": ["omm", "balanced", "hana"],
 			"page": {
 				"description": "sICX is a liquid staking token for ICX, the main cryptocurrency of the ICON blockchain. You can use it to earn ICX staking rewards without losing access to your tokens. Every sICX you hold entitles you to a share of the ICX staking pool, and the ICX value increases over time based on the ICON reward rate.\n\nsICX makes it easy to move your funds when you need them. Pay a 1% fee to swap sICX for ICX via [Balanced](https://balanced.network/) or [Omm](https://omm.finance/), or join the unstaking queue to wait anywhere from 1 hour, up to the regular ICX unstaking time of ~7 days.\n\nsICX represents staked ICX, so it holds voting power in ICON’s governance system. By default, the Omm community decides where those votes go, but you can use the Omm app to manage your delegation and see which validators offer voting incentives.",
 				"colors": {
@@ -1207,7 +1210,7 @@
 			"name": "Balanced Dollar",
 			"symbol": "bnUSD",
 			"contract": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb",
-			"supportedApps": ["balanced", "xcall", "cps", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "cps", "hana"],
 			"page": {
 				"description": "bnUSD is a decentralised cross-chain stablecoin, which tracks the value of 1 USD.\n\nIt uses cryptocurrency as collateral to guarantee its value, with support for a variety of assets on- and off-chain. bnUSD is not experimental or algorithmic: it’s over-collateralised, so the **total supply cannot exceed the value that backs it**.\n\nYou can borrow Balanced Dollars for 2% interest, or buy some on the [Balanced exchange](https://app.balanced.network/trade/). You can even earn yield until you need to use it: deposit bnUSD into the Balanced Savings Rate to receive a share of Balanced’s revenue and ICON blockchain incentives.\n\n[Learn more about the Balanced stablecoin.](https://balanced.network/stablecoin/)",
 				"colors": {
@@ -1257,7 +1260,7 @@
 			"name": "CROWN",
 			"symbol": "CROWN",
 			"contract": "cx28b2ec885b50c8a93da752f2d0467a67127a70e8",
-			"supportedApps": ["gangstaverse", "balanced", "hanawallet"],
+			"supportedApps": ["gangstaverse", "balanced", "hana"],
 			"page": {
 				"description": "CROWN is the governance token for GangstaVerse’s Emerald City. It’s designed to fuel the entire economy of the city, and will be used as a currency and reward for various in-game activities, like GangWars.",
 				"colors": {
@@ -1299,7 +1302,7 @@
 			"name": "FIN Token",
 			"symbol": "FIN",
 			"contract": "cx785d504f44b5d2c8dac04c5a1ecd75f18ee57d16",
-			"supportedApps": ["balanced", "optimus", "hanawallet"],
+			"supportedApps": ["balanced", "optimus", "hana"],
 			"page": {
 				"description": "The governance token for Optimus, a yield optimiser on the ICON blockchain that is no longer in operation.",
 				"colors": {
@@ -1329,7 +1332,7 @@
 			"name": "Staked ARCH",
 			"symbol": "sARCH",
 			"contract": "cxfe94530ee0d159db3e5b7dcffbcd0dfb360075c0",
-			"supportedApps": ["balanced", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "hana"],
 			"page": {
 				"description": "A liquid staking token for ARCH, the native currency of the [Archway blockchain](https://archway.io). sARCH allows you to earn staking rewards while you hold it, and is provided by [Liquid Finance](https://liquidfinance.xyz/).\n\nYou can use Balanced to trade sARCH, or transfer it between ICON and Archway.",
 				"colors": {
@@ -1371,7 +1374,7 @@
 			"name": "GBET Token",
 			"symbol": "GBET",
 			"contract": "cx6139a27c15f1653471ffba0b4b88dc15de7e3267",
-			"supportedApps": ["gangstaverse", "balanced", "hanawallet"],
+			"supportedApps": ["gangstaverse", "balanced", "hana"],
 			"page": {
 				"description": "GBET is the native token for GangstaBet, a collection of 5,555 unique Gangster and Detective NFTs on the ICON blockchain.\n\nGangstaBet owners receive GBET when they mint their NFT, and if they hold onto it, they’ll earn GBET each day until 2030.\n\nYou can burn GBET to increase a GangstaBet NFT’s skills, change its name, or adjust its characteristics. The supply of GBET decreases over time, so customisation will become a scarce commodity and GangstaBets with higher levels will grow in value.",
 				"colors": {
@@ -1413,7 +1416,7 @@
 			"name": "Blobble Stake Token",
 			"symbol": "BST",
 			"contract": "cxf14dea1cff7ceb29a46e6d04533a08f84441e41d",
-			"supportedApps": ["blobble", "balanced", "hanawallet"],
+			"supportedApps": ["blobble", "balanced", "hana"],
 			"page": {
 				"description": "BST is the native currency for Blobble, a tamagotchi-style NFT ecosystem. Healthy Blobbles earn daily BST for their owners, which you can swap for bnUSD or use to keep your Blobble fed, quenched, and loved.",
 				"colors": {
@@ -1454,7 +1457,7 @@
 			"name": "FRĀMD Token",
 			"symbol": "FRMD",
 			"contract": "cx2aa9b28a657e3121b75d3d4fe65e569398645d56",
-			"supportedApps": ["framd", "balanced", "hanawallet"],
+			"supportedApps": ["framd", "balanced", "hana"],
 			"page": {
 				"description": "FRMD is the token for FRĀMD, an Art-Fi protocol on the ICON blockchain. You can use FRMD to upgrade NFTs that are part of the FRĀMD ecosystem, or stake it to earn rewards and vote on ICON grant proposals.\n\nTo earn FRMD, mint or buy an NFT in the FRĀMD ecosystem.",
 				"colors": {
@@ -1496,7 +1499,7 @@
 			"name": "Binance BTC",
 			"symbol": "BTCB",
 			"contract": "cx5b5a03cb525a1845d0af3a872d525b18a810acb0",
-			"supportedApps": ["balanced", "btp", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "btp", "xcall", "hana"],
 			"page": {
 				"description": "BTCB is bitcoin from BNB Smart Chain, sent to ICON through ICON Bridge. You can trade BTCB on the Balanced exchange, supply it as liquidity to earn BALN, and until April 2024, you could use BTCB as collateral to borrow bnUSD.",
 				"colors": {
@@ -1526,7 +1529,7 @@
 			"name": "Bitcoin",
 			"symbol": "BTC",
 			"contract": "cx07b184a37f03c6ab681fcbd0b45aec6dc3eafbeb",
-			"supportedApps": ["balanced", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "hana"],
 			"page": {
 				"description": "On ICON, BTC represents bitcoin sourced from several blockchains, like WBTC (Arbitrum) and BTCB (BNB Chain), which [Balanced](https://balanced.network/) unified under a single token ticker for an improved cross-chain experience.\n\nYou can trade BTC on the [Balanced exchange](https://app.balanced.network/trade), transfer it to supported blockchains, and supply it as liquidity.",
 				"colors": {
@@ -1550,7 +1553,7 @@
 			"name": "Avalanche",
 			"symbol": "AVAX",
 			"contract": "cx66a031cc3bd305c76371fb586e93801b948254f0",
-			"supportedApps": ["balanced", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "hana"],
 			"page": {
 				"description": "AVAX is the native cryptocurrency for Avalanche, an Ethereum Layer 2 blockchain that’s built to scale.\n\nYou can trade AVAX on the [Balanced exchange](https://app.balanced.network/trade), transfer it to supported blockchains, or supply it as liquidity.",
 				"colors": {
@@ -1580,7 +1583,7 @@
 			"name": "Injective",
 			"symbol": "INJ",
 			"contract": "cx4297f4b63262507623b6ad575d0d8dd2db980e4e",
-			"supportedApps": ["balanced", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "hana"],
 			"page": {
 				"description": "INJ is the native cryptocurrency for Injective, the blockchain built for finance.\n\nYou can trade INJ on the [Balanced exchange](https://app.balanced.network/trade) or supply it as liquidity.",
 				"colors": {
@@ -1610,7 +1613,7 @@
 			"name": "USD Coin",
 			"symbol": "USDC",
 			"contract": "cx22319ac7f412f53eabe3c9827acf5e27e9c6a95f",
-			"supportedApps": ["balanced", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "hana"],
 			"page": {
 				"description": "USDC is a centralised stablecoin created by Circle for rapid global payments and 24/7 financial markets. It’s regulated, and can always be redeemed 1:1 for US dollars.\n\nUSDC is available to trade and transfer via [Balanced](https://balanced.network/) on ICON, Arbitrum, Archway, Avalanche, Base, and BNB Chain. And you’re guaranteed a 1:1 rate when you trade USDC for [bnUSD](/token/bnUSD).",
 				"colors": {
@@ -1640,7 +1643,7 @@
 			"name": "Ether",
 			"symbol": "ETH",
 			"contract": "cx288d13e1b63563459a2ac6179f237711f6851cb5",
-			"supportedApps": ["balanced", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "hana"],
 			"page": {
 				"description": "Ether is the native cryptocurrency for Ethereum and ETH layer 2 blockchains.\n\nOn ICON, ETH represents Ether sourced from several blockchains, like Arbitrum, Base, and BNB Chain, which Balanced unified under a single token ticker for an improved cross-chain experience.\n\nYou can trade ETH on the [Balanced exchange](https://app.balanced.network/trade), transfer it to supported blockchains, or supply it as liquidity.",
 				"colors": {
@@ -1670,7 +1673,7 @@
 			"name": "Binance Coin",
 			"symbol": "BNB",
 			"contract": "cx2d552c485ec8bcaa75aac02424e2aca6ffdb2f1b",
-			"supportedApps": ["balanced", "xcall", "hanawallet"],
+			"supportedApps": ["balanced", "xcall", "hana"],
 			"page": {
 				"description": "BNB is the native cryptocurrency for Binance and its blockchain, BNB Chain (BSC).\n\nYou can trade BNB on the [Balanced exchange](https://app.balanced.network/trade), transfer it to supported blockchains, and supply it as liquidity.",
 				"colors": {
