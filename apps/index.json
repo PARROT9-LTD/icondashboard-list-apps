@@ -214,7 +214,7 @@
 					"metaText": "#707990",
 					"metaLink": "#9D4DF1",
 					"metaLinkActive": "#00D3C2",
-					"socialIconBg": "#9D4DF1"
+					"socialIconBg": "#ffffff"
 				},
 				"meta": {
 					"releasedOn": "August 26, 2021",
@@ -404,14 +404,14 @@
 				},
 				"description": "Blobble is a tamagotchi-style game that combines the charm of virtual pets with the power of blockchain technology. Mint a Blobble for 60 bnUSD, and keep it healthy to earn rewards in the form of BST (Blobble Stake Token). The older your Blobble, the more you’ll earn.\n\nOwners beware: Blobbles require food, drink, and love to stay healthy. You can do this for free if you check in each day (minus a small transaction fee), or pay 2.44 BST to maintain its health for a week. If you forget to take care of your Blobble, it will be sent to the orphanage for someone else to adopt and you’ll no longer earn BST.",
 				"colors": {
-					"heading": "#12025E",
+					"heading": "#2395A0",
 					"topInfoText": "#ffffff",
 					"galleryBorder": "#12025E",
 					"galleryHoverBg": "#12025E",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#BE00DD",
-					"metaLinkActive": "#BE00DD",
+					"metaLink": "#F1FF96",
+					"metaLinkActive": "#F7FFC4",
 					"socialIconBg": "#BE00DD"
 				},
 				"meta": {
@@ -1027,13 +1027,13 @@
 			"page": {
 				"description": "ICX is the native cryptocurrency of the ICON blockchain. It’s required to pay for transactions, and you can stake it via [Hana](/app/hana) or [Omm](/app/omm) to earn additional ICX.\n\nICX from transaction fees gets burned, with the idea that it becomes deflationary as usage increases. In 2024, the ICON blockchain [economically enshrined](https://blog.balanced.network/economic-enshrinement) Balanced: it uses ICX emissions to provide incentives and network-owned liquidity, and in return, Balanced dedicates 50% of its revenue to buy and burn ICX.",
 				"colors": {
-					"heading": "#586b80",
+					"heading": "#03a0ae",
 					"topInfoText": "#ffffff",
-					"chartColor": "#46bfd1",
+					"chartColor": "#03a0ae",
 					"metaText": "#ffffff",
-					"metaLink": "#03848D",
-					"metaLinkActive": "#46bfd1",
-					"socialIconBg": "#03848D"
+					"metaLink": "#B4EAEE",
+					"metaLinkActive": "#DBF5F7",
+					"socialIconBg": "#03949E"
 				},
 				"meta": {
 					"release": "December 2017",
@@ -1080,7 +1080,7 @@
 					"metaText": "#49546a",
 					"metaLink": "#9D4DF1",
 					"metaLinkActive": "#00D3C2",
-					"socialIconBg": "#9D4DF1"
+					"socialIconBg": "#ffffff"
 				},
 				"meta": {
 					"release": "August 31, 2021",
@@ -1170,8 +1170,8 @@
 					"topInfoText": "#9D4DF1",
 					"chartColor": "#9D4DF1",
 					"metaText": "#ffffff",
-					"metaLink": "#D3B0F7",
-					"metaLinkActive": "#ffffff",
+					"metaLink": "#E0C9F9",
+					"metaLinkActive": "#F0E5FC",
 					"socialIconBg": "#8B2EEF"
 				},
 				"meta": {
@@ -1268,7 +1268,7 @@
 					"metaText": "#905E00",
 					"metaLink": "#078598",
 					"metaLinkActive": "#18DAF3",
-					"socialIconBg": "#FFF100"
+					"socialIconBg": "#BEB100"
 				},
 				"meta": {
 					"release": "April 26, 2021",
