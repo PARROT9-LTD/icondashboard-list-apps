@@ -139,9 +139,9 @@
 					"galleryHoverBg": "#03a0ae",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#71D7DF",
-					"metaLinkActive": "#ffffff",
-					"socialIconBg": "#03a0ae"
+					"metaLink": "#B4EAEE",
+					"metaLinkActive": "#DBF5F7",
+					"socialIconBg": "#03949E"
 				},
 				"meta": {
 					"releasedOn": "October 5, 2023",
@@ -207,7 +207,7 @@
 				"description": "Omm is a liquid staking app on the ICON blockchain. It converts ICX to Staked ICX (sICX), an asset that earns staking rewards while remaining available to use.\n\nOmm is a community-owned project with a governance token called OMM. Lock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain. Market participants can still withdraw their funds from [markets.omm.finance](https://markets.omm.finance/).",
 				"colors": {
 					"heading": "#707990",
-					"topInfoText": "#ffffff",
+					"topInfoText": "#707990",
 					"galleryBorder": "#49546a",
 					"galleryHoverBg": "#49546a",
 					"galleryText": "#ffffff",
@@ -305,8 +305,8 @@
 					"galleryHoverBg": "#00AC97",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#15FFE0",
-					"metaLinkActive": "#00AC97",
+					"metaLink": "#70D1C8",
+					"metaLinkActive": "#ACE4DE",
 					"socialIconBg": "#00AC97"
 				},
 				"meta": {
@@ -461,9 +461,9 @@
 					"galleryHoverBg": "#03a0ae",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#71D7DF",
-					"metaLinkActive": "#ffffff",
-					"socialIconBg": "#03848D"
+					"metaLink": "#B4EAEE",
+					"metaLinkActive": "#DBF5F7",
+					"socialIconBg": "#03949E"
 				},
 				"meta": {
 					"releasedOn": "May 2022",
@@ -524,15 +524,15 @@
 				},
 				"description": "GangstaVerse is a virtual world built on the ICON blockchain. It includes digital collectibles, an immersive battle game, a virtual city with land to own, and more.\n\nGangstaVerse began with GangstaBet, a collection of 5,555 unique Gangster and Detective NFTs which were inspired by the classic nineties gangster movies. Each character includes their own story and skill level progression, which you can upgrade by burning the GBET token.\n\nThe GangstaVerse also includes Emerald City, which is controlled by GangstaBet characters, and GangWars, a game where GangstaBet characters battle each other. More cities and games are on the horizon as GangstaVerse explores ICON’s cross-chain technology.",
 				"colors": {
-					"heading": "#171717",
+					"heading": "#29949F",
 					"topInfoText": "#ffffff",
-					"galleryBorder": "#171717",
-					"galleryHoverBg": "#171717",
+					"galleryBorder": "#29949F",
+					"galleryHoverBg": "#29949F",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#01AAC1",
-					"metaLinkActive": "#01AAC1",
-					"socialIconBg": "#01AAC1"
+					"metaLink": "#7BD5DD",
+					"metaLinkActive": "#C2EBEF",
+					"socialIconBg": "#7BD5DD"
 				},
 				"meta": {
 					"releasedOn": "August 2021",
@@ -629,14 +629,14 @@
 				},
 				"description": "FRĀMD is an “Art-Fi” protocol on the ICON blockchain, designed to overcome siloes and low liquidity within the NFT space.\n\nTheir economic framework unites separate projects through a shared economy, which is powered by the FRMD token.\n\nThe FRĀMD team work on NFT projects that are part of their Art-Fi ecosystem, including the *Yeti Strong Club* collection and a play-to-earn trading card game called *Thaenia – Dark Tides*. They’re also an ICON validator, and provide incentives to ICX and OMM holders who vote for them.\n\nIn June 2024, the FRĀMD team announced they would be discontinuing the project.",
 				"colors": {
-					"heading": "#08043C",
+					"heading": "#1F123E",
 					"topInfoText": "#ffffff",
-					"galleryBorder": "#08043C",
-					"galleryHoverBg": "#08043C",
+					"galleryBorder": "#1F123E",
+					"galleryHoverBg": "#1F123E",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
 					"metaLink": "#ff9900",
-					"metaLinkActive": "#ff9900",
+					"metaLinkActive": "#FFB74C",
 					"socialIconBg": "#ff9900"
 				},
 				"meta": {
@@ -812,7 +812,7 @@
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
 					"metaLink": "#9BF2D7",
-					"metaLinkActive": "#ffffff",
+					"metaLinkActive": "#BBF6E3",
 					"socialIconBg": "#15B583"
 				},
 				"meta": {
@@ -982,7 +982,7 @@
 					"chartColor": "#2ca9b7",
 					"metaText": "#ffffff",
 					"metaLink": "#46bfd1",
-					"metaLinkActive": "#2ca9b7",
+					"metaLinkActive": "#7AD2DD",
 					"socialIconBg": "#46bfd1"
 				},
 				"meta": {
@@ -1076,7 +1076,7 @@
 				"colors": {
 					"heading": "#49546a",
 					"topInfoText": "#49546a",
-					"chartColor": "#49546a",
+					"chartColor": "#9D4DF1",
 					"metaText": "#49546a",
 					"metaLink": "#9D4DF1",
 					"metaLinkActive": "#00D3C2",
@@ -1124,8 +1124,8 @@
 					"topInfoText": "#ffffff",
 					"chartColor": "#00AC97",
 					"metaText": "#ffffff",
-					"metaLink": "#00AC97",
-					"metaLinkActive": "#00AC97",
+					"metaLink": "#4AFFE7",
+					"metaLinkActive": "#BBFFF6",
 					"socialIconBg": "#00AC97"
 				},
 				"meta": {
@@ -1262,12 +1262,12 @@
 			"page": {
 				"description": "CROWN is the governance token for GangstaVerse’s Emerald City. It’s designed to fuel the entire economy of the city, and will be used as a currency and reward for various in-game activities, like GangWars.",
 				"colors": {
-					"heading": "#586B80",
-					"topInfoText": "#ffffff",
+					"heading": "#905E00",
+					"topInfoText": "#905E00",
 					"chartColor": "#586B80",
-					"metaText": "#ffffff",
-					"metaLink": "#FFF100",
-					"metaLinkActive": "#FFF100",
+					"metaText": "#905E00",
+					"metaLink": "#078598",
+					"metaLinkActive": "#18DAF3",
 					"socialIconBg": "#FFF100"
 				},
 				"meta": {
@@ -1381,7 +1381,7 @@
 					"chartColor": "#29949F",
 					"metaText": "#ffffff",
 					"metaLink": "#BBF7FF",
-					"metaLinkActive": "#ffffff",
+					"metaLinkActive": "#E3FCFF",
 					"socialIconBg": "#237F88"
 				},
 				"meta": {
@@ -1422,8 +1422,8 @@
 					"topInfoText": "#ffffff",
 					"chartColor": "#2395A0",
 					"metaText": "#ffffff",
-					"metaLink": "#E9FE69",
-					"metaLinkActive": "#ffffff",
+					"metaLink": "#F1FF96",
+					"metaLinkActive": "#F7FFC4",
 					"socialIconBg": "#E9FE69"
 				},
 				"meta": {
@@ -1615,13 +1615,13 @@
 			"page": {
 				"description": "USDC is a centralised stablecoin created by Circle for rapid global payments and 24/7 financial markets. It’s regulated, and can always be redeemed 1:1 for US dollars.\n\nUSDC is available to trade and transfer via [Balanced](https://balanced.network/) on ICON, Arbitrum, Archway, Avalanche, Base, and BNB Chain. And you’re guaranteed a 1:1 rate when you trade USDC for [bnUSD](/token/bnUSD).",
 				"colors": {
-					"heading": "#EBEBEB",
-					"topInfoText": "#EBEBEB",
-					"chartColor": "#EBEBEB",
-					"metaText": "#EBEBEB",
-					"metaLink": "#EBEBEB",
-					"metaLinkActive": "#EBEBEB",
-					"socialIconBg": "#EBEBEB"
+					"heading": "#2775CA",
+					"topInfoText": "#ffffff",
+					"chartColor": "#2775CA",
+					"metaText": "#ffffff",
+					"metaLink": "#B1CFEF",
+					"metaLinkActive": "#D9E7F7",
+					"socialIconBg": "#B1CFEF"
 				},
 				"meta": {
 					"release": "March 2024",
