@@ -1031,8 +1031,8 @@
 					"topInfoText": "#ffffff",
 					"chartColor": "#46bfd1",
 					"metaText": "#ffffff",
-					"metaLink": "#46bfd1",
-					"metaLinkActive": "#03848D",
+					"metaLink": "#03848D",
+					"metaLinkActive": "#46bfd1",
 					"socialIconBg": "#03848D"
 				},
 				"meta": {
@@ -1041,11 +1041,11 @@
 					"tags": ["Governance", "Staking"],
 					"links": [
 						{
-							"name": "Foundation website",
+							"name": "Foundation site",
 							"url": "https://icon.foundation/"
 						},
 						{
-							"name": "Community website",
+							"name": "Community site",
 							"url": "https://icon.community/"
 						},
 						{
