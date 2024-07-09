@@ -978,7 +978,7 @@
 					"chartColor": "#0c2a4d",
 					"metaText": "#ffffff",
 					"metaLink": "#46bfd1",
-					"metaLinkActive": "#2ca9b7",
+					"metaLinkActive": "#7AD2DD",
 					"socialIconBg": "#46bfd1"
 				},
 				"meta": {
@@ -1025,7 +1025,7 @@
 				"colors": {
 					"heading": "#49546a",
 					"topInfoText": "#49546a",
-					"chartColor": "#49546a",
+					"chartColor": "#9D4DF1",
 					"metaText": "#49546a",
 					"metaLink": "#9D4DF1",
 					"metaLinkActive": "#00D3C2",
@@ -1073,8 +1073,8 @@
 					"topInfoText": "#ffffff",
 					"chartColor": "#00AC97",
 					"metaText": "#ffffff",
-					"metaLink": "#00AC97",
-					"metaLinkActive": "#00AC97",
+					"metaLink": "#4AFFE7",
+					"metaLinkActive": "#BBFFF6",
 					"socialIconBg": "#00AC97"
 				},
 				"meta": {
@@ -1211,12 +1211,12 @@
 			"page": {
 				"description": "CROWN is the governance token for GangstaVerse's Emerald City. It's designed to fuel the entire economy of the city, and will be used as a currency and reward for various in-game activities, like GangWars.",
 				"colors": {
-					"heading": "#586B80",
-					"topInfoText": "#ffffff",
+					"heading": "#905E00",
+					"topInfoText": "#905E00",
 					"chartColor": "#586B80",
-					"metaText": "#ffffff",
-					"metaLink": "#FFF100",
-					"metaLinkActive": "#FFF100",
+					"metaText": "#905E00",
+					"metaLink": "#078598",
+					"metaLinkActive": "#18DAF3",
 					"socialIconBg": "#FFF100"
 				},
 				"meta": {
@@ -1330,7 +1330,7 @@
 					"chartColor": "#29949F",
 					"metaText": "#ffffff",
 					"metaLink": "#BBF7FF",
-					"metaLinkActive": "#ffffff",
+					"metaLinkActive": "#E3FCFF",
 					"socialIconBg": "#237F88"
 				},
 				"meta": {
@@ -1371,8 +1371,8 @@
 					"topInfoText": "#ffffff",
 					"chartColor": "#2395A0",
 					"metaText": "#ffffff",
-					"metaLink": "#E9FE69",
-					"metaLinkActive": "#ffffff",
+					"metaLink": "#F1FF96",
+					"metaLinkActive": "#F7FFC4",
 					"socialIconBg": "#E9FE69"
 				},
 				"meta": {
@@ -1540,13 +1540,13 @@
 			"page": {
 				"description": "Built by Circle for rapid, global payments and 24/7 financial markets, USDC is a regulated, digital currency that can always be redeemed 1:1 for US dollars.",
 				"colors": {
-					"heading": "#EBEBEB",
-					"topInfoText": "#EBEBEB",
-					"chartColor": "#EBEBEB",
-					"metaText": "#EBEBEB",
-					"metaLink": "#EBEBEB",
-					"metaLinkActive": "#EBEBEB",
-					"socialIconBg": "#EBEBEB"
+					"heading": "#2775CA",
+					"topInfoText": "#ffffff",
+					"chartColor": "#2775CA",
+					"metaText": "#ffffff",
+					"metaLink": "#B1CFEF",
+					"metaLinkActive": "#D9E7F7",
+					"socialIconBg": "#B1CFEF"
 				},
 				"meta": {
 					"release": "March 2024",
