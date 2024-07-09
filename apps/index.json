@@ -1027,14 +1027,12 @@
 			"page": {
 				"description": "ICX is the native cryptocurrency of the ICON blockchain. It’s required to pay for transactions, and you can stake it via [Hana](/app/hana) or [Omm](/app/omm) to earn additional ICX.\n\nICX from transaction fees gets burned, with the idea that it becomes deflationary as usage increases. In 2024, the ICON blockchain [economically enshrined](https://blog.balanced.network/economic-enshrinement) Balanced: it uses ICX emissions to provide incentives and network-owned liquidity, and in return, Balanced dedicates 50% of its revenue to buy and burn ICX.",
 				"colors": {
-					"heading": "#03a0ae",
+					"heading": "#586b80",
 					"topInfoText": "#ffffff",
-					"galleryBorder": "#03a0ae",
-					"galleryHoverBg": "#03a0ae",
-					"galleryText": "#ffffff",
+					"chartColor": "#46bfd1",
 					"metaText": "#ffffff",
-					"metaLink": "#71D7DF",
-					"metaLinkActive": "#ffffff",
+					"metaLink": "#46bfd1",
+					"metaLinkActive": "#03848D",
 					"socialIconBg": "#03848D"
 				},
 				"meta": {
