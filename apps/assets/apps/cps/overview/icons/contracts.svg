@@ -28,8 +28,8 @@
     </g>
     
     <defs>
-        <radialGradient id="_cpsRadial41" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(84.1107,-1.06279e-14,1.03006e-14,86.7836,85.2325,124.644)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.5"/><stop offset="1" style="stop-color:#01002A;stop-opacity:0"/></radialGradient>
-        <linearGradient id="_cpsLinear45" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(64.4017,0,0,64.4017,102.527,92.457)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.3"/><stop offset="1" style="stop-color:#01002A;stop-opacity:1"/></linearGradient>
+        <radialGradient id="_cpsRadial41" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(84.1107,-1.06279e-14,1.03006e-14,86.7836,85.2325,124.644)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.2"/><stop offset="1" style="stop-color:#01002A;stop-opacity:0"/></radialGradient>
+        <linearGradient id="_cpsLinear45" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(64.4017,0,0,64.4017,102.527,92.457)"><stop offset="0" style="stop-color:#000000;stop-opacity:0.2"/><stop offset="1" style="stop-color:#01002A;stop-opacity:1"/></linearGradient>
         <linearGradient id="_cpsLinear46" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2.99044e-14,106.255,-78.1086,-4.06804e-14,69.1368,26.4919)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(211,237,245);stop-opacity:1"/></linearGradient>
         <radialGradient id="_cpsRadial45" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-44.863,0,0,-64.5432,50.4825,62.9049)"><stop offset="0" style="stop-color:rgb(22,7,58);stop-opacity:0.6"/><stop offset="1" style="stop-color:rgb(225,230,242);stop-opacity:0"/></radialGradient>
     </defs>

@@ -53,7 +53,7 @@
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
 					"metaLink": "#46bfd1",
-					"metaLinkActive": "#46bfd1",
+					"metaLinkActive": "#72CEDA",
 					"socialIconBg": "#46bfd1"
 				},
 				"meta": {
@@ -530,8 +530,8 @@
 					"galleryHoverBg": "#29949F",
 					"galleryText": "#ffffff",
 					"metaText": "#ffffff",
-					"metaLink": "#7BD5DD",
-					"metaLinkActive": "#C2EBEF",
+					"metaLink": "#A3E2E6",
+					"metaLinkActive": "#D5F1F3",
 					"socialIconBg": "#7BD5DD"
 				},
 				"meta": {
@@ -1167,7 +1167,7 @@
 				"description": "sICX is a liquid staking token for ICX, the main cryptocurrency of the ICON blockchain. You can use it to earn ICX staking rewards without losing access to your tokens. Every sICX you hold entitles you to a share of the ICX staking pool, and the ICX value increases over time based on the ICON reward rate.\n\nsICX makes it easy to move your funds when you need them. Pay a 1% fee to swap sICX for ICX via [Balanced](https://balanced.network/) or [Omm](https://omm.finance/), or join the unstaking queue to wait anywhere from 1 hour, up to the regular ICX unstaking time of ~7 days.\n\nsICX represents staked ICX, so it holds voting power in ICON’s governance system. By default, the Omm community decides where those votes go, but you can use the Omm app to manage your delegation and see which validators offer voting incentives.",
 				"colors": {
 					"heading": "#9D4DF1",
-					"topInfoText": "#9D4DF1",
+					"topInfoText": "#ffffff",
 					"chartColor": "#9D4DF1",
 					"metaText": "#ffffff",
 					"metaLink": "#E0C9F9",
@@ -1264,7 +1264,7 @@
 				"colors": {
 					"heading": "#905E00",
 					"topInfoText": "#905E00",
-					"chartColor": "#586B80",
+					"chartColor": "#905E00",
 					"metaText": "#905E00",
 					"metaLink": "#078598",
 					"metaLinkActive": "#18DAF3",
@@ -1532,11 +1532,11 @@
 				"description": "On ICON, BTC represents bitcoin sourced from several blockchains, like WBTC (Arbitrum) and BTCB (BNB Chain), which [Balanced](https://balanced.network/) unified under a single token ticker for an improved cross-chain experience.\n\nYou can trade BTC on the [Balanced exchange](https://app.balanced.network/trade), transfer it to supported blockchains, and supply it as liquidity.",
 				"colors": {
 					"heading": "#F7931A",
-					"topInfoText": "#F7931A",
+					"topInfoText": "#ffffff",
 					"chartColor": "#F7931A",
 					"metaText": "#ffffff",
 					"metaLink": "#FBCF9C",
-					"metaLinkActive": "#ffffff",
+					"metaLinkActive": "#FDE7CD",
 					"socialIconBg": "#D97808"
 				},
 				"meta": {
