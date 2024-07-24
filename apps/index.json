@@ -1074,10 +1074,10 @@
 			"page": {
 				"description": "OMM is the governance token for [Omm](https://omm.finance/), a liquid staking app on the ICON blockchain.\n\nLock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain.",
 				"colors": {
-					"heading": "#49546a",
-					"topInfoText": "#49546a",
+					"heading": "#707990",
+					"topInfoText": "#707990",
 					"chartColor": "#9D4DF1",
-					"metaText": "#49546a",
+					"metaText": "#707990",
 					"metaLink": "#9D4DF1",
 					"metaLinkActive": "#00D3C2",
 					"socialIconBg": "#ffffff"
@@ -1263,11 +1263,11 @@
 				"description": "CROWN is the governance token for GangstaVerse’s Emerald City. It’s designed to fuel the entire economy of the city, and will be used as a currency and reward for various in-game activities, like GangWars.",
 				"colors": {
 					"heading": "#905E00",
-					"topInfoText": "#905E00",
+					"topInfoText": "#ffffff",
 					"chartColor": "#905E00",
-					"metaText": "#905E00",
-					"metaLink": "#078598",
-					"metaLinkActive": "#18DAF3",
+					"metaText": "#ffffff",
+					"metaLink": "#BBF7FF",
+					"metaLinkActive": "#E3FCFF",
 					"socialIconBg": "#BEB100"
 				},
 				"meta": {
