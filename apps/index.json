@@ -1074,10 +1074,10 @@
 			"page": {
 				"description": "OMM is the governance token for [Omm](https://omm.finance/), a liquid staking app on the ICON blockchain.\n\nLock OMM for 1 week – 4 years to hold bOMM, a non-transferrable token that gives you the ability to vote for ICON validators and participate in governance.\n\nPrior to January 2024, Omm provided a money market for assets on the ICON blockchain.",
 				"colors": {
-					"heading": "#49546a",
-					"topInfoText": "#49546a",
+					"heading": "#707990",
+					"topInfoText": "#707990",
 					"chartColor": "#9D4DF1",
-					"metaText": "#49546a",
+					"metaText": "#707990",
 					"metaLink": "#9D4DF1",
 					"metaLinkActive": "#00D3C2",
 					"socialIconBg": "#ffffff"
