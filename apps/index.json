@@ -60,7 +60,8 @@
 					"releasedOn": "April 25, 2021",
 					"tagLine": "The cross-chain stablecoin and exchange crafted for simplicity.",
 					"tags": ["DeFi", "Stablecoin", "DEX"],
-					"availableOn": ["ICON", "Arbitrum", "Archway", "Avalanche", "Base", "BNB Chain"],
+					"availableOn": ["Arbitrum", "Archway", "Avalanche", "Base", "BNB Chain", "Havah", "ICON", "Injective", "Optimism", "Solana", "Stellar", "Sui"],
+					"tags": ["DeFi", "Stablecoin"],
 					"links": [
 						{
 							"name": "Website",
@@ -88,9 +89,9 @@
 						}
 					],
 					"socials": {
-						"twitter": "https://twitter.com/BalancedDAO",
+						"twitter": "https://twitter.com/BalancedDeFi",
 						"reddit": "https://www.reddit.com/r/BalancedNetwork/",
-						"discord": "https://discord.com/invite/DCa53m9wPq"
+						"discord": "https://discord.com/invite/7z2vKaj7pj"
 					}
 				}
 			},
@@ -987,7 +988,8 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON"],
+					"availableOn": ["Arbitrum", "Avalanche", "Base", "BNB Chain", "ICON", "Injective", "Optimism", "Solana", "Stellar", "Sui"],
+					"tags": ["DeFi", "Stablecoin"],
 					"tags": ["DeFi", "Governance"],
 					"links": [
 						{
@@ -1012,8 +1014,8 @@
 						}
 					],
 					"socials": {
-						"discord": "https://discord.com/invite/DCa53m9wPq",
-						"twitter": "https://twitter.com/BalancedDAO"
+						"discord": "https://discord.com/invite/7z2vKaj7pj",
+						"twitter": "https://twitter.com/BalancedDeFi"
 					}
 				}
 			}
@@ -1222,7 +1224,7 @@
 				},
 				"meta": {
 					"release": "April 26, 2021",
-					"availableOn": ["ICON", "Arbitrum", "Archway", "Avalanche", "Base", "BNB Chain"],
+					"availableOn": ["Arbitrum", "Archway", "Avalanche", "Base", "BNB Chain", "Havah", "ICON", "Injective", "Optimism", "Solana", "Stellar", "Sui"],
 					"tags": ["DeFi", "Stablecoin"],
 					"links": [
 						{
@@ -1247,8 +1249,8 @@
 						}
 					],
 					"socials": {
-						"discord": "https://discord.com/invite/DCa53m9wPq",
-						"twitter": "https://twitter.com/BalancedDAO"
+						"discord": "https://discord.com/invite/7z2vKaj7pj",
+						"twitter": "https://twitter.com/BalancedDeFi"
 					}
 				}
 			}
